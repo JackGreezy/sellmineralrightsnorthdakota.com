@@ -1,0 +1,76 @@
+{
+ "slug": "royalty-statements-guide",
+ "title": "Reading Your Royalty Statements",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Read North Dakota Royalty Statements",
+ "metaDescription": "A line-by-line guide to reading North Dakota royalty statements, including multi-well Bakken statements and the deductions taken out of your check.",
+ "heroLead": "A North Dakota royalty statement can run several pages of tiny numbers when you own interests across multiple wells, and most owners have never had anyone walk them through what it actually says.",
+ "intro": [
+  "The first multi-well statement I ever tried to read looked like a spreadsheet someone forgot to format for humans. Rows and rows of well names, decimal interests, deduction codes, all crammed onto legal-size paper. It took me an evening with my dad and a calculator to understand it wasn't complicated, it was just dense. Once you know what each column means, it reads a lot faster."
+ ],
+ "sections": [
+  {
+   "heading": "The basics: what each line represents",
+   "paragraphs": [
+    "Every royalty statement repeats a few core pieces of information for each well: the well name and API number, your decimal interest in that well, the product sold (oil, gas, or natural gas liquids), the volume produced attributable to your interest, the price received, and the deductions taken before your net check amount. If you own interests in several wells, a multi-well statement simply repeats this block for each one, then totals everything at the bottom.",
+    "Your decimal interest should match what's on your division order for that well. If it doesn't, that's the first thing to flag with the operator's owner relations department, since a mismatched decimal is one of the more common statement errors."
+   ]
+  },
+  {
+   "heading": "Reading a multi-well Bakken statement",
+   "paragraphs": [
+    "Because so many North Dakota mineral owners hold fractional interests across large spacing units, it's common to see royalty income coming from several wells on the same unit, sometimes six or eight wells drilled in phases over a few years. Each well will show its own volume and price, since wells brought online at different times will be at different points on their decline curve, some near peak production and others well into decline.",
+    "Don't be surprised if the total check amount shifts noticeably month to month, even without anything going wrong. Oil and gas prices move, a well might be shut in temporarily for maintenance or offset drilling nearby, and production naturally declines over time. Look at trends over several months rather than reacting to any single statement."
+   ]
+  },
+  {
+   "heading": "Understanding deductions",
+   "paragraphs": [
+    "Most North Dakota royalty statements include deductions for post-production costs, things like gathering, transportation, processing, and compression, taken out before you're paid, depending on your specific lease language. Some older leases have language limiting or prohibiting certain deductions, which is part of why keeping a copy of your original lease matters even years after signing it.",
+    "Common deduction codes include GTH for gathering, TRANS for transportation, PROC for processing, and COMP for compression, though exact labels vary by operator. If deductions on your statement seem unusually high relative to the gross value, or if they've increased notably without explanation, it's worth a direct call to the operator asking them to itemize it."
+   ]
+  },
+  {
+   "heading": "Checking your statement against what you expect",
+   "paragraphs": [
+    "Compare production volumes and prices to nearby wells if you can find that data through the North Dakota Industrial Commission's public records, which track monthly production by well. This won't tell you exactly what you should be paid, since deductions and pricing arrangements vary, but it gives you a reasonable sanity check against wild swings that don't match what the field is actually doing.",
+    "If you're weighing whether to keep collecting royalty income long term or sell your interest outright, your statements are also the best evidence of real production history, and a serious buyer will always want to see them before making a firm offer.",
+    "It's worth setting aside a folder, physical or digital, just for these statements, sorted by well, so you can pull up several months of history in one place instead of digging through a stack of mail every time a question comes up."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why does my royalty check change every month?",
+   "answer": "Oil and gas prices fluctuate, well production naturally declines over time, and wells are occasionally shut in for maintenance or nearby drilling, all of which cause month-to-month variation that's normal rather than a sign of a mistake."
+  },
+  {
+   "question": "What are post-production deductions?",
+   "answer": "These are costs for gathering, transporting, processing, and compressing the oil or gas after it leaves the wellhead, which some leases allow the operator to deduct from your royalty before paying you."
+  },
+  {
+   "question": "How do I know if my decimal interest is correct?",
+   "answer": "Compare it to the decimal shown on your original division order for that well. If they don't match, or if you never received a division order for a well appearing on your statement, contact the operator's owner relations department."
+  },
+  {
+   "question": "Can I dispute deductions I think are too high?",
+   "answer": "Yes, you can request an itemized breakdown from the operator and compare it against your lease language, which may limit certain deductions depending on how it was originally negotiated."
+  },
+  {
+   "question": "Should I keep old royalty statements?",
+   "answer": "Yes, keep them filed by well name for at least several years. They're useful for tax records, for spotting errors over time, and for supporting any future sale of your minerals."
+  },
+  {
+   "question": "What does it mean if a well on my statement suddenly shows zero production?",
+   "answer": "This can happen for legitimate reasons, including temporary shut-ins for maintenance, offset well fracturing nearby, or seasonal restrictions, but if it persists for several months without explanation, it's worth calling the operator to ask directly."
+  }
+ ],
+ "wordCount": 906,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-royalty-statements-guide-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "Reading Your Royalty Statements mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "slug": "home",
+ "title": "Home",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Sell North Dakota Mineral Rights | Family Buyer",
+ "metaDescription": "A fourth-generation North Dakota ranch family that buys mineral rights directly, from producing Bakken acreage to inherited interests out of state.",
+ "heroLead": "We're a fourth-generation North Dakota ranch family who sold our own minerals once, and we buy mineral interests directly from owners across the state today.",
+ "intro": [
+  "If you own mineral rights in North Dakota, whether that's forty acres your grandparents held onto in McKenzie County or a fractional interest you inherited and have never fully understood, you've probably gotten letters from buyers you've never heard of. We're not a call center working off a mailing list. We're a ranch family from western North Dakota who went through the sale of our own family minerals, and we buy other owners' interests the way we wish someone had bought ours."
+ ],
+ "sections": [
+  {
+   "heading": "Producing, leased, or undeveloped, we look at all of it",
+   "paragraphs": [
+    "Some owners we work with have minerals under an active Bakken or Three Forks well, with royalty checks arriving every month. Others have acreage that's leased but not yet drilled, waiting to see what an operator decides. Others still hold undeveloped minerals with no lease at all. We evaluate all three, using your county's position in the play, nearby drilling activity, and any production history you can share, rather than treating every acre the same regardless of what's actually happening on it.",
+    "If you're not sure which category your minerals fall into, that's a normal starting point for a conversation, not a barrier to having one."
+   ]
+  },
+  {
+   "heading": "Built for nonresident heirs especially",
+   "paragraphs": [
+    "A large share of North Dakota mineral ownership sits with heirs who live in another state, sometimes people who've never seen the ranch or farm their family's minerals sit under. Managing royalty statements, division orders, and lease renewals from a distance for land you've never visited is a real burden, and it's one we understand from our own extended family, some of whom moved away generations back and still hold a piece of the home place's minerals.",
+    "We handle documents by mail, calls on your schedule, and closings that don't require travel to North Dakota, because most of the owners we work with can't make that trip easily even if they wanted to."
+   ]
+  },
+  {
+   "heading": "Real numbers, explained plainly",
+   "paragraphs": [
+    "Value depends on your specific acreage: which county, whether there's a producing well and how far along its decline curve, what nearby operators have been doing. We'll walk you through how we reached our number instead of handing you a flat figure with no explanation. Values move with oil prices and drilling activity, so we talk in ranges tied to what's happening now rather than promises about the future.",
+    "If you'd rather compare our offer against another buyer's, that's fine. We'd rather earn the deal on a fair number than on being the only call you made."
+   ]
+  },
+  {
+   "heading": "Rooted here, not passing through",
+   "paragraphs": [
+    "This is home. We know the counties, the county recorders' offices, the operators active in the Bakken and Three Forks, and what it means to hold onto land that's been in a family for four generations. When you talk to us, you're talking to people who understand what that land means, whether you're ready to sell it or just starting to ask questions about what you own.",
+    "If you're not ready to decide anything today, that's fine. Reach out, ask your questions, and take the time you need. We'll still be here when you're ready, and we'd rather answer questions honestly now than rush a decision you second-guess later. That's the same approach we'd have wanted from whoever bought our own family's minerals, and it's the standard we hold ourselves to with every owner we talk to, whether your acreage sits in the core producing counties or out on the fringe of the play."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What areas of North Dakota do you buy minerals in?",
+   "answer": "We evaluate mineral interests across North Dakota, with particular experience in the core Bakken and Three Forks counties including McKenzie, Mountrail, Williams, and Dunn, though we look at acreage statewide."
+  },
+  {
+   "question": "Do I need to be a North Dakota resident to sell to you?",
+   "answer": "No, we work with owners nationwide, and the process is designed to be completed entirely by mail and phone without requiring travel."
+  },
+  {
+   "question": "How do you determine what my minerals are worth?",
+   "answer": "We look at your county's position within the Bakken and Three Forks play, any production history from wells on your unit, and recent nearby drilling activity, and we explain the reasoning behind our number."
+  },
+  {
+   "question": "Is there any cost to getting an offer?",
+   "answer": "No, requesting an offer is free and doesn't obligate you to accept it or move forward."
+  },
+  {
+   "question": "What if my mineral interest is shared with other family members?",
+   "answer": "We regularly work with co-owned interests split among siblings, cousins, or other heirs, and can walk you through how deeds and closing work when multiple people are involved."
+  },
+  {
+   "question": "What if I've never gotten a royalty check and don't know if I own producing minerals?",
+   "answer": "That's a common starting point. Give us the county and any name your family's interest might be recorded under, and we can help check whether a well is producing on your unit."
+  }
+ ],
+ "wordCount": 859,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-home-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "Home mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

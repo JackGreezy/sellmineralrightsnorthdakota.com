@@ -1,0 +1,68 @@
+{
+ "slug": "non-participating-royalty",
+ "title": "Non-Participating Royalty (NPRI)",
+ "type": "interest-type",
+ "metaTitle": "NPRI in North Dakota: What Non-Participating Royalty Means",
+ "metaDescription": "Own a non-participating royalty interest under North Dakota Bakken acreage? Here is what NPRI means, how it's different, and what it's worth selling.",
+ "heroLead": "My uncle held a royalty check for years off a piece of ground he had no say over whatsoever, no lease to sign, no say in the operator, just a decimal interest and a statement in the mail.",
+ "intro": [
+  "A non-participating royalty interest, usually shortened to NPRI, is a share of oil and gas production income carved out from the mineral estate, without any of the rights that come with owning the minerals outright. The NPRI owner gets a percentage of production revenue when a well is drilled and producing, but has no say in whether or when the land gets leased, doesn't share in bonus or delay rental payments the way a full mineral owner would, and has no executive rights to negotiate lease terms.",
+  "NPRIs show up across North Dakota most often through older deeds where a family reserved a royalty when selling their mineral rights outright, or through estate planning where a parent wanted to pass income to one heir while keeping leasing control with another."
+ ],
+ "sections": [
+  {
+   "heading": "Reading your deed to confirm what you actually hold",
+   "paragraphs": [
+    "The deed language matters enormously here. Look for whether it says you're reserved or granted a royalty specifically, separate from the mineral estate, versus language conveying the full mineral interest including executive rights. Terms like non-participating are usually stated directly, but older deeds, especially handwritten or typewritten ones from decades back, can be ambiguous enough that a title examiner needs to weigh in.",
+    "Your royalty statement itself won't tell you whether you're an NPRI holder or a full mineral owner receiving lease royalty, since both look similar on the check. The deed is what settles it."
+   ]
+  },
+  {
+   "heading": "How an NPRI differs from a full mineral or standard royalty interest",
+   "paragraphs": [
+    "A full mineral owner controls leasing and collects bonus, delay rental, and royalty. A standard royalty interest owner, created through a lease, collects royalty on production but that interest generally ends if the lease terminates. An NPRI is different again, it's a royalty carved directly out of the mineral estate itself, independent of any particular lease, meaning it can survive lease terminations and continues as long as the underlying mineral interest it was carved from exists.",
+    "Because an NPRI owner has no executive rights, they're entirely dependent on whoever does hold those rights to actually get the tract leased in the first place. If the mineral owner never leases, an NPRI produces no income at all, regardless of activity on nearby tracts."
+   ]
+  },
+  {
+   "heading": "What buyers look at when pricing an NPRI",
+   "paragraphs": [
+    "Because an NPRI is dependent on the mineral owner's leasing decisions and doesn't include bonus or delay rental income, it's generally valued primarily off actual production, your decimal interest, and the strength and remaining life of the current lease, if the tract is already producing. An NPRI on undeveloped ground, with no current lease, carries more uncertainty since there's no guarantee the mineral owner will ever lease it.",
+    "Selling an NPRI works the same procedurally as selling any mineral interest, a deed transfers your royalty position, but the valuation conversation is a little different because of what rights you don't hold, which is worth being upfront about from the start."
+   ]
+  },
+  {
+   "heading": "Where NPRIs commonly show up in North Dakota families",
+   "paragraphs": [
+    "A common pattern involves a grandparent who sold the mineral estate decades ago but reserved a royalty for life, or split across a set number of years, as part of the original transaction, leaving heirs today holding an NPRI without fully understanding how it differs from owning the minerals outright. Another common pattern involves estate planning where a parent wanted income to flow to one child while leasing control passed to another, splitting rights that would otherwise travel together.",
+    "If your family history includes either scenario, pulling the original deed is worth the trip to the county recorder, since it's the only document that definitively settles what you're holding and what you're free to do with it."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I get any say in whether the land under my NPRI gets leased?",
+   "answer": "No. That decision belongs entirely to whoever holds the executive rights over the mineral estate, and as an NPRI owner you have no vote in the lease terms, the operator chosen, or the timing."
+  },
+  {
+   "question": "What happens to my NPRI if the current lease expires?",
+   "answer": "Unlike a royalty interest created purely by a lease, an NPRI carved from the mineral estate generally survives lease termination, since it's tied to the underlying minerals rather than to any single lease."
+  },
+  {
+   "question": "Can I convert my NPRI into a full mineral interest?",
+   "answer": "Not on your own. That would require acquiring the mineral rights themselves from whoever currently holds executive authority, which is a separate transaction from your existing royalty interest."
+  },
+  {
+   "question": "Is an NPRI worth less than a standard mineral interest?",
+   "answer": "Typically it prices differently rather than simply lower, reflecting that you don't collect bonus or delay rental and have no leasing control, though an NPRI on strong, currently producing acreage can still carry solid value."
+  }
+ ],
+ "status": "written",
+ "wordCount": 856,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-non-participating-royalty-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "Non-Participating Royalty (NPRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

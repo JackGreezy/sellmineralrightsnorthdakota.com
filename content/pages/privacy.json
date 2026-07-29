@@ -1,0 +1,83 @@
+{
+ "slug": "privacy",
+ "title": "Privacy",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Privacy Policy | North Dakota Mineral Buyers",
+ "metaDescription": "How we collect, use, and protect information you share with us when discussing or selling your North Dakota mineral rights.",
+ "heroLead": "This page explains what information we collect when you reach out to us about your North Dakota minerals, and how we handle it.",
+ "intro": [
+  "We're a small family operation, not a large data broker, and we treat the information you share with us the way we'd want our own family's information treated. This policy lays out plainly what we collect, why, and how we protect it."
+ ],
+ "sections": [
+  {
+   "heading": "Information we collect",
+   "paragraphs": [
+    "When you contact us through our website, by phone, or by mail, we collect the information you choose to share, which typically includes your name, contact information, the county your minerals are located in, and details about your ownership such as acreage, lease status, or documents like division orders and deeds you provide voluntarily to help us evaluate your interest.",
+    "Our website may also collect basic technical information automatically, such as your browser type and general location, through standard analytics tools, similar to most business websites. We don't collect this information to build a profile on you individually, only to understand general traffic patterns."
+   ]
+  },
+  {
+   "heading": "How we use it",
+   "paragraphs": [
+    "We use the information you provide to research your mineral ownership, put together an offer, and communicate with you about your interest. If you share documents like deeds, division orders, or royalty statements, we use them solely to evaluate your specific acreage and, if you move forward with a sale, to prepare the purchase agreement and mineral deed.",
+    "We do not sell your personal information to third parties. We may share limited information with professionals directly involved in completing a transaction, such as a title company or attorney, but only as needed to close a sale you've agreed to."
+   ]
+  },
+  {
+   "heading": "How we protect your information",
+   "paragraphs": [
+    "We take reasonable steps to protect the documents and personal information you share with us, including limiting who on our team has access to it and storing records securely. No system is perfectly immune to risk, but we don't treat your family's mineral and ownership details casually, especially given how sensitive title and estate documents can be.",
+    "If at any point you'd like copies of documents you've shared with us returned or deleted, particularly if you decide not to move forward with a sale, reach out and we'll accommodate that request."
+   ]
+  },
+  {
+   "heading": "Your choices",
+   "paragraphs": [
+    "You're never required to share more information than you're comfortable with in order to have an initial conversation with us. You can ask what information we have on file, request corrections, or ask us to stop contacting you at any time, and we'll honor that request.",
+    "If you have questions about this policy or how your information has been used, contact us directly and we'll answer plainly rather than pointing you to a call center.",
+    "We update this policy occasionally to reflect changes in how we operate or in applicable law, and any significant changes will be reflected on this page with an updated date."
+   ]
+  },
+  {
+   "heading": "Third parties involved in a transaction",
+   "paragraphs": [
+    "If your sale moves forward to closing, certain information necessarily gets shared with parties directly involved in completing the transaction, such as a title company confirming ownership, the county recorder's office where the deed is filed, or, if you request it, your own attorney or CPA. These are standard parts of any real estate or mineral transaction and are limited strictly to what's needed to close.",
+    "We do not share your contact information with unrelated third-party marketers, data aggregators, or other mineral buyers. Your information stays with our team unless a transaction specifically requires otherwise, and we'll tell you plainly if a third party ever needs to be brought into the conversation."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do you sell my information to other companies?",
+   "answer": "No, we don't sell personal information to third parties. We only share limited details with professionals directly involved in completing a transaction you've agreed to, such as a title company."
+  },
+  {
+   "question": "Can I ask what information you have about me?",
+   "answer": "Yes, contact us directly and we'll tell you what we have on file and correct or remove it upon request."
+  },
+  {
+   "question": "What happens to my documents if I don't sell?",
+   "answer": "We retain documents only as long as reasonably needed for the purpose you shared them, and we'll return or delete copies upon request if you decide not to move forward."
+  },
+  {
+   "question": "Does your website use cookies or tracking tools?",
+   "answer": "Our site may use standard analytics tools common to most business websites to understand general traffic, but this isn't used to build an individual profile beyond what's necessary for basic site operation."
+  },
+  {
+   "question": "Who at your company can see the documents I share?",
+   "answer": "Access is limited to the family members and staff directly involved in evaluating your mineral interest and, if you move forward, completing the transaction. We don't distribute your documents beyond what's needed to do that work."
+  },
+  {
+   "question": "What if I only want a phone conversation and don't want to share documents yet?",
+   "answer": "That's completely fine. You can discuss your county, general ownership situation, and questions without sharing any documents at all, and decide later whether you'd like to move forward with a more detailed review."
+  }
+ ],
+ "wordCount": 863,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-privacy-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "Privacy mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

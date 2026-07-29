@@ -1,0 +1,76 @@
+{
+ "slug": "taxes-when-selling-minerals",
+ "title": "Taxes When You Sell Mineral Rights",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Taxes When Selling North Dakota Mineral Rights",
+ "metaDescription": "What to know about taxes before selling North Dakota mineral rights, including capital gains basics and why your CPA should see the deal early.",
+ "heroLead": "Selling mineral rights usually triggers a tax question the same week the offer arrives, and it's worth understanding the basics before that check lands in your account.",
+ "intro": [
+  "We're not accountants, and we won't pretend to be, but after selling minerals ourselves and talking with plenty of families who've done the same, we've learned enough to know what questions to ask before closing. This isn't tax advice, it's a starting point so you walk into that conversation with your CPA informed instead of blindsided."
+ ],
+ "sections": [
+  {
+   "heading": "The general shape of it",
+   "paragraphs": [
+    "When you sell mineral rights, the proceeds are generally treated as the sale of a capital asset, meaning the gain, the difference between what you receive and your cost basis in the minerals, is typically subject to capital gains treatment rather than ordinary income tax rates. How long you held the interest can affect whether it's taxed at short-term or long-term rates, and inherited minerals often get a stepped-up basis based on their value at the time you inherited them.",
+    "This is different from royalty income, which is generally taxed as ordinary income each year as it's received. Selling the underlying minerals is a one-time event with its own tax treatment, separate from any royalty checks you may have received while you owned the interest."
+   ]
+  },
+  {
+   "heading": "Why your cost basis matters",
+   "paragraphs": [
+    "Your cost basis is essentially what the minerals were worth, for tax purposes, when you acquired them. If you inherited them, that's typically the fair market value at the time of the previous owner's death, not what your grandparents may have originally paid or been given the land for generations ago. If you purchased the minerals yourself, your basis is generally what you paid.",
+    "Establishing an accurate basis matters because it directly affects how much of the sale proceeds are treated as taxable gain. This is exactly the kind of detail your CPA can help pin down, especially for interests that have passed through more than one generation."
+   ]
+  },
+  {
+   "heading": "Multiple heirs and shared ownership",
+   "paragraphs": [
+    "When mineral interests are split among siblings or cousins, each owner's tax situation is generally handled separately based on their own share of the proceeds and their own basis in the interest. It's common for family members to assume the tax outcome will be identical for everyone, but differences in when each person inherited their share, or whether one heir bought out another's portion earlier, can change the picture for each individual.",
+    "This is worth discussing as a family before closing, so nobody is surprised by their portion of the tax outcome after the fact."
+   ]
+  },
+  {
+   "heading": "Timing and why it's worth planning ahead",
+   "paragraphs": [
+    "The tax year in which a sale closes matters, since it determines which year's return the transaction lands on. If you're weighing whether to close before or after year-end, or whether spreading a sale across more than one transaction makes sense for your situation, that's a conversation to have with your CPA before signing, not after the funds have already been wired.",
+    "None of this should scare you away from selling if it's the right decision for your family. It just means the tax side deserves the same attention as the offer itself.",
+    "When we sold our own interest, the tax conversation with our CPA took less time than we expected, mostly because we brought the deed and estate paperwork with us instead of showing up with just a number and a question."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is selling mineral rights taxed the same as royalty income?",
+   "answer": "No. Royalty income is generally taxed as ordinary income as it's received, while proceeds from selling the underlying minerals are typically treated as a capital gain, which can be taxed differently depending on your basis and holding period."
+  },
+  {
+   "question": "What is cost basis and why does it matter?",
+   "answer": "Cost basis is generally what the minerals were worth for tax purposes when you acquired them, often the fair market value at the time of inheritance. It determines how much of your sale proceeds count as taxable gain."
+  },
+  {
+   "question": "Do I need to talk to a CPA before selling?",
+   "answer": "Yes, it's worth confirming your basis and expected tax treatment with your CPA or tax advisor before closing, especially for larger interests or those shared among multiple heirs."
+  },
+  {
+   "question": "Will each heir pay the same tax on a shared sale?",
+   "answer": "Not necessarily. Each owner's basis and holding period can differ, so it's common for the tax outcome to vary between family members even on the same sale."
+  },
+  {
+   "question": "Does the timing of closing affect my taxes?",
+   "answer": "Yes, the tax year in which the sale closes determines which year's return it appears on, which is worth planning around with your CPA if you have flexibility on timing."
+  },
+  {
+   "question": "Are there any deductions I should ask my CPA about related to a mineral sale?",
+   "answer": "Depending on your situation, costs like legal or title fees connected to the sale may factor into the transaction, which is another reason to loop in your CPA before closing rather than after."
+  }
+ ],
+ "wordCount": 854,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-taxes-when-selling-minerals-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "Taxes When You Sell Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

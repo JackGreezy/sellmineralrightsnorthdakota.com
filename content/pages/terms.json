@@ -1,0 +1,89 @@
+{
+ "slug": "terms",
+ "title": "Terms",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Terms of Use | North Dakota Mineral Buyers",
+ "metaDescription": "Terms governing use of our website and the general nature of offers made when discussing your North Dakota mineral rights with us.",
+ "heroLead": "This page covers the terms of using our website and talking with us about your North Dakota mineral interest.",
+ "intro": [
+  "We keep these terms plain on purpose, the same way we try to keep every conversation about your minerals plain. Using our website or requesting an offer means you agree to the basics laid out here."
+ ],
+ "sections": [
+  {
+   "heading": "The nature of our offers",
+   "paragraphs": [
+    "Any figure discussed with you, whether by phone, email, or in writing, is a preliminary estimate until formalized in a signed purchase agreement. Mineral values depend on factors including production history, decline curves, oil and gas prices, and title condition, and any number we share reflects our understanding at that point in time based on the information available to us. It is not a binding offer until both parties sign a written agreement.",
+    "We are a buyer, not a licensed appraiser, attorney, or CPA, and nothing on this website or in our conversations should be treated as appraisal, legal, or tax advice. For questions specific to your situation, including how a sale might affect your taxes or estate, consult your own attorney or CPA."
+   ]
+  },
+  {
+   "heading": "Information you provide",
+   "paragraphs": [
+    "When you share documents or details about your mineral ownership with us, you're representing that the information is accurate to the best of your knowledge. We rely on what you provide, along with public county records, to evaluate your interest, and inaccurate information can affect the accuracy of any offer or the timeline to closing.",
+    "You're under no obligation to share information you're not comfortable providing, though incomplete information may limit how precise an initial estimate can be."
+   ]
+  },
+  {
+   "heading": "Use of this website",
+   "paragraphs": [
+    "This website is provided for informational purposes related to North Dakota mineral rights and our services. Content on this site, including guides and educational material, is general in nature and may not apply to every situation, particularly given how much North Dakota mineral title varies from one family's history to another.",
+    "You agree not to use this website in any way that violates applicable law or attempts to interfere with its normal operation. We may update this site's content from time to time without prior notice."
+   ]
+  },
+  {
+   "heading": "No guarantee of outcome",
+   "paragraphs": [
+    "We do not guarantee any specific price, timeline, or outcome for your mineral interest. Every transaction depends on factors specific to your acreage, title condition, and current market conditions, and any estimate shared with you is subject to change based on further review of county records, production data, and documentation.",
+    "Nothing in these terms limits your right to decline any offer, seek other buyers, or walk away from the process at any point before a signed agreement is in place."
+   ]
+  },
+  {
+   "heading": "Communication and record keeping",
+   "paragraphs": [
+    "By reaching out to us, you agree that we may contact you by phone, email, or mail regarding your mineral interest and any offer discussed. You can ask us to stop contacting you at any time, and we will honor that request promptly.",
+    "We may retain records of our communications and any documents you share for as long as reasonably necessary to complete a transaction, respond to your requests, or comply with applicable recordkeeping requirements tied to real property transactions in North Dakota."
+   ]
+  },
+  {
+   "heading": "Limitation and governing terms",
+   "paragraphs": [
+    "This website and any offers made through it are provided in connection with our business of purchasing mineral interests in North Dakota. These terms are governed by the laws of the state of North Dakota, and any disputes arising from a transaction with us would generally be resolved under North Dakota law and in North Dakota courts, consistent with the location of the mineral interests involved.",
+    "If any part of these terms is found unenforceable, the remaining terms continue to apply. These terms, together with any signed purchase agreement for a specific transaction, represent the full understanding between you and us regarding that transaction."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Are the numbers I hear from you binding offers?",
+   "answer": "No, figures discussed before a signed purchase agreement are preliminary estimates based on available information and are subject to change upon further review."
+  },
+  {
+   "question": "Is anything on this website legal or tax advice?",
+   "answer": "No, content on this site is general and educational. For advice specific to your situation, consult your own attorney or CPA."
+  },
+  {
+   "question": "Am I obligated to sell after requesting an offer?",
+   "answer": "No, you can decline any offer or stop the process at any point before signing a purchase agreement."
+  },
+  {
+   "question": "What if the information I provide turns out to be inaccurate?",
+   "answer": "Inaccurate or incomplete information can affect the accuracy of an offer or the closing timeline, so it's best to share the most current documentation you have."
+  },
+  {
+   "question": "Do these terms apply to every conversation I have with you?",
+   "answer": "Yes, these terms cover any use of our website and any discussion of your mineral interest with us, whether by phone, email, mail, or through our contact forms."
+  },
+  {
+   "question": "Can these terms change over time?",
+   "answer": "Yes, we may update these terms occasionally, and continued use of our website after an update means you accept the revised terms as posted on this page."
+  }
+ ],
+ "wordCount": 862,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-terms-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "Terms mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

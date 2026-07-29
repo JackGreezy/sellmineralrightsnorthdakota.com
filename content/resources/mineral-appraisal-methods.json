@@ -1,0 +1,76 @@
+{
+ "slug": "mineral-appraisal-methods",
+ "title": "How Minerals Are Appraised",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How North Dakota Mineral Rights Are Appraised",
+ "metaDescription": "How buyers actually value North Dakota mineral rights, from decline curve analysis to comparable sales, and why two offers can differ.",
+ "heroLead": "Two buyers can look at the same forty acres in McKenzie County and land on two different numbers, and understanding why helps you tell a careful offer from a lazy one.",
+ "intro": [
+  "When we sold our own family's minerals, the first offer we got felt like it was pulled out of thin air, a flat number with no explanation attached. The second buyer walked us through how they got their number, well by well, and it was a completely different conversation. Appraisal isn't magic. It's a handful of methods, applied with more or less care depending on who's doing it."
+ ],
+ "sections": [
+  {
+   "heading": "Production-based valuation",
+   "paragraphs": [
+    "If your minerals are already producing, the most common approach is looking at the actual production history from the wells on your unit and projecting how that production is likely to decline going forward. Bakken and Three Forks wells tend to produce heavily in their first few years and then taper off along a decline curve, so a buyer is essentially estimating how many more years of royalty income that well is likely to generate and what that stream is worth today.",
+    "This means a well's age matters. A well that came online two years ago and is still near peak production values differently than one that's been declining for a decade, even if both are on similar-sized units with similar royalty terms."
+   ]
+  },
+  {
+   "heading": "Valuing unleased or undeveloped acreage",
+   "paragraphs": [
+    "If your minerals aren't leased or producing yet, there's no production history to project from, so buyers instead look at the acreage's position within the play, what nearby operators have been doing, and how recently similar tracts nearby have leased or sold. Acreage inside an active spacing unit with permits already filed carries different weight than acreage in a county that's seen little drilling activity in recent years.",
+    "This is also where offers vary the most, because it depends heavily on which nearby data points a buyer is willing to count and how they weigh the likelihood of future drilling."
+   ]
+  },
+  {
+   "heading": "Comparable sales",
+   "paragraphs": [
+    "Some buyers also look at what similar mineral interests nearby have recently sold for, the way a realtor might compare home sales in a neighborhood. This method has real limits in mineral valuation because two tracts a mile apart can sit in different spacing units with very different production, so a comparable sale is a data point, not the whole answer.",
+    "Be cautious of any offer that leans entirely on a comparable sale number without discussing the actual wells and production on your specific acreage. That's often a sign the buyer hasn't looked closely at what you actually own."
+   ]
+  },
+  {
+   "heading": "Why value talk should always come with a range, not a promise",
+   "paragraphs": [
+    "Oil prices move. Decline curves aren't perfectly predictable. Operators change drilling plans. Any honest number a buyer gives you is really a range tied to current activity and recent royalty checks, not a guarantee, and it's worth being skeptical of anyone who quotes a single number with total confidence before they've even seen your division orders.",
+    "A fair way to think about it is that your minerals are worth what a willing buyer will pay today, based on what's known right now about production and nearby drilling, and that number can shift as conditions shift.",
+    "We've watched an offer on the same tract move meaningfully within a single year, once because a new well was permitted next door and once because oil prices pulled back. Neither change meant the earlier number was wrong, it just meant conditions had moved, which is the nature of valuing something tied to a commodity market and a decline curve rather than a fixed asset."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need to pay for a formal appraisal before selling?",
+   "answer": "No. A serious buyer will evaluate your minerals as part of making an offer, using county records, division orders, and production data you provide, without requiring you to pay for a formal appraisal up front."
+  },
+  {
+   "question": "Why did I get such different offers from two buyers?",
+   "answer": "Buyers can weigh decline curves, future drilling potential, and comparable sales differently, which is normal. It's reasonable to ask each buyer to explain how they arrived at their number."
+  },
+  {
+   "question": "Does the type of well matter to value?",
+   "answer": "Yes. Newer horizontal wells in the Bakken or Three Forks typically have different production and decline patterns than older vertical wells, and that difference shows up in how a buyer projects future income."
+  },
+  {
+   "question": "What if there's no well on my acreage at all?",
+   "answer": "Unleased or undeveloped minerals can still have value, based mainly on the likelihood of future drilling given activity in nearby units, though that value is inherently less certain than producing acreage."
+  },
+  {
+   "question": "Can oil prices change what my minerals are worth?",
+   "answer": "Yes, royalty income and mineral values generally move with oil and gas prices, so an offer made today may differ from one made a year from now depending on market conditions."
+  },
+  {
+   "question": "Do buyers use software models or just estimate by hand?",
+   "answer": "Most serious buyers use some form of decline curve modeling for producing wells, combined with judgment about nearby drilling activity for undeveloped acreage. A careful buyer will still explain the reasoning in plain terms rather than hiding behind the model."
+  }
+ ],
+ "wordCount": 887,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-appraisal-methods-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "How Minerals Are Appraised mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

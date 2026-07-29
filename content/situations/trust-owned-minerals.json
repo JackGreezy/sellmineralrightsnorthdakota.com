@@ -1,0 +1,73 @@
+{
+ "slug": "trust-owned-minerals",
+ "title": "Trust-Owned Minerals",
+ "type": "situation",
+ "note": "trustee sale considerations",
+ "metaTitle": "Selling Trust-Owned Mineral Rights in North Dakota",
+ "metaDescription": "Acting as trustee over North Dakota mineral rights, including Fort Berthold or family trust land? Here is how trustee sales work and what's required.",
+ "heroLead": "We put our own minerals into a family trust for exactly the reason most people do, to keep the ranch and the royalty out of probate, and then a decade later I was the one signing as trustee to sell part of it.",
+ "intro": [
+  "Mineral interests held in trust are common across North Dakota, whether the trust was set up as part of family estate planning to avoid probate, established for a minor or a beneficiary who isn't ready to manage the asset directly, or, in and around the Fort Berthold Indian Reservation, held through mechanisms involving the Bureau of Indian Affairs for enrolled members of the MHA Nation. Each of these trust structures comes with its own rules about who can act, what authority a trustee actually has, and what documentation a buyer or title company will need before a sale can close.",
+  "As trustee, you're not making this decision for yourself, you're making it under the terms of the trust document and, often, with a duty to account to beneficiaries for how you handled it."
+ ],
+ "sections": [
+  {
+   "heading": "What the trust document controls",
+   "paragraphs": [
+    "Before anything else, read the trust agreement itself. It should specify whether the trustee has authority to sell mineral assets outright, whether beneficiary consent or notice is required, and whether there are restrictions on how proceeds must be distributed or reinvested. Some family trusts explicitly authorize the trustee to manage and sell oil and gas interests as part of general investment powers, while others are silent or restrictive, which may require a court petition to get authority to sell.",
+    "A buyer's title company will want a copy of the trust document, or at minimum a certification of trust showing the trustee's authority, along with the deed that originally conveyed the minerals into the trust."
+   ]
+  },
+  {
+   "heading": "Fort Berthold and federally restricted interests",
+   "paragraphs": [
+    "Minerals held in trust status for enrolled members of the MHA Nation on the Fort Berthold Indian Reservation follow a separate track entirely, governed by federal regulation and requiring Bureau of Indian Affairs involvement in any conveyance, well beyond a standard county-recorded deed. If your interest falls into this category, the process, timeline, and required approvals are different from a private family trust, and it's worth confirming up front which situation you're actually in before assuming standard trustee rules apply.",
+    "This distinction matters enough that we always ask directly, since the paperwork path and the people who need to sign off are not the same."
+   ]
+  },
+  {
+   "heading": "Trustee duties and beneficiary communication",
+   "paragraphs": [
+    "A trustee generally owes a duty of care and a duty to act in beneficiaries' interest, which for a mineral sale usually means documenting why the sale makes sense, keeping records of the offer received and how it compares to the interest's production history, and, depending on the trust terms, notifying or getting consent from beneficiaries before closing.",
+    "Getting a written offer with clear terms, tied to actual royalty statements or division order data, gives you something concrete to show beneficiaries and, if it ever comes up, a court, rather than a decision made on a handshake."
+   ]
+  },
+  {
+   "heading": "When a successor trustee inherits an unfamiliar interest",
+   "paragraphs": [
+    "It's common for a successor trustee, often an adult child stepping in after a parent who originally set up the trust has passed or become incapacitated, to inherit a mineral interest they know very little about. The original grantor may have understood the deed, the lease history, and the operator relationships intimately, while the successor is starting from a folder of old statements and a trust document that doesn't explain any of it.",
+    "In that position, pulling a current division order and a recent title snapshot from the county recorder is the fastest way to get oriented, and it's exactly the kind of research we help trustees work through before they have to make any decision about the interest at all."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do all beneficiaries need to sign off before a trustee can sell?",
+   "answer": "It depends entirely on the trust document. Some grant the trustee full authority to sell without beneficiary consent, others require notice or approval, so this is the first thing to check before moving forward."
+  },
+  {
+   "question": "What if the trust document doesn't mention mineral rights specifically?",
+   "answer": "General investment or asset management powers in the trust usually cover mineral interests as personal property, but if the language is unclear or restrictive, a trust attorney may need to confirm authority or petition the court."
+  },
+  {
+   "question": "Is selling Fort Berthold trust-status minerals different from a private trust sale?",
+   "answer": "Yes, significantly. Trust-status interests for enrolled MHA Nation members typically require Bureau of Indian Affairs approval and follow federal procedures rather than a standard county deed transfer."
+  },
+  {
+   "question": "Can proceeds from a trust mineral sale stay inside the trust?",
+   "answer": "Usually yes, and often should, depending on the trust's terms, since the sale simply converts one trust asset, the mineral interest, into another, cash or reinvested proceeds, without necessarily triggering distribution to beneficiaries."
+  },
+  {
+   "question": "Does a trustee need a court order to sell mineral rights?",
+   "answer": "Not always. Many trusts grant sufficient authority within the document itself, but if the trust is silent, ambiguous, or specifically restrictive on asset sales, a trust attorney may recommend petitioning the court before proceeding."
+  }
+ ],
+ "status": "written",
+ "wordCount": 888,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-trust-owned-minerals-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "Trust-Owned Minerals mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

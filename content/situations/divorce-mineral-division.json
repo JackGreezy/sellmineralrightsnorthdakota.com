@@ -1,0 +1,69 @@
+{
+ "slug": "divorce-mineral-division",
+ "title": "Mineral Rights in Divorce",
+ "type": "situation",
+ "note": "dividing or liquidating in settlement",
+ "metaTitle": "Selling Mineral Rights During a North Dakota Divorce",
+ "metaDescription": "Splitting Bakken or Three Forks mineral rights in a North Dakota divorce settlement? Here is how valuation, division, and a clean sale usually work.",
+ "heroLead": "A neighbor of ours went through a divorce a few years back, and the hardest line on the settlement worksheet wasn't the house, it was the quarter section of minerals nobody could agree how to split.",
+ "intro": [
+  "Mineral rights acquired during a marriage in North Dakota are usually marital property subject to equitable division, same as a house, a vehicle, or a retirement account, whether the interest came from a family inheritance folded into the marriage or was purchased outright. Where it gets complicated is that minerals don't split cleanly down the middle the way a bank account does. A producing interest under a Bakken or Three Forks unit throws off a monthly or quarterly check, and both parties usually end up needing the same two things fast: an honest valuation and a decision about whether to keep the asset or sell it.",
+  "We've sat across the table from more than one owner working through a settlement, and the pattern is almost always the same. One spouse wants to keep collecting royalty checks, the other wants a clean break and a lump sum, and the attorneys need a number that will hold up if the court asks how it was reached."
+ ],
+ "sections": [
+  {
+   "heading": "How courts and attorneys typically value the interest",
+   "paragraphs": [
+    "A family law attorney will generally want either a formal reserve valuation from a petroleum engineer or a market-based offer from an active buyer, depending on how much is at stake and how contested the split is. For smaller fractional interests, a documented cash offer tied to recent royalty statements and county lease records is often faster and cheaper than commissioning a full engineering report, and it gives both sides a real number instead of a theoretical one.",
+    "Either way, the valuation needs to reflect current production, not a memory of what the well produced when it was first drilled. Bakken and Three Forks wells decline quickly, so a unit that paid well three years ago may be worth meaningfully less today, and that shift matters in a negotiation."
+   ]
+  },
+  {
+   "heading": "Selling instead of splitting the interest itself",
+   "paragraphs": [
+    "Dividing the mineral deed itself into two smaller fractional interests is legally possible, but it usually just moves the disagreement forward in time. Both former spouses end up owning a tiny sliver of a Williston Basin unit, receiving separate royalty statements, and dealing with the county recorder and the operator's division order department independently for years after the divorce is final.",
+    "Selling the interest and dividing the proceeds as part of the settlement is often cleaner. It converts an asset that both parties would otherwise have to keep managing, tracking, and reporting on taxes into a single number that gets divided once and closed out."
+   ]
+  },
+  {
+   "heading": "What to have ready before you talk to a buyer",
+   "paragraphs": [
+    "A recent royalty statement or division order, the mineral deed or probate record showing how the interest was originally acquired, and any lease documents on file with the county are the basics. If the divorce decree already assigns the interest to one party, that decree stands in for a deed until the transfer is formally recorded.",
+    "Timing matters too. Getting an offer in hand before the settlement is finalized gives both attorneys a real figure to negotiate around instead of guessing, and it can shorten the whole process by weeks."
+   ]
+  },
+  {
+   "heading": "How the transfer gets recorded after settlement",
+   "paragraphs": [
+    "Once the decree assigns the interest and a buyer is under contract, the actual conveyance happens through a standard mineral deed, or in some cases a quitclaim deed executed by the spouse giving up their share, recorded at the county where the acreage sits. If both names remain on the original deed, both signatures are typically needed to convey clear title, even after a divorce decree, unless the decree itself functions as the operative transfer document under North Dakota law.",
+    "A title company or the buyer's closing team can walk you through exactly which document North Dakota requires in your specific case, since it varies depending on whether the decree already reassigns the interest outright or simply orders one party to sign a deed conveying their share to the other."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is a mineral interest inherited before the marriage still separate property?",
+   "answer": "Generally yes in North Dakota, though income earned from it during the marriage, or any commingling with joint accounts, can complicate that classification, so this is a question for your attorney, not something to assume."
+  },
+  {
+   "question": "Do we need a petroleum engineer's report to sell?",
+   "answer": "Not always. For smaller interests, a documented cash offer based on recent statements and county records is often sufficient for settlement purposes, though your attorney may still want it in writing for the court file."
+  },
+  {
+   "question": "Can we sell before the divorce is finalized?",
+   "answer": "That depends on your decree and your attorney's guidance, since some jurisdictions restrict disposing of marital assets mid-proceeding, but getting a valuation or offer in hand early is usually fine and often helpful."
+  },
+  {
+   "question": "What if the interest is still under an active lease with no well drilled yet?",
+   "answer": "It can still be valued and sold, though the number will reflect the uncertainty of undrilled acreage rather than an established production history, and a buyer will want to see the lease terms."
+  }
+ ],
+ "status": "written",
+ "wordCount": 897,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-divorce-mineral-division-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "Mineral Rights in Divorce mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

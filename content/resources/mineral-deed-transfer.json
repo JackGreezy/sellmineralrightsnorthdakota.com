@@ -1,0 +1,76 @@
+{
+ "slug": "mineral-deed-transfer",
+ "title": "Mineral Deeds & Title Transfer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Mineral Deeds and Title Transfer in North Dakota",
+ "metaDescription": "How mineral deeds and title transfer actually work in North Dakota, from recording at the courthouse to fixing old title gaps in family land.",
+ "heroLead": "A mineral deed looks like a short, plain document, but it's the piece of paper that actually moves ownership, and getting it right matters more than any other form in the process.",
+ "intro": [
+  "Our family has recorded deeds at the McKenzie County courthouse for four generations now, some going back to homestead-era transfers, and we've learned that the deed itself is usually the simple part. It's the chain leading up to it, who owned it before, how it passed through wills or was never formally settled, that takes the real time. This is a plain look at how mineral deeds and title transfer work in North Dakota."
+ ],
+ "sections": [
+  {
+   "heading": "What a mineral deed does",
+   "paragraphs": [
+    "A mineral deed conveys ownership of the minerals themselves, separate from the surface, from one party to another. It includes the legal description of the land, the county, the grantor and grantee, and typically the net mineral acres being conveyed. Once signed and recorded at the county recorder's office, it becomes the public record of who owns that interest.",
+    "In North Dakota, mineral ownership was severed from surface ownership on a lot of ranch and farm land generations ago, sometimes when the land was originally homesteaded, sometimes later when a family sold the surface but kept the minerals. That severance is why you can own minerals under land you've never set foot on, and why title tracing sometimes means going back to records from the early twentieth century."
+   ]
+  },
+  {
+   "heading": "Recording and why it matters",
+   "paragraphs": [
+    "A deed is signed, then it's recorded with the county recorder in the county where the minerals are located, which puts the transfer on public record and protects the new owner's claim against later disputes. Recording fees are modest, but the step itself is what makes a transfer enforceable against third parties, so it's not something to skip or delay.",
+    "If you're buying or selling, always confirm the deed gets recorded and get a copy of the recorded version, with the county's stamp and instrument number on it, for your own files."
+   ]
+  },
+  {
+   "heading": "Common title gaps in family-owned minerals",
+   "paragraphs": [
+    "The most common issue we see with ranch family mineral interests is an estate that was never formally probated. A grandparent passes minerals informally to their children, everyone knows who owns what within the family, but nothing was ever filed at the courthouse. Decades later, when it's time to sell or lease, the title doesn't show clear ownership, even though everyone in the family agrees on the facts.",
+    "This is fixable, usually with an affidavit of heirship, a small estate proceeding, or in more complicated cases a short probate, but it takes time to put together the right documents. It's worth starting this process early if you know your family's title has a gap, rather than waiting until you're trying to close a sale under a deadline."
+   ]
+  },
+  {
+   "heading": "What a clean transfer looks like",
+   "paragraphs": [
+    "A clean transfer starts with a title search confirming the current owner of record, followed by a properly executed deed with an accurate legal description, signed and notarized, then recorded at the correct county. If minerals are being sold, the buyer typically handles recording as part of closing, though it's smart to confirm this rather than assume it.",
+    "If your family's title has any wrinkles, an unprobated estate, a name change, a deed with an unclear legal description, it's worth talking to your attorney before you're mid-transaction. Fixing a title issue calmly, ahead of time, is a lot easier than fixing it while a closing date is bearing down.",
+    "We've walked several families through exactly this kind of cleanup on their own home place, and it's rarely as complicated as it first appears once someone sits down and traces the chain of title step by step."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need a lawyer to transfer mineral rights?",
+   "answer": "It's not always required, but it's wise, especially if the deed's legal description is complex, if multiple heirs are involved, or if there's any question about the current chain of title."
+  },
+  {
+   "question": "What happens if a deed is never recorded?",
+   "answer": "An unrecorded deed can still be valid between the original parties, but it leaves the transfer off the public record, which can create disputes later and typically prevents a subsequent buyer or lender from relying on it."
+  },
+  {
+   "question": "Can I transfer minerals to my children now instead of through a will?",
+   "answer": "Yes, minerals can be conveyed by deed at any time, including gifting them to heirs during your lifetime, though there are tax and estate planning considerations worth discussing with your CPA or attorney first."
+  },
+  {
+   "question": "What if the legal description on the old deed doesn't match current county records?",
+   "answer": "This happens more often than people expect on older ranch land. A title company or attorney can usually reconcile the description, sometimes requiring a corrective deed to fix it."
+  },
+  {
+   "question": "How long does it take to record a deed in North Dakota?",
+   "answer": "Recording itself is usually quick once the deed is properly executed, often just days, but resolving any underlying title issues beforehand can take considerably longer depending on their complexity."
+  },
+  {
+   "question": "What's the difference between a mineral deed and a royalty deed?",
+   "answer": "A mineral deed conveys ownership of the minerals themselves, including the right to lease them, while a royalty deed conveys only the right to receive royalty payments from production, without the leasing rights that come with the minerals."
+  }
+ ],
+ "wordCount": 918,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "Mineral Deeds & Title Transfer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

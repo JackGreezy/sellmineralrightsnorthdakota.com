@@ -1,0 +1,68 @@
+{
+ "slug": "royalty-interests",
+ "title": "Royalty Interests",
+ "type": "interest-type",
+ "metaTitle": "Royalty Interests in North Dakota: What Owners Should Know",
+ "metaDescription": "Understand your North Dakota Bakken royalty interest, how it's created by a lease, what your statement means, and what it's worth if you sell.",
+ "heroLead": "Every quarter for years, an envelope showed up with a number on it that swung around more than I expected, and it took a while before I understood what was actually driving that number up and down.",
+ "intro": [
+  "A royalty interest is the right to a share of oil and gas production revenue, created when a mineral owner signs a lease with an operator. In exchange for granting the operator the right to explore and produce, the mineral owner reserves a royalty, typically a fraction such as one-sixth, one-eighth, or higher on more recent Bakken leases, of production revenue, free of the cost of drilling and operating the well. If you're receiving a statement from an operator like Continental, Hess, or one of the other companies active in the Williston Basin, this is very likely the kind of interest you hold, either because you own the minerals directly and leased them, or because you inherited or purchased a royalty position specifically.",
+  "It's worth being precise about this term, because royalty interest, mineral interest, and non-participating royalty interest all describe different bundles of rights, even though the checks can look similar on the surface."
+ ],
+ "sections": [
+  {
+   "heading": "How a royalty interest is created and what it entitles you to",
+   "paragraphs": [
+    "When you or a prior owner signed a lease, the lease itself set the royalty fraction, which is the percentage of gross production revenue you're entitled to before deducting drilling and operating costs, though post-production costs like gathering, processing, and transportation are frequently deducted depending on how the lease was written. Older ND leases from decades back sometimes carry lower royalty fractions than leases signed during the height of Bakken leasing activity, which is part of why two neighbors on the same section can have meaningfully different royalty rates.",
+    "As a royalty owner tied to a specific lease, you generally don't have executive rights to negotiate future leases, that stays with whoever owns the mineral estate outright, unless your royalty interest was created alongside retained mineral ownership rather than sold off separately."
+   ]
+  },
+  {
+   "heading": "What drives your statement up and down",
+   "paragraphs": [
+    "Three things move a royalty check month to month: production volume from the well, which declines steeply in the first year or two after a Bakken well comes online before leveling into a long tail; price received, which fluctuates with oil markets and the differential Bakken crude often trades at relative to national benchmarks; and post-production deductions, which vary by operator and lease language. A drop in your check doesn't automatically mean something's wrong, it's frequently just the well's natural decline curve or a swing in oil prices.",
+    "If a check stops arriving entirely, that's worth investigating directly with the operator's division order department, since it can mean anything from a title issue to a genuinely shut-in well."
+   ]
+  },
+  {
+   "heading": "Selling a royalty interest",
+   "paragraphs": [
+    "A royalty interest is sellable property, and buyers value it primarily off your net decimal interest, recent production and statement history, and the strength and remaining life of the current lease and well. Because value is closely tied to actual, documented production, having a handful of recent statements ready makes the process faster and gets you a more accurate number than an estimate based on acreage alone.",
+    "Selling converts a fluctuating, declining income stream into a lump sum today, which is worth weighing honestly against your own need for ongoing income versus a one-time payment, since there's no single right answer for every owner."
+   ]
+  },
+  {
+   "heading": "Understanding pooling and how it can change your interest",
+   "paragraphs": [
+    "When the North Dakota Industrial Commission approves a spacing unit that combines multiple tracts, owners inside that unit are pooled together, meaning your royalty is calculated against your proportionate share of the whole unit rather than just your original parcel. That process can shrink or, less commonly, grow your effective decimal interest depending on how your original tract compares in size to the full spacing unit.",
+    "If your decimal interest looks unfamiliar compared to what you expected based on your original acreage, a pooling order is often the reason, and the order itself, on file with the NDIC, will explain exactly how the math was applied to your specific tract."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between a royalty interest and owning mineral rights?",
+   "answer": "A royalty interest is the income right created by a lease, while mineral rights, or the mineral estate, is the broader ownership that includes the authority to sign that lease in the first place. You can own both together or hold only the royalty piece."
+  },
+  {
+   "question": "Why did my royalty rate end up lower than my neighbor's?",
+   "answer": "Royalty rates are set at the time a lease is signed, and rates negotiated during different years of Bakken leasing activity varied, so two adjacent owners with leases signed years apart can carry different fractions."
+  },
+  {
+   "question": "Can post-production deductions really cut into my check that much?",
+   "answer": "Yes, depending on your lease language, gathering, processing, and transportation costs can be deducted before your royalty is calculated, which is one reason net revenue can look noticeably smaller than gross production value."
+  },
+  {
+   "question": "Do I need a full year of statements before I can sell?",
+   "answer": "No, a handful of recent statements is usually enough to establish a production trend, though more history can help a buyer price the interest more precisely."
+  }
+ ],
+ "status": "written",
+ "wordCount": 904,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-royalty-interests-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "Royalty Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

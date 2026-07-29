@@ -1,0 +1,68 @@
+{
+ "slug": "surface-vs-mineral-estate",
+ "title": "Surface vs. Mineral Estate",
+ "type": "interest-type",
+ "metaTitle": "Surface vs. Mineral Estate: North Dakota Ownership Explained",
+ "metaDescription": "Confused whether you own the surface, the minerals, or both on North Dakota land near the Bakken? Here is how the two estates split and what it means.",
+ "heroLead": "We still run cattle on ground where we don't own a single barrel underneath, and two sections over a family collects Bakken royalty on minerals beneath land they haven't set foot on in thirty years.",
+ "intro": [
+  "North Dakota law treats land as potentially two separate estates stacked on top of each other, the surface estate, meaning the actual ground you can walk, farm, or graze, and the mineral estate, meaning everything of value beneath it, oil, gas, and other minerals. These can be owned together by the same person, which is called an unsevered or unified estate, or they can be split apart, called a severed estate, where one party owns the surface and someone else entirely owns the minerals below.",
+  "This split explains a lot of confusion families run into. You can inherit or buy a ranch and not own a drop of the oil under it, or you can own valuable Bakken minerals under land you've never owned the surface to and never will."
+ ],
+ "sections": [
+  {
+   "heading": "How severance happens",
+   "paragraphs": [
+    "Severance typically occurs through a specific deed, most often when a landowner sells the surface but reserves the mineral rights, keeping future oil and gas potential in the family while cashing out the ground itself, or the opposite, selling minerals while keeping the surface. It can also happen through inheritance, when one heir receives the surface and another receives the minerals as part of dividing an estate, or through a straightforward mineral deed sale at any point in a property's history.",
+    "Once severed, the two estates are legally independent going forward. Each can be sold, leased, inherited, or mortgaged separately, with no requirement that they ever be reunited or that the two owners even know each other."
+   ]
+  },
+  {
+   "heading": "What rights each estate carries",
+   "paragraphs": [
+    "In North Dakota, as in most oil and gas states, the mineral estate is generally considered the dominant estate, meaning the mineral owner or their lessee has the right to reasonable use of the surface for exploration and production, subject to the state's surface owner protections, which require notice, compensation for damages, and reasonable accommodation of existing surface use. The surface owner retains full use of the land for farming, ranching, or development, but can't block reasonable mineral development outright.",
+    "This balance is why an operator can drill a well on your neighbor's cattle pasture even though your neighbor never signed a lease, if someone else owns the minerals under that specific tract and leased them to the operator."
+   ]
+  },
+  {
+   "heading": "Why this distinction matters if you're selling",
+   "paragraphs": [
+    "If you're selling minerals, you're not selling any interest in the surface land at all, and the buyer has no claim to graze, farm, or otherwise use the ground itself, only the right to a share of what's produced from underneath it. This confuses some owners who assume a mineral sale involves their land in some broader sense, and it's worth being clear about upfront, since it's one of the more common misunderstandings we run into with sellers.",
+    "Knowing which estate, or estates, you actually hold is also the first step before any conversation about value, since the surface and mineral estates are priced entirely differently and a buyer purchasing minerals has no interest in your surface acreage at all."
+   ]
+  },
+  {
+   "heading": "Surface use agreements and why neighbors sometimes clash",
+   "paragraphs": [
+    "When an operator wants to drill on a tract, they typically negotiate a surface use agreement directly with the surface owner, covering road access, well pad location, and damages for disturbed cropland or pasture, separate entirely from any lease or payment made to the mineral owner. This is why a surface owner with no mineral interest at all can still receive meaningful compensation tied to a well being drilled on their land, even though they collect no royalty on the oil itself.",
+    "It's also a common source of friction between surface and mineral owners who aren't the same person, since one side is managing daily disruption on working land while the other is simply watching a royalty statement arrive, and neither side always sees the other's side of that arrangement clearly."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "If I own the surface, do I automatically own the minerals too?",
+   "answer": "Not necessarily. Ownership is presumed unified unless a deed somewhere in the chain of title severed the two, so checking your specific deed history is the only way to know for certain."
+  },
+  {
+   "question": "Can an operator drill on my land if I don't own the minerals?",
+   "answer": "Yes, subject to North Dakota's surface owner protections requiring notice, reasonable accommodation, and compensation for damages, since the mineral owner or their lessee generally has the right to reasonable surface access for development."
+  },
+  {
+   "question": "Does selling my mineral rights affect my ownership of the surface?",
+   "answer": "No, the two estates are entirely independent once severed, and selling your minerals has no effect on your ownership, use, or control of the surface land above them."
+  },
+  {
+   "question": "How do I find out if my minerals were severed from the surface at some point?",
+   "answer": "The county recorder's office where the land is located holds the deed history, and a title search will show whether and when a severance deed was recorded in the chain of title."
+  }
+ ],
+ "status": "written",
+ "wordCount": 888,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-surface-vs-mineral-estate-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "Surface vs. Mineral Estate mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

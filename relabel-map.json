@@ -1,0 +1,903 @@
+{
+  "notes": "Faithful ENERCON relabel for the North Dakota mineral-owner ledger. The donor's real two-tier navigation shell, broad editorial bands, split-image compositions, turbine portfolio cards, green contrast bands, gallery cadence, contact selection layout, typography, spacing, and five-column footer remain the visual system.",
+  "refhost": "enercon-de",
+  "templates": {
+    "home": "home.html.ref",
+    "about": "about.html.ref",
+    "contact": "contact.html.ref",
+    "index": "index.html.ref",
+    "slug": "slug.html.ref"
+  },
+  "chrome": {
+    "header": {
+      "selector": ".nav",
+      "tag": "header",
+      "strip_global": [
+        "#CybotCookiebotDialog",
+        ".CybotCookiebotHiddenIframe",
+        ".CybotCookiebotOffscreenIframe",
+        "#CookiebotWidget",
+        "#CookiebotWidgetUnderlay",
+        "#CookiebotWidgetStylesheet",
+        "body > iframe",
+        ".mobile-menu-script",
+        ".grecaptcha-badge"
+      ],
+      "strip": [
+        ".mobile-menu-script",
+        ".navbar:not(.hidden) .mainmenu-dropdown-list",
+        ".navbar:not(.hidden) .mainmenu-dropdown.onlymobile"
+      ],
+      "html_map": {
+        ".submenu-container": "<div class=\"submenu-wrapper\"><a class=\"subemenu-link w-inline-block\" href=\"/about\"><div class=\"submenu-text\">About the Review Desk</div></a><a class=\"subemenu-link w-inline-block\" href=\"tel:7015551033\"><div class=\"submenu-text\">701-555-1033</div></a><a class=\"subemenu-link w-inline-block\" href=\"mailto:northdakota@sellmineralrightsnorthdakota.com\"><div class=\"submenu-text\">northdakota@sellmineralrightsnorthdakota.com</div></a></div>"
+      },
+      "logo_slots": [
+        ".navbar:not(.hidden) .enercon-logo"
+      ],
+      "footer_logo_slot": ".footer-legal-section .logo-wrapper",
+      "nav_button_selector": ".navbar:not(.hidden) .mainmenu-dropdown:not(.onlymobile) > .mainmenu-toggle",
+      "utility_links": {
+        "selector": ".navbar:not(.hidden) .kontakt-btn",
+        "keep": [
+          ["Request a Mineral Review", "/contact"]
+        ]
+      },
+      "mobile_menu_slot": ".navbar.hidden",
+      "burger_selector": ".navbar:not(.hidden) .menu-button.w-nav-button",
+      "burger_slot": ".navbar:not(.hidden) .nav-container",
+      "ensure_nav": false
+    },
+    "footer": {
+      "selector": ".enercon-footer",
+      "tag": "footer",
+      "strip": [
+        ".jobs-btn-wrapper",
+        ".adress-block",
+        ".social-container",
+        ".footer-line",
+        "img",
+        "picture",
+        "svg",
+        "video",
+        "source",
+        "canvas",
+        "iframe",
+        "script",
+        "noscript"
+      ],
+      "columns": [
+        {
+          "heading": "Sell With Clarity",
+          "links": [
+            ["Selling Situations", "/situations"],
+            ["Interest Types", "/interest-types"],
+            ["Bakken Guide", "/basins"]
+          ]
+        },
+        {
+          "heading": "Owner Research",
+          "links": [
+            ["Owner Resources", "/resources"],
+            ["Mineral Investing", "/investing"],
+            ["1031 Exchange Guides", "/exchange-1031"]
+          ]
+        },
+        {
+          "heading": "North Dakota",
+          "links": [
+            ["North Dakota Areas", "/locations"],
+            ["Williston", "/locations/williston-nd"],
+            ["Williams County", "/locations/williams-county"],
+            ["McKenzie County", "/locations/mckenzie-county"]
+          ]
+        },
+        {
+          "heading": "The Review Desk",
+          "links": [
+            ["About", "/about"],
+            ["How It Works", "/resources/how-to-sell-mineral-rights"],
+            ["Request a Review", "/contact"]
+          ]
+        },
+        {
+          "heading": "Site Information",
+          "links": [
+            ["Privacy Policy", "/privacy"],
+            ["Terms", "/terms"],
+            ["Contact", "/contact"]
+          ]
+        }
+      ],
+      "column_selector": ".footer-links-section ._5-column-grid > .w-layout-cell",
+      "replace_column_siblings": true,
+      "column_heading_selector": ".footer-big",
+      "link_map": {
+        "privacy": ["Privacy Policy", "/privacy"],
+        "imprint": ["Terms", "/terms"]
+      },
+      "drop_link_pattern": "Instagram|LinkedIn|YouTube|Xing|Showroom|SIP",
+      "text_map": {
+        "© 2016-2026 ENERCON Global GmbH": "© 2026 Sell Mineral Rights North Dakota. All rights reserved."
+      },
+      "tagline_pattern": "ENERCON Global GmbH|© 2016-2026",
+      "copyright_year": 2026,
+      "ensure_ia": true,
+      "repair_css": ".footer-legal-section .rr-wordmark,.footer-legal-section .rr-wordmark span{color:#fff!important;opacity:1!important}.footer-links-section .footer-big{display:block!important;margin-bottom:14px!important}",
+      "inserts": [
+        {"selector": ".footer-links-section ._5-column-grid > .w-layout-cell:nth-child(1) .footer-link-wrapper", "position": "prepend", "html": "<div class=\"p2-default-bold gb300 footer-big\">Sell With Clarity</div>"},
+        {"selector": ".footer-links-section ._5-column-grid > .w-layout-cell:nth-child(2) .footer-link-wrapper", "position": "prepend", "html": "<div class=\"p2-default-bold gb300 footer-big\">Owner Research</div>"},
+        {"selector": ".footer-links-section ._5-column-grid > .w-layout-cell:nth-child(3) .footer-link-wrapper", "position": "prepend", "html": "<div class=\"p2-default-bold gb300 footer-big\">North Dakota</div>"},
+        {"selector": ".footer-links-section ._5-column-grid > .w-layout-cell:nth-child(4) .footer-link-wrapper", "position": "prepend", "html": "<div class=\"p2-default-bold gb300 footer-big\">The Review Desk</div>"},
+        {"selector": ".footer-links-section ._5-column-grid > .w-layout-cell:nth-child(5) .footer-link-wrapper", "position": "prepend", "html": "<div class=\"p2-default-bold gb300 footer-big\">Site Information</div>"}
+      ]
+    }
+  },
+  "buttons": {
+    "class": "primary-btn"
+  },
+  "forms": {
+    "form_class": "div-block-40",
+    "input_class": "p1-large-regular",
+    "group_class": "p-text-wrapper",
+    "wrap_class": "content-link-info"
+  },
+  "purge": {
+    "brand": [
+      "ENERCON",
+      "enercon\\.de",
+      "Energy for the World",
+      "A Tailwind for Your Career"
+    ],
+    "content": [
+      "E-175 EP5",
+      "E-160 EP5",
+      "E-138 EP3",
+      "EP5",
+      "EP3",
+      "Udo Bauer",
+      "Jörg Scholle",
+      "Heiko Juritz",
+      "Dr\\. Michael Jaxy",
+      "Aloys Wobben",
+      "Shirakami Phase 1",
+      "Parang Wind Farm",
+      "Mailiao Wind Farm",
+      "Wind Turbines for all Wind Classes",
+      "Nominal Power",
+      "Rotor Diameter",
+      "Wind Class \\(IEC\\)",
+      "Hub Heights",
+      "Wind turbine portfolio",
+      "Unfolding the value of green energy",
+      "Our Customer Promise",
+      "Our customer promise",
+      "Further Information about the Company",
+      "Latest news and topics",
+      "Press release",
+      "Aurich",
+      "July 2026"
+    ],
+    "strip_selectors": [
+      "#CybotCookiebotDialog",
+      ".CybotCookiebotHiddenIframe",
+      ".CybotCookiebotOffscreenIframe",
+      ".w-condition-invisible",
+      ".bg-lines-div",
+      ".lines-box-left-wrapper",
+      ".lines-box-right-wrapper",
+      ".list-icon-wrapper img",
+      "img.cta-icon",
+      ".ref-icon img",
+      ".news-location img",
+      ".news-date img",
+      ".info-link-block img",
+      ".info-link-auswahl img",
+      "img.icon-back",
+      ".map-image-wrapper",
+      ".map-image-wrapper-mobile",
+      ".Toastify",
+      ".grecaptcha-badge"
+    ],
+    "script_markers": [
+      "Cookiebot",
+      "CybotCookiebot",
+      "dataLayer",
+      "googletagmanager",
+      "webflow",
+      "clientTimestamp",
+      "instagram",
+      "linkedin",
+      "youtube",
+      "xing"
+    ],
+    "social_pattern": "instagram\\.com|linkedin\\.com|youtube\\.com|xing\\.com|facebook\\.com|twitter\\.com|x\\.com"
+  },
+  "scripts": "strip",
+  "pages": {
+    "home": {
+      "signature": [
+        ".head-stage-section",
+        ".produktportfolio-section",
+        ".centent-section-double-image",
+        ".cta-image-section",
+        ".map-section",
+        ".referenzobjekte"
+      ],
+      "strip": [
+        ".section-banner",
+        ".head-stage-section .video-wrapper"
+      ],
+      "sections": [
+        {
+          "selector": ".head-stage-section",
+          "action": "hero-all",
+          "fields": {
+            "heading": "h1.h1",
+            "body": ".p1-large-regular",
+            "cta": "a.primary-btn",
+            "image": "img.header-image"
+          }
+        },
+        {
+          "selector": ".head-stage-section",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".stage-image-container",
+              "attr": {
+                "class": "stage-image-container mar-btm-100"
+              }
+            }
+          ]
+        },
+        {
+          "selector": ".produktportfolio-section",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".content-margin-btm._120px .p1-large-regular.red", "copy": "home_situations_eyebrow"},
+            {"sel": ".content-margin-btm._120px .p1-large-regular:not(.red)", "copy": "home_situations_intro"},
+            {"sel": ".cell-wrapper-flex .p1-large-bold", "nth": 0, "text": "County record"},
+            {"sel": ".cell-wrapper-flex .p1-large-bold", "nth": 1, "text": "Paid decimal"},
+            {"sel": ".cell-wrapper-flex .p1-large-bold", "nth": 2, "text": "Written terms"},
+            {"sel": ".cell-wrapper-flex .checkbullet", "drop": true}
+          ]
+        },
+        {
+          "selector": ".produktportfolio-section",
+          "action": "card-grid",
+          "source": "situations",
+          "limit": 3,
+          "heading": ".content-margin-btm._120px h2.h2",
+          "subheading": ".content-margin-btm._120px .p1-large-regular:not(.red)",
+          "subheading_text": "Inheritance, shared ownership, unsolicited offers, production status, and family timing change the records and questions that matter before a sale.",
+          "card": ".collection-item-4",
+          "card_fields": {
+            "title": "h2.h2",
+            "sub": ".p2-default-regular",
+            "category": ".p2-default-bold",
+            "more": ".anlagen-btn .btn-text",
+            "image": "img.image-3"
+          },
+          "kill_in_card": [
+            ".neu-sticker",
+            ".content-line"
+          ],
+          "view_all": ["All Selling Situations", "/situations"],
+          "view_all_selector": ".button-wrapper .primary-btn"
+        },
+        {
+          "selector": ".centent-section-double-image",
+          "nth": 0,
+          "action": "relabel",
+          "ops": [
+            {"sel": ":scope", "self": true, "attrs": {"data-rr-band": "interest-types"}},
+            {"sel": ".single-image-titel-wrapper-red p", "text": "THE RECORDED INTEREST"},
+            {"sel": ".double-image-content-wrapper h2", "copy": "home_interest_title"},
+            {"sel": ".double-image-content-wrapper > .p-text-wrapper p", "copy": "home_interest_body"},
+            {"sel": ".list-item-wrapper h3", "nth": 0, "copy": "home_interest_one_title"},
+            {"sel": ".list-item-wrapper p", "nth": 0, "copy": "home_interest_one_body"},
+            {"sel": ".list-item-wrapper .btn-text", "nth": 0, "text": "Interest Types"},
+            {"sel": ".list-item-wrapper a.news-btn", "nth": 0, "href": "/interest-types"},
+            {"sel": ".list-item-wrapper h3", "nth": 1, "copy": "home_interest_two_title"},
+            {"sel": ".list-item-wrapper p", "nth": 1, "copy": "home_interest_two_body"},
+            {"sel": ".list-item-wrapper .btn-text", "nth": 1, "text": "Royalty Statements"},
+            {"sel": ".list-item-wrapper a.news-btn", "nth": 1, "href": "/resources/royalty-statements-guide"},
+            {"sel": ".list-item-wrapper h3", "nth": 2, "copy": "home_interest_three_title"},
+            {"sel": ".list-item-wrapper p", "nth": 2, "copy": "home_interest_three_body"},
+            {"sel": ".list-item-wrapper .btn-text", "nth": 2, "text": "Mineral Deed Guide"},
+            {"sel": ".list-item-wrapper a.news-btn", "nth": 2, "href": "/resources/mineral-deed-transfer"},
+            {"sel": "img.image-verf-gbarkeit", "img": "/ours/interest-types/mineral-rights-interest-types-mineral-rights-sellmineralrightsnorthdakota-com.jpg", "alt": "North Dakota mineral ownership records"},
+            {"sel": "img.image-8", "img": "/ours/interest-types/mineral-rights-interest-types-royalty-interests-sellmineralrightsnorthdakota-com.jpg", "alt": "North Dakota royalty interest review"}
+          ]
+        },
+        {
+          "selector": ".div-block-82",
+          "action": "relabel",
+          "ops": [
+            {"sel": ":scope", "self": true, "attrs": {"data-rr-band": "about"}},
+            {"sel": ".green-card .p1-large-regular.lightgreen", "text": "THE OWNER'S SIDE OF THE TABLE"},
+            {"sel": "img.cta-image-bg", "img": "/ours/pages/mineral-rights-pages-about-sellmineralrightsnorthdakota-com.jpg", "alt": "North Dakota mineral buyer background"},
+            {"sel": "img.cta-image-content", "img": "/ours/pages/mineral-rights-pages-how-it-works-sellmineralrightsnorthdakota-com.jpg", "alt": "North Dakota mineral review process"}
+          ]
+        },
+        {
+          "selector": ".div-block-82",
+          "action": "blurb",
+          "heading": ".green-card h2",
+          "body": ".green-card > .p-text-wrapper p",
+          "copy": "home_offer",
+          "link": ["Request a Mineral Review", "/contact"]
+        },
+        {
+          "selector": ".centent-section-double-image",
+          "nth": 1,
+          "action": "relabel",
+          "ops": [
+            {"sel": ":scope", "self": true, "attrs": {"data-rr-band": "investing"}},
+            {"sel": ".single-image-titel-wrapper p", "text": "THE OWNER LEDGER"},
+            {"sel": ".double-image-content-wrapper h2", "copy": "home_investing_title"},
+            {"sel": ".double-image-content-wrapper > .p-text-wrapper p", "copy": "home_investing_body"},
+            {"sel": ".info-wrapper h3", "nth": 0, "copy": "home_investing_one_title"},
+            {"sel": ".info-wrapper p", "nth": 0, "copy": "home_investing_one_body"},
+            {"sel": ".info-wrapper h3", "nth": 1, "copy": "home_investing_two_title"},
+            {"sel": ".info-wrapper p", "nth": 1, "copy": "home_investing_two_body"},
+            {"sel": ".info-wrapper h3", "nth": 2, "copy": "home_investing_three_title"},
+            {"sel": ".info-wrapper p", "nth": 2, "copy": "home_investing_three_body"},
+            {"sel": ".info-wrapper h3", "nth": 3, "copy": "home_investing_four_title"},
+            {"sel": ".info-wrapper p", "nth": 3, "copy": "home_investing_four_body"},
+            {"sel": ".info-wrapper .h-text-wrapper.vertical > h3", "drop": true},
+            {"sel": ".info-wrapper:last-child h3", "copy": "home_investing_four_title"},
+            {"sel": "img.single-image-fernueberwachung", "img": "/ours/investing/mineral-rights-investing-how-royalty-income-works-sellmineralrightsnorthdakota-com.jpg", "alt": "North Dakota royalty income records"},
+            {"sel": "img.image-8", "img": "/ours/investing/mineral-rights-investing-how-to-evaluate-a-mineral-package-sellmineralrightsnorthdakota-com.jpg", "alt": "North Dakota mineral package review"},
+            {"sel": ".info-button-wrapper .btn-text", "text": "Mineral Investing Guides"},
+            {"sel": ".info-button-wrapper a", "href": "/investing"}
+          ]
+        },
+        {
+          "selector": ".section-large-single-image",
+          "action": "relabel",
+          "ops": [
+            {"sel": ":scope", "self": true, "attrs": {"data-rr-band": "basins"}},
+            {"sel": ".p1-large-regular.red", "text": "BAKKEN AND THREE FORKS"},
+            {"sel": "h2.h2", "copy": "home_bakken_title"},
+            {"sel": ".p-text-wrapper p", "copy": "home_bakken_body"},
+            {"sel": ".lines-gb50-wrapper-980px", "drop": true},
+            {"sel": "img.image-17", "img": "/ours/basins/mineral-rights-basins-bakken-sellmineralrightsnorthdakota-com.jpg", "alt": "Bakken mineral rights review"},
+            {"sel": "a.secondary-btn", "drop": true},
+            {"sel": "a.primary-btn .btn-text", "text": "Read the Bakken Guide"},
+            {"sel": "a.primary-btn", "href": "/basins"}
+          ]
+        },
+        {
+          "selector": ".map-section",
+          "action": "relabel",
+          "ops": [
+            {"sel": ":scope", "self": true, "attrs": {"data-rr-band": "locations"}},
+            {"sel": "h2.h2", "copy": "home_locations_title"},
+            {"sel": ".map-text-wrapper p", "copy": "home_locations_body"},
+            {"sel": "a.primary-btn-white .btn-text-on-white", "text": "Explore North Dakota Areas"},
+            {"sel": "a.primary-btn-white", "href": "/locations"}
+          ]
+        },
+        {
+          "selector": ".referenzobjekte",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".content-margin-btm._120px .p1-large-regular.red", "text": "BEFORE PROCEEDS MOVE"},
+            {"sel": ".content-margin-btm._120px .p1-large-regular:not(.red)", "copy": "home_exchange_body"}
+          ]
+        },
+        {
+          "selector": ".referenzobjekte",
+          "action": "card-grid",
+          "source": "exchange-1031",
+          "limit": 3,
+          "heading": ".content-margin-btm._120px h2.h2",
+          "subheading": ".content-margin-btm._120px .p1-large-regular:not(.red)",
+          "subheading_text": "Potential exchange planning begins before a mineral closing and belongs with a qualified intermediary and independent tax counsel.",
+          "card": ".collection-list-ref-home > .w-dyn-item",
+          "card_fields": {
+            "title": "h3.h3-default",
+            "sub": ".location-wrapper p",
+            "category": ".location-wrapper p:nth-of-type(2)",
+            "image": "img.image-18"
+          },
+          "kill_in_card": [
+            ".ref-icon",
+            ".collection-list-wrapper-2",
+            ".text-block-4"
+          ],
+          "view_all": ["All 1031 Exchange Guides", "/exchange-1031"],
+          "view_all_selector": ".button-wrapper .primary-btn"
+        },
+        {
+          "selector": ".page-wrapper > section:last-of-type",
+          "action": "card-grid",
+          "source": "resources",
+          "limit": 3,
+          "heading": ".section-headline-wrapper h2.h2",
+          "card": ".news-list > .w-dyn-item",
+          "card_fields": {
+            "title": "h3.h3-default",
+            "sub": ".news-text-wrapper > p",
+            "category": ".news-kategorie-text",
+            "more": ".news-btn .btn-text",
+            "image": "img.news-image"
+          },
+          "kill_in_card": [
+            ".news-location",
+            ".news-date"
+          ],
+          "view_all": ["All Owner Resources", "/resources"],
+          "view_all_selector": ".button-wrapper .primary-btn"
+        }
+      ]
+    },
+    "about": {
+      "mobile_repair_css": "@media(max-width:767px){.head-stage-section .stage-image-wrapper{position:relative!important;left:0!important;right:auto!important;transform:none!important;width:100%!important;max-width:100%!important;margin-left:0!important;margin-right:0!important}.head-stage-section .stage-image-wrapper img.header-image{display:block!important;width:100%!important;max-width:100%!important;height:auto!important}.section-single-image .single-image-wrapper-service,.section-single-image-right .single-image-wrapper-service,.section-single-image .single-image-box-wrapper.margin-right-120,.section-single-image-right .single-image-box-wrapper.margin-right-120,.section-single-image .single-image-440px,.section-single-image-right .single-image-440px{width:100%!important;max-width:100%!important;min-width:0!important;margin-left:0!important;margin-right:0!important;box-sizing:border-box!important}.section-single-image img.single-image-fernueberwachung,.section-single-image-right img.single-image-fernueberwachung{display:block!important;width:100%!important;max-width:100%!important;height:auto!important}}",
+      "signature": [
+        ".head-stage-section",
+        ".section-single-image",
+        ".cta-image-section",
+        ".management-section",
+        ".section-single-image-right",
+        ".enercon-ueberblick-section"
+      ],
+      "title": ".head-stage-section h1.h1",
+      "semantic_title_selector": ".head-stage-section h1.h1",
+      "sections": [
+        {
+          "selector": ".head-stage-section",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h1.h1", "copy": "about_title"},
+            {"sel": ".p1-large-bold", "copy": "about_story_body"},
+            {"sel": "img.header-image", "img": "/ours/pages/mineral-rights-pages-about-sellmineralrightsnorthdakota-com.jpg", "alt": "About Sell Mineral Rights North Dakota"}
+          ]
+        },
+        {
+          "selector": ".section-single-image",
+          "nth": 0,
+          "action": "relabel",
+          "ops": [
+            {"sel": "h2.h2", "copy": "about_story_title"},
+            {"sel": ".single-image-content p", "copy": "about_story_body"},
+            {"sel": "img.single-image-fernueberwachung", "img": "/ours/pages/mineral-rights-pages-how-it-works-sellmineralrightsnorthdakota-com.jpg", "alt": "North Dakota mineral family records"},
+            {"sel": "a.primary-btn .btn-text", "text": "How the Review Works"},
+            {"sel": "a.primary-btn", "href": "/resources/how-to-sell-mineral-rights"}
+          ]
+        },
+        {
+          "selector": ".cta-image-section",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h2.h2", "copy": "about_kitchen_title"},
+            {"sel": ".green-card p", "copy": "about_kitchen_body"},
+            {"sel": "img.cta-image-bg", "img": "/ours/pages/mineral-rights-pages-home-sellmineralrightsnorthdakota-com.jpg", "alt": "Western North Dakota mineral ownership"},
+            {"sel": "img.cta-image-content", "img": "/ours/resources/mineral-rights-resources-documents-checklist-sellmineralrightsnorthdakota-com.jpg", "alt": "North Dakota mineral document checklist"}
+          ]
+        },
+        {
+          "selector": ".management-section",
+          "action": "card-grid",
+          "source": "resources",
+          "limit": 4,
+          "heading": ".section-headline-wrapper h2.h2",
+          "card": ".collection-list-anpsr--bersicht > .collection-item-anspr-bersicht",
+          "card_fields": {
+            "title": "h3.h3",
+            "sub": ".p2-default-regular",
+            "more": ".link-block p",
+            "image": "img.image-manager"
+          },
+          "kill_in_card": [
+            ".link-block img"
+          ]
+        },
+        {
+          "selector": ".section-single-image-right",
+          "nth": 0,
+          "action": "relabel",
+          "ops": [
+            {"sel": "h2.h2", "copy": "about_research_title"},
+            {"sel": ".single-image-content p", "copy": "about_research_body"},
+            {"sel": "img.single-image-fernueberwachung", "img": "/ours/resources/mineral-rights-resources-division-orders-explained-sellmineralrightsnorthdakota-com.jpg", "alt": "North Dakota division order review"},
+            {"sel": "a.primary-btn .btn-text", "text": "Owner Resources"},
+            {"sel": "a.primary-btn", "href": "/resources"}
+          ]
+        },
+        {
+          "selector": ".section-single-image",
+          "nth": 1,
+          "action": "relabel",
+          "ops": [
+            {"sel": "h2.h2", "copy": "about_offer_title"},
+            {"sel": ".single-image-content p", "nth": 0, "copy": "about_offer_body"},
+            {"sel": ".single-image-content .info-wrapper", "drop": true},
+            {"sel": "img.single-image-fernueberwachung", "img": "/ours/resources/mineral-rights-resources-spotting-lowball-offers-sellmineralrightsnorthdakota-com.jpg", "alt": "North Dakota mineral offer review"},
+            {"sel": "a.primary-btn .btn-text", "text": "Compare Written Terms"},
+            {"sel": "a.primary-btn", "href": "/situations/unsolicited-offer-received"}
+          ]
+        },
+        {
+          "selector": ".section-single-image-right",
+          "nth": 1,
+          "action": "relabel",
+          "ops": [
+            {"sel": "h2.h2", "copy": "about_scope_title"},
+            {"sel": ".single-image-content p", "copy": "about_scope_body"},
+            {"sel": "img.single-image-fernueberwachung", "img": "/ours/pages/mineral-rights-pages-contact-sellmineralrightsnorthdakota-com.jpg", "alt": "North Dakota mineral review desk"},
+            {"sel": "a.primary-btn .btn-text", "text": "Request a Mineral Review"},
+            {"sel": "a.primary-btn", "href": "/contact"}
+          ]
+        },
+        {
+          "selector": ".enercon-ueberblick-section",
+          "action": "card-grid",
+          "source": "situations",
+          "limit": 3,
+          "heading": ".section-headline-wrapper h2.h2",
+          "card": ".grid-weitere-inhalte > .card-link-info",
+          "card_fields": {
+            "title": "h3.h3",
+            "sub": ".text-link-info > p",
+            "more": ".info-link-block p",
+            "image": "img.image-link-info"
+          },
+          "kill_in_card": [
+            ".info-link-block img"
+          ],
+          "view_all": ["All Selling Situations", "/situations"]
+        }
+      ]
+    },
+    "contact": {
+      "repair_css": ".auswahl-wrapper>iframe{display:block!important;width:100%!important;min-height:420px!important;border:0!important;margin:0 0 34px!important}.auswahl-wrapper>div.div-block-40{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:30px!important}.auswahl-wrapper .card-kontakt-auswahl{height:100%!important}.auswahl-wrapper .card-kontakt-auswahl .image-link-info{display:block!important;width:100%!important;height:250px!important;object-fit:cover!important}.auswahl-wrapper>form.div-block-40{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:18px!important;margin:34px 0 80px!important;padding:34px!important;border-top:4px solid #88dfce!important;background:#fff!important;box-sizing:border-box!important}.auswahl-wrapper>form.div-block-40 .p-text-wrapper{margin:0!important;min-width:0!important}.auswahl-wrapper>form.div-block-40 input,.auswahl-wrapper>form.div-block-40 textarea{display:block!important;width:100%!important;min-height:56px!important;padding:14px 16px!important;border:1px solid #78939a!important;background:#fff!important;color:#173d4e!important;font:inherit!important;box-sizing:border-box!important}.auswahl-wrapper>form.div-block-40 textarea{min-height:160px!important;resize:vertical!important}.auswahl-wrapper>form.div-block-40 .p-text-wrapper:has(textarea),.auswahl-wrapper>form.div-block-40 button,.auswahl-wrapper>form.div-block-40:after{grid-column:1/-1!important}.auswahl-wrapper>form.div-block-40 button{justify-self:start!important;min-width:220px!important;border:0!important}.auswahl-wrapper>form.div-block-40:after{content:'By submitting, the sender agrees to be contacted about this mineral inquiry.';display:block!important;font-size:14px!important;line-height:1.5!important;color:#48656f!important}@media(max-width:767px){.auswahl-wrapper>iframe{min-height:340px!important}.auswahl-wrapper>div.div-block-40,.auswahl-wrapper>form.div-block-40{grid-template-columns:1fr!important}.auswahl-wrapper>form.div-block-40{padding:22px!important}.auswahl-wrapper>form.div-block-40 .p-text-wrapper:has(textarea),.auswahl-wrapper>form.div-block-40 button,.auswahl-wrapper>form.div-block-40:after{grid-column:auto!important}.auswahl-wrapper .card-kontakt-auswahl .image-link-info{height:220px!important}}",
+      "signature": [
+        ".auswahl-wrapper",
+        ".card-kontakt-auswahl"
+      ],
+      "semantic_title_selector": ".auswahl-wrapper h1",
+      "form_slot": ".auswahl-wrapper",
+      "consent": "By submitting, the sender agrees to be contacted about this mineral inquiry.",
+      "sections": [
+        {
+          "selector": ".auswahl-wrapper",
+          "action": "relabel",
+          "html_self": "<iframe title=\"Google map\" loading=\"eager\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?q=120%2026th%20St%20E%2C%20Williston%2C%20ND%2058801&amp;output=embed\"></iframe><div class=\"div-block-40\"><div class=\"card-kontakt-auswahl\"><div class=\"link-auswahl-image\"><img class=\"image-link-info\" src=\"/ours/pages/mineral-rights-pages-contact-sellmineralrightsnorthdakota-com.jpg\" alt=\"Request a North Dakota mineral review\"></div><div class=\"content-link-info\"><h1 class=\"h1\">Request a North Dakota Mineral Review</h1><p class=\"p1-large-regular\">Share the county, owner name, interest type, producing status, recent statements if available, and the decision that needs a clearer answer. A complete title file is not required for the first conversation.</p></div></div><div class=\"card-kontakt-auswahl\"><div class=\"link-auswahl-image\"><img class=\"image-link-info\" src=\"/ours/pages/mineral-rights-pages-get-an-offer-sellmineralrightsnorthdakota-com.jpg\" alt=\"North Dakota mineral property details\"></div><div class=\"content-link-info\"><p class=\"p1-large-bold gb-500\">Call 701-555-1033 or email northdakota@sellmineralrightsnorthdakota.com to start with the property facts already available.</p></div></div></div>"
+        }
+      ]
+    },
+    "index": {
+      "mobile_repair_css": "@media(max-width:767px){.head-stage-section .stage-image-wrapper{position:relative!important;left:0!important;right:auto!important;transform:none!important;width:100%!important;max-width:100%!important;margin-left:0!important;margin-right:0!important}.head-stage-section .stage-image-wrapper img.header-image{display:block!important;width:100%!important;max-width:100%!important;height:auto!important}.section-single-image .single-image-wrapper-service,.section-single-image .single-image-box-wrapper.margin-right-120,.section-single-image .single-image-440px{width:100%!important;max-width:100%!important;min-width:0!important;margin-left:0!important;margin-right:0!important;box-sizing:border-box!important}.section-single-image img.single-image-fernueberwachung{display:block!important;width:100%!important;max-width:100%!important;height:auto!important}}",
+      "signature": [
+        ".head-stage-section",
+        ".section-single-image",
+        ".section-benefits",
+        ".anlagenuebersicht-section",
+        ".enercon-ueberblick-section"
+      ],
+      "strip_after_first": [
+        ".anlagenuebersicht-section"
+      ],
+      "hero_heading": ".head-stage-section h1.h1",
+      "hero_meta": ".head-stage-section .p1-large-bold",
+      "hero_image": ".head-stage-section img.header-image",
+      "semantic_title_selector": ".head-stage-section h1.h1",
+      "sections": [
+        {
+          "selector": ".head-stage-section",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h1.h1", "text": "{tax_title}"},
+            {"sel": ".p1-large-bold", "text": "{meta160}"}
+          ]
+        },
+        {
+          "selector": ".section-single-image",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h2.h2", "text": "{tax_title}: Read the Record Before the Number"},
+            {"sel": ".single-image-content p", "text": "{meta160}"},
+            {"sel": "img.single-image-fernueberwachung", "img": "{img1}", "alt": "{tax_title}"}
+          ]
+        },
+        {
+          "selector": ".section-benefits:not(.green)",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".cta-icon-content h3", "nth": 0, "copy": "index_step_one_title"},
+            {"sel": ".cta-icon-content p", "nth": 0, "copy": "index_step_one_body"},
+            {"sel": ".cta-icon-content h3", "nth": 1, "copy": "index_step_two_title"},
+            {"sel": ".cta-icon-content p", "nth": 1, "copy": "index_step_two_body"},
+            {"sel": ".cta-icon-content h3", "nth": 2, "copy": "index_step_three_title"},
+            {"sel": ".cta-icon-content p", "nth": 2, "copy": "index_step_three_body"}
+          ]
+        },
+        {
+          "selector": ".anlagenuebersicht-section",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".content-margin-btm.btm-90px h2.h2", "text": "{tax_title}"},
+            {"sel": ".content-margin-btm.btm-90px .p1-large-bold", "text": "North Dakota owner ledger"},
+            {"sel": ".content-margin-btm.btm-90px .p1-large-regular", "text": "{meta160}"}
+          ]
+        },
+        {
+          "selector": ".section-benefits.green",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".section-headline-wrapper h2", "copy": "index_standard_title"},
+            {"sel": ".cta-icon-content h3", "nth": 0, "copy": "index_standard_one_title"},
+            {"sel": ".cta-icon-content p", "nth": 0, "copy": "index_standard_one_body"},
+            {"sel": ".cta-icon-content h3", "nth": 1, "copy": "index_standard_two_title"},
+            {"sel": ".cta-icon-content p", "nth": 1, "copy": "index_standard_two_body"},
+            {"sel": ".cta-icon-content h3", "nth": 2, "copy": "index_standard_three_title"},
+            {"sel": ".cta-icon-content p", "nth": 2, "copy": "index_standard_three_body"},
+            {"sel": ".cta-icon-content h3", "nth": 3, "copy": "index_standard_four_title"},
+            {"sel": ".cta-icon-content p", "nth": 3, "copy": "index_standard_four_body"},
+            {"sel": ".cta-icon-content h3", "nth": 4, "copy": "index_standard_five_title"},
+            {"sel": ".cta-icon-content p", "nth": 4, "copy": "index_standard_five_body"},
+            {"sel": ".cta-icon-content h3", "nth": 5, "copy": "index_standard_six_title"},
+            {"sel": ".cta-icon-content p", "nth": 5, "copy": "index_standard_six_body"}
+          ]
+        },
+        {
+          "selector": ".enercon-ueberblick-section",
+          "action": "card-grid",
+          "source": "resources",
+          "limit": 3,
+          "heading": ".section-headline-wrapper h2.h2",
+          "card": ".grid-weitere-inhalte > .card-link-info",
+          "card_fields": {
+            "title": "h3.h3",
+            "sub": ".text-link-info > p",
+            "more": ".info-link-block p",
+            "image": "img.image-link-info"
+          },
+          "kill_in_card": [
+            ".info-link-block img"
+          ],
+          "view_all": ["All Owner Resources", "/resources"]
+        }
+      ],
+      "grid": ".anlagenuebersicht-section .collection-list-windenergieanlagen",
+      "card": ".collection-item-3",
+      "kill_in_card": [
+        ".neu-sticker",
+        ".content-line"
+      ],
+      "card_fields": {
+        "title": "h2.h2",
+        "sub": ".p2-default-regular",
+        "category": ".p2-default-bold",
+        "more": ".anlagen-btn .btn-text",
+        "image": "img.image-uebersicht"
+      }
+    },
+    "slug": {
+      "mobile_repair_css": "@media(max-width:767px){.head-stage-section .stage-image-wrapper{position:relative!important;left:0!important;right:auto!important;transform:none!important;width:100%!important;max-width:100%!important;margin-left:0!important;margin-right:0!important}.head-stage-section .stage-image-wrapper img.header-image{display:block!important;width:100%!important;max-width:100%!important;height:auto!important}.section-single-image .single-image-wrapper-service,.section-single-image .single-image-box-wrapper.margin-right-120,.section-single-image .single-image-440px{width:100%!important;max-width:100%!important;min-width:0!important;margin-left:0!important;margin-right:0!important;box-sizing:border-box!important}.section-single-image img.single-image-fernueberwachung{display:block!important;width:100%!important;max-width:100%!important;height:auto!important}}",
+      "not_found_slot": ".page-wrapper",
+      "not_found_shell_html": "<section class=\"head-stage-section\"><div class=\"padding-side normal\"><div class=\"padding-top-bottom top-btm-120\"><div class=\"w-layout-blockcontainer main-container w-container\"><div class=\"h-text-wrapper _20px\"><h1 class=\"h1\">{title}</h1></div><div class=\"p-text-wrapper maxw90 _40px\"><p class=\"p1-large-regular\">{body}</p></div><div class=\"rr-not-found-links\">{links}</div></div></div></div></section>",
+      "signature": [
+        ".head-stage-section",
+        ".section-single-image",
+        ".section-benefits",
+        ".sectioan-diagramm",
+        ".wea-gallerie",
+        ".portfolio",
+        ".section-cta-text"
+      ],
+      "back_button": ".head-stage-section a.zuruek-link",
+      "back_label": ".head-stage-section a.zuruek-link p",
+      "semantic_title_selector": ".head-stage-section h1.h1",
+      "strip": [
+        ".video-container",
+        ".w-condition-invisible"
+      ],
+      "sections": [
+        {
+          "selector": ".head-stage-section",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h1.h1", "text": "{name}"},
+            {"sel": ".p1-large-bold", "text": "{meta160}"},
+            {"sel": "img.header-image", "img": "{img0}", "alt": "{name}"}
+          ]
+        },
+        {
+          "selector": ".section-single-image",
+          "nth": 0,
+          "action": "relabel",
+          "ops": [
+            {"sel": ".rt-standard h2", "text": "{sec0.title}"},
+            {"sel": ".rt-standard", "html": "{sec0.html}", "demote_h1": true},
+            {"sel": "img.single-image-fernueberwachung", "img": "{img1}", "alt": "{name}"}
+          ]
+        },
+        {
+          "selector": ".section-benefits:not(.green) .cta-icon-content-white",
+          "nth": 5,
+          "action": "relabel",
+          "drop_band_if_empty": "{sec6.html}",
+          "ops": [
+            {"sel": "h3", "text": "{sec6.title}"},
+            {"sel": "p", "html": "{sec6.html}", "demote_h1": true}
+          ]
+        },
+        {
+          "selector": ".section-benefits:not(.green) .cta-icon-content-white",
+          "nth": 4,
+          "action": "relabel",
+          "drop_band_if_empty": "{sec5.html}",
+          "ops": [
+            {"sel": "h3", "text": "{sec5.title}"},
+            {"sel": "p", "html": "{sec5.html}", "demote_h1": true}
+          ]
+        },
+        {
+          "selector": ".section-benefits:not(.green) .cta-icon-content-white",
+          "nth": 3,
+          "action": "relabel",
+          "drop_band_if_empty": "{sec4.html}",
+          "ops": [
+            {"sel": "h3", "text": "{sec4.title}"},
+            {"sel": "p", "html": "{sec4.html}", "demote_h1": true}
+          ]
+        },
+        {
+          "selector": ".section-benefits:not(.green) .cta-icon-content-white",
+          "nth": 2,
+          "action": "relabel",
+          "drop_band_if_empty": "{sec3.html}",
+          "ops": [
+            {"sel": "h3", "text": "{sec3.title}"},
+            {"sel": "p", "html": "{sec3.html}", "demote_h1": true}
+          ]
+        },
+        {
+          "selector": ".section-benefits:not(.green) .cta-icon-content-white",
+          "nth": 1,
+          "action": "relabel",
+          "drop_band_if_empty": "{sec2.html}",
+          "ops": [
+            {"sel": "h3", "text": "{sec2.title}"},
+            {"sel": "p", "html": "{sec2.html}", "demote_h1": true}
+          ]
+        },
+        {
+          "selector": ".section-benefits:not(.green) .cta-icon-content-white",
+          "nth": 0,
+          "action": "relabel",
+          "drop_band_if_empty": "{sec1.html}",
+          "ops": [
+            {"sel": "h3", "text": "{sec1.title}"},
+            {"sel": "p", "html": "{sec1.html}", "demote_h1": true}
+          ]
+        },
+        {
+          "selector": ".section-benefits:not(.green)",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".section-headline-wrapper h2", "text": "What Matters for {name}"}
+          ]
+        },
+        {
+          "selector": ".sectioan-diagramm",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".section-headline-wrapper h2", "copy": "faq_heading"},
+            {
+              "sel": ".diagramm-list-wrapper",
+              "fill_faqs": true,
+              "item_sel": ".cta-icon-content-diagramm",
+              "q_sel": "h3",
+              "a_sel": "p"
+            },
+            {"sel": ".diagramm-wrapper img", "img": "{img2}", "alt": "{name} owner questions"}
+          ]
+        },
+        {
+          "selector": ".download-infoblatt",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h3", "copy": "detail_cta_title"},
+            {"sel": ".download-infoblatt-content p", "copy": "detail_cta_body"},
+            {"sel": "a.primary-btn-white .btn-text-on-white", "text": "Request a Mineral Review"},
+            {"sel": "a.primary-btn-white", "href": "/contact"}
+          ]
+        },
+        {
+          "selector": ".section-single-image",
+          "nth": 1,
+          "action": "relabel",
+          "ops": [
+            {"sel": "h2.h2", "copy": "detail_cta_title"},
+            {"sel": ".rt-standard", "html_copy": ["detail_followup"]},
+            {"sel": "img.single-image-fernueberwachung", "img": "{img3}", "alt": "{name} review records"},
+            {"sel": "a.primary-btn .btn-text", "text": "Start the Review"},
+            {"sel": "a.primary-btn", "href": "/contact"}
+          ]
+        },
+        {
+          "selector": ".wea-gallerie",
+          "action": "relabel",
+          "ops": [
+            {"sel": "img.produkt-image-l", "nth": 0, "img": "{img4}", "alt": "{name} record view 1"},
+            {"sel": "img.produkt-image-m", "nth": 0, "img": "{img5}", "alt": "{name} record view 2"},
+            {"sel": "img.produkt-image-l", "nth": 1, "img": "{img6}", "alt": "{name} record view 3"},
+            {"sel": "img.produkt-image-m", "nth": 1, "img": "{img7}", "alt": "{name} record view 4"}
+          ]
+        },
+        {
+          "selector": ".section-benefits.green",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".section-headline-wrapper h2", "copy": "detail_standard_title"},
+            {"sel": ".cta-icon-content h3", "nth": 0, "copy": "detail_standard_one_title"},
+            {"sel": ".cta-icon-content p", "nth": 0, "copy": "detail_standard_one_body"},
+            {"sel": ".cta-icon-content h3", "nth": 1, "copy": "detail_standard_two_title"},
+            {"sel": ".cta-icon-content p", "nth": 1, "copy": "detail_standard_two_body"},
+            {"sel": ".cta-icon-content h3", "nth": 2, "copy": "detail_standard_three_title"},
+            {"sel": ".cta-icon-content p", "nth": 2, "copy": "detail_standard_three_body"},
+            {"sel": ".cta-icon-content h3", "nth": 3, "copy": "detail_standard_four_title"},
+            {"sel": ".cta-icon-content p", "nth": 3, "copy": "detail_standard_four_body"},
+            {"sel": ".cta-icon-content h3", "nth": 4, "copy": "detail_standard_five_title"},
+            {"sel": ".cta-icon-content p", "nth": 4, "copy": "detail_standard_five_body"},
+            {"sel": ".cta-icon-content h3", "nth": 5, "copy": "detail_standard_six_title"},
+            {"sel": ".cta-icon-content p", "nth": 5, "copy": "detail_standard_six_body"}
+          ]
+        },
+        {
+          "selector": ".portfolio",
+          "action": "card-grid",
+          "source": "$tax",
+          "limit": 3,
+          "heading": ".section-headline-wrapper h2.h2",
+          "card": ".collection-list-anlagenportfolio > .w-dyn-item",
+          "card_fields": {
+            "title": "h2.h2",
+            "more": ".anlagen-btn .btn-text",
+            "image": "img.image-3"
+          },
+          "kill_in_card": [
+            ".neu-sticker",
+            ".anlagen-content-wrapper > div:not(.h-text-wrapper)"
+          ]
+        },
+        {
+          "selector": ".section-cta-text",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h2.h2", "copy": "detail_cta_title"},
+            {"sel": ".cta-text-wrapper p", "copy": "detail_cta_body"},
+            {"sel": "a.secondary-btn .btn-text", "text": "Request a Mineral Review"},
+            {"sel": "a.secondary-btn", "href": "/contact"}
+          ]
+        },
+        {
+          "selector": ".enercon-ueberblick-section",
+          "action": "card-grid",
+          "source": "resources",
+          "limit": 3,
+          "heading": ".section-headline-wrapper h2.h2",
+          "card": ".grid-weitere-inhalte > .card-link-info",
+          "card_fields": {
+            "title": "h3.h3",
+            "sub": ".text-link-info > p",
+            "more": ".info-link-block p",
+            "image": "img.image-link-info"
+          },
+          "kill_in_card": [
+            ".info-link-block img"
+          ],
+          "view_all": ["All Owner Resources", "/resources"]
+        }
+      ]
+    },
+    "404": {
+      "repair_css": ".rr-not-found-links{margin-top:34px!important}.rr-not-found-links ul{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:12px 28px!important;margin:0 0 34px!important;padding:0!important;list-style:none!important}.rr-not-found-links li{margin:0!important}.rr-not-found-links li a{color:#173d4e!important;text-decoration-thickness:1px!important;text-underline-offset:4px!important}@media(max-width:700px){.rr-not-found-links ul{grid-template-columns:1fr!important}}"
+    },
+    "legal_template": "about"
+  }
+}

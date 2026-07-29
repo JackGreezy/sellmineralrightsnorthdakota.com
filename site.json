@@ -1,0 +1,20 @@
+{
+ "domain": "sellmineralrightsnorthdakota.com",
+ "keyword": "sell mineral rights north dakota",
+ "segment": "northdakota-state",
+ "intent": "seller",
+ "tier": "Expansion (260 head vol)",
+ "available": true,
+ "voice": "fourth-gen-ranch-family: sold their own minerals once; empathetic, story-forward",
+ "angle": "ND pillar; nonresident-heir owners + 'ND mineral rights value' 110/mo; Bakken royalty statements depth",
+ "taxonomyCounts": {
+  "locations": 73,
+  "basins": 1,
+  "situations": 10,
+  "interest-types": 6,
+  "resources": 10,
+  "pages": 7
+ },
+ "totalPages": 107,
+ "status": "scaffold"
+}

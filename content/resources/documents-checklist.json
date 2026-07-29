@@ -1,0 +1,76 @@
+{
+ "slug": "documents-checklist",
+ "title": "Documents You Need to Sell",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Documents Needed to Sell ND Mineral Rights",
+ "metaDescription": "The paperwork a North Dakota mineral sale actually needs, from deeds and division orders to heirship affidavits for family land.",
+ "heroLead": "Before anyone can write a real offer on your North Dakota minerals, they need to see paper, and knowing what to gather ahead of time saves weeks off the process.",
+ "intro": [
+  "When we sold a piece of our own family's minerals a few years back, the slowest part wasn't the negotiating, it was hunting down paperwork that had been stuffed in three different drawers across two houses. Some of it was in my late aunt's handwriting from a 1970s lease renewal. Some of it we had to drive to the courthouse in Watford City to get copies of ourselves. If you gather the right documents up front, a buyer can move fast. If you don't, the whole thing stalls waiting on paper that should have taken a phone call to find."
+ ],
+ "sections": [
+  {
+   "heading": "The core ownership documents",
+   "paragraphs": [
+    "Start with your deed, the document that shows how you came to own the minerals, whether that's a mineral deed, a warranty deed with a mineral reservation, or a court order from probate. If you inherited the interest, you'll also need whatever proved that transfer: a will, a decree of distribution, or an affidavit of heirship recorded in the county where the minerals sit.",
+    "If your name has changed since the deed was recorded, through marriage or otherwise, bring documentation of that too, because a buyer's title company will flag any mismatch between the name on the deed and the name on the offer."
+   ]
+  },
+  {
+   "heading": "Lease and production paperwork",
+   "paragraphs": [
+    "If your minerals are currently leased, gather a copy of the lease itself, including any amendments or extensions. This tells a buyer the royalty rate, the primary term, and whether the lease is held by production, which matters a great deal in valuing an interest.",
+    "If a well is already producing on your acreage, pull together your most recent division orders and a handful of recent royalty check stubs or statements. These show real production history rather than an estimate, and in our experience they're what turns a rough offer into a firm one."
+   ]
+  },
+  {
+   "heading": "Family and heirship paperwork",
+   "paragraphs": [
+    "A lot of North Dakota mineral ownership traces back through several generations of ranch and farm families, and it's common for an interest to be split among siblings or cousins who each own a fraction. If that's your situation, gather whatever family paperwork exists showing who the current owners are, even if it's informal, because it gives everyone a starting point rather than reconstructing it from scratch.",
+    "If part of the ownership was never formally probated, a real buyer will tell you that up front instead of pretending it's not an issue. Sometimes a small estate affidavit is enough. Sometimes it needs a short probate. Either way, knowing this early keeps the timeline honest."
+   ]
+  },
+  {
+   "heading": "What you don't need to track down yourself",
+   "paragraphs": [
+    "You don't need a formal appraisal, a survey, or a title opinion before you talk to a buyer. Those are things a serious buyer runs on their own dime once you're close to a deal, and asking a family to pay for that work up front is backwards. Your job at this stage is just to hand over what you already have, even if it's incomplete.",
+    "It's also fine to talk to your CPA or attorney before signing anything, especially if the ownership involves multiple heirs or an estate that hasn't been settled. A short conversation there can save a longer one later.",
+    "Even a partial set of paperwork is a fine starting point. If all you have is a tax statement showing the legal description and the county, that's often enough for a buyer to pull the rest of the chain of title from public records and figure out what's missing."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What if I can't find my original deed?",
+   "answer": "The county recorder's office in the county where your minerals sit keeps recorded copies going back decades. A quick call or visit, sometimes even a search on the county's own online index, will usually turn up a copy for a small fee."
+  },
+  {
+   "question": "Do I need a title company before I get an offer?",
+   "answer": "No. Title work happens after you've agreed to terms, as part of closing. A buyer shouldn't ask a family to pay for title work just to receive an offer."
+  },
+  {
+   "question": "My interest was never formally probated, can I still sell?",
+   "answer": "Often yes, though it may require a small estate affidavit or a short probate first depending on North Dakota law and the size of the estate. This is worth a conversation with an attorney early rather than late."
+  },
+  {
+   "question": "What if multiple family members own the same interest?",
+   "answer": "Each owner generally needs to sign their own deed to convey their share, though co-owners can often move through the process together once everyone agrees on terms."
+  },
+  {
+   "question": "What if my family's paperwork is scattered across different relatives?",
+   "answer": "That's common with ranch families where documents got split up between siblings or passed down piecemeal. Gather what you can from each branch of the family and share it as you find it, rather than waiting until you have everything in one place before reaching out."
+  },
+  {
+   "question": "Do I need copies of every royalty check I've ever received?",
+   "answer": "No, a handful of recent statements is usually enough to show current production, along with your division order for that well."
+  }
+ ],
+ "wordCount": 903,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-documents-checklist-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "Documents You Need to Sell mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

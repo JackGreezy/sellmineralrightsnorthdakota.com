@@ -1,0 +1,71 @@
+{
+ "slug": "bakken",
+ "title": "Bakken Mineral Rights",
+ "type": "basin",
+ "group": "ND/MT",
+ "primaryKeyword": "bakken mineral rights",
+ "seo": {
+  "vol": 90,
+  "cpc": null
+ },
+ "metaTitle": "Bakken Mineral Rights: What Owners Should Know",
+ "metaDescription": "Own minerals under the Bakken or Three Forks in North Dakota? Here is how the play actually pays, what your statement means, and how to get an offer.",
+ "heroLead": "My grandfather ran cattle over ground that turned out to be sitting on the Bakken, and by the time my dad was managing the checkbook, half our neighbors could recite formation names like scripture.",
+ "intro": [
+  "The Bakken is a shale formation stacked between older marine rock, and it runs under most of the Williston Basin in western North Dakota, eastern Montana, and up into Saskatchewan. Below it sits the Three Forks, a second productive zone that operators now drill almost as often as the Bakken itself. If your family's minerals sit in McKenzie, Mountrail, Dunn, Williams, Burke, Divide, or McLean County, there is a real chance both zones have been tested, leased, or drilled under your acreage at some point since the horizontal boom took off in the mid-2000s.",
+  "We sold our own minerals out of a family trust a decade back, after years of watching a royalty check swing with oil prices and rail differentials neither of us controlled. What we learned then still holds: understanding the play matters more than any single number on an offer letter."
+ ],
+ "sections": [
+  {
+   "heading": "How the Bakken and Three Forks actually produce",
+   "paragraphs": [
+    "Operators drill horizontal wells two miles or more into the Bakken's middle dolomitic layer, or into one of several benches within the Three Forks, then hydraulically fracture the wellbore in dozens of stages. A single well often drains a large modern spacing unit, which is why the North Dakota Industrial Commission has pushed many units toward 1,280 acres instead of the older 640-acre standard. If your tract is inside one of these larger units, your fractional share of production may have changed even if nothing was ever drilled on your specific quarter section.",
+    "Production from a horizontal Bakken well behaves nothing like a vertical well from the old days. Initial rates can be strong, but decline in the first year is steep, often 60 percent or more, before settling into a long, shallow tail that can run for decades. That curve is exactly why a royalty check from year one looks so different from a check on the same well five years later, and why buyers price minerals against a blend of near-term cash flow and long-tail expectation rather than a single month's statement."
+   ]
+  },
+  {
+   "heading": "Reading a Bakken royalty statement",
+   "paragraphs": [
+    "Companies like Continental Resources, Hess, Marathon, Whiting, Oasis, and Slawson historically operated large positions across the play, and each issues statements with its own layout, but the mechanics are similar. Look for the gross production volume, the price received (Bakken crude has often sold at a discount to West Texas Intermediate because of pipeline and rail logistics out of the basin), post-production deductions for gathering and processing, and your net decimal interest applied at the bottom.",
+    "Gas royalty lines confuse a lot of owners, because associated gas in the Bakken has sometimes been flared or vented rather than sold, especially on newer wells waiting for gas capture infrastructure. If your statement shows oil revenue but little or no gas revenue on an active well, that is often the reason, not an error in your interest calculation."
+   ]
+  },
+  {
+   "heading": "What buyers weigh when they price Bakken minerals",
+   "paragraphs": [
+    "A buyer will typically want your net mineral acreage, your decimal interest under the producing unit, recent statements showing actual volumes and price received, and whatever lease terms are on file at the county recorder. Undeveloped acreage in the core of the play, where operators have been active with multiple wells per section, tends to draw more interest than flank acreage where only a single well has been drilled or where the lease has expired without a well.",
+    "Value talk should always be hedged against current activity rather than stated as a flat number, since Bakken pricing moves with oil markets, differential spreads, and how close an operator's next pad is to your unit. Anyone quoting you a guaranteed figure before reviewing your actual decimal interest and recent statements is skipping the part of the work that matters."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does the Bakken or the Three Forks pay differently?",
+   "answer": "Both zones are priced against the same oil and gas markets, so the difference usually comes down to which bench was drilled, how many wells target your specific spacing unit, and where your tract sits relative to the operator's development plan, not the formation name itself."
+  },
+  {
+   "question": "My statement shows a big drop from last year. Is that normal?",
+   "answer": "Often yes. Bakken wells decline quickly in year one and two, so a statement two or three years after first production can look much smaller than an early check, even with no change in your ownership or the price of oil."
+  },
+  {
+   "question": "What counties are considered the core of the Bakken in North Dakota?",
+   "answer": "McKenzie, Mountrail, and Dunn County have historically seen the heaviest horizontal drilling density, with Williams, Burke, Divide, and McLean County holding strong but somewhat lighter activity depending on the specific township."
+  },
+  {
+   "question": "Do I need to know my exact decimal interest before I get an offer?",
+   "answer": "No. A recent division order or royalty statement is enough to get started, and we can help you interpret it against county records if you are not sure what your fractional interest actually is."
+  },
+  {
+   "question": "Can undeveloped Bakken acreage still be worth selling?",
+   "answer": "Yes, particularly in the core counties where an operator holds an active lease or has drilled nearby units, though pricing on undeveloped ground depends heavily on how close and how recent that activity is."
+  }
+ ],
+ "status": "written",
+ "wordCount": 933,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-bakken-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "Bakken Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

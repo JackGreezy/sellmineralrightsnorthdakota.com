@@ -1,0 +1,68 @@
+{
+ "slug": "mineral-rights",
+ "title": "Mineral Rights",
+ "type": "interest-type",
+ "metaTitle": "What Are Mineral Rights? North Dakota Owner's Guide",
+ "metaDescription": "Understand what North Dakota mineral rights actually are, how they're severed from surface land, and what owning them means for Bakken income.",
+ "heroLead": "Every deed we ever signed as a family had two very different kinds of ownership tangled up in one piece of paper, the ground my grandfather grazed cattle on, and the rock underneath it that nobody could see.",
+ "intro": [
+  "Mineral rights are ownership of what lies beneath a tract of land, oil, gas, and other minerals, separate from ownership of the surface itself. In North Dakota, like most oil and gas producing states, the surface and mineral estates can be severed, meaning one person or entity owns the ground you'd walk on while a different person entirely owns the oil and gas under it. If your family homesteaded ground and later sold the surface while keeping the minerals, or the reverse, you're living the practical result of that severance every time a royalty statement or a lease offer arrives.",
+  "Owning mineral rights means you own real property, with the same weight as a deed to a house, even though what you own can't be seen, walked on, or fenced."
+ ],
+ "sections": [
+  {
+   "heading": "What owning the mineral estate actually includes",
+   "paragraphs": [
+    "A full mineral interest generally includes the right to explore for and produce oil and gas, the right to lease that potential to an operator in exchange for a bonus and future royalty, the right to a share of production if a well is drilled, and executive rights, meaning the authority to negotiate and sign leases yourself. Some owners hold all of these together, while others have sold or retained only a piece, such as a royalty interest without executive rights, which is a different, narrower category.",
+    "In the Bakken and Three Forks trend, most mineral owners today are receiving royalty income under a lease an operator negotiated, rather than actively managing exploration themselves, but the underlying ownership is still the mineral estate."
+   ]
+  },
+  {
+   "heading": "How mineral rights get separated from the surface",
+   "paragraphs": [
+    "Severance happens through a specific deed, sometimes when a family sells the surface but reserves the minerals for future generations, sometimes the opposite, and sometimes through inheritance where surface and minerals were split between different heirs. Once severed, the two estates can be bought, sold, leased, and inherited entirely independently of each other, and the mineral owner generally has the right to reasonable access for development, subject to North Dakota's surface owner protections.",
+    "This is why a family can still own valuable Bakken minerals decades after selling the actual ranch or farm the minerals sit under, and why checking your specific deed language matters more than assuming based on what land your family currently holds."
+   ]
+  },
+  {
+   "heading": "What this means when you're deciding whether to sell",
+   "paragraphs": [
+    "Because mineral rights are real property, selling them works much like selling any other real estate interest, a deed conveys ownership, and it gets recorded at the county where the minerals are located. What you're selling is the underlying rock and everything tied to it, far more than a single royalty check, which is why a buyer looks at your full decimal interest, lease status, and production history rather than only recent income.",
+    "Knowing exactly what category of mineral interest you hold, full mineral rights, a royalty interest, or something narrower, is the starting point for any conversation about value, since the answer changes what you're actually offering to sell."
+   ]
+  },
+  {
+   "heading": "Executive rights and why they matter beyond the royalty check",
+   "paragraphs": [
+    "Holding executive rights means you decide whether to lease at all, which operator to lease to, and what terms to negotiate on royalty rate, bonus, and lease length. In a fast-moving leasing environment, that authority can matter as much as the royalty percentage itself, since a well-negotiated lease with a strong operator can outperform a weaker deal signed in a hurry.",
+    "If you're not sure whether your deed carries executive rights or only a royalty share, that distinction is worth confirming before you ever field a lease offer, not after, since it determines whether you're the one making the call or simply the one receiving a check once someone else does."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Are mineral rights the same as royalty interests?",
+   "answer": "Not exactly. Mineral rights are the broader ownership, including executive rights to lease, while a royalty interest is a narrower right to a share of production income, sometimes carved out or reserved separately from the full mineral estate."
+  },
+  {
+   "question": "How do I find out if I own the minerals under land my family sold?",
+   "answer": "Check the deed that transferred the surface, since a reservation of minerals is typically stated explicitly in that document, and the county recorder's office where the land sits can pull historical records if you don't have a copy."
+  },
+  {
+   "question": "Can mineral rights be owned forever, or do they expire?",
+   "answer": "Ownership itself doesn't expire on its own, though some states have dormant mineral statutes that can affect long-unused interests, so it's worth confirming your specific situation if the interest has been inactive for many years."
+  },
+  {
+   "question": "Do I need to own the surface to sell my mineral rights?",
+   "answer": "No, the two are independent. You can sell your mineral interest while someone else entirely continues to own and use the surface land above it."
+  }
+ ],
+ "status": "written",
+ "wordCount": 872,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-mineral-rights-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

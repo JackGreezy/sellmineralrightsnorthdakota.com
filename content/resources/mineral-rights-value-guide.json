@@ -1,0 +1,76 @@
+{
+ "slug": "mineral-rights-value-guide",
+ "title": "What Are Mineral Rights Worth?",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "What Are North Dakota Mineral Rights Worth?",
+ "metaDescription": "A grounded look at what drives North Dakota mineral rights value: production, location in the play, decline curves, and current oil prices.",
+ "heroLead": "Value is the question every mineral owner in North Dakota eventually asks, and the honest answer is that it depends on a handful of specific things about your acreage, not one number that applies statewide.",
+ "intro": [
+  "We get asked what minerals are worth almost every week, usually from someone who inherited an interest and has no idea where to start. We've sold our own, so we understand the instinct to want a quick number. But quoting one flat figure for the whole state would be doing exactly what we tell people to watch out for from other buyers. Value depends on where your acreage sits and what's actually happening on it."
+ ],
+ "sections": [
+  {
+   "heading": "Location within the Bakken and Three Forks matters most",
+   "paragraphs": [
+    "North Dakota's mineral value is tied heavily to the Bakken and Three Forks formations, and not all acreage sits in the same position relative to that play. Core counties like McKenzie, Mountrail, Williams, and Dunn have seen the heaviest, most consistent drilling activity for over a decade, while acreage on the fringes of the play, or in counties with less consistent drilling history, generally carries more uncertainty.",
+    "This is why two owners with the same acreage size can hear very different numbers from a buyer, depending entirely on which county, and often which specific spacing unit, their minerals sit in."
+   ]
+  },
+  {
+   "heading": "Whether you're leased, unleased, or producing",
+   "paragraphs": [
+    "Producing minerals with an active well and real royalty history give a buyer something concrete to project future income from. Leased but not yet producing acreage carries more uncertainty, since it depends on when or whether the operator drills. Unleased, undeveloped minerals carry the most uncertainty of all, since there's no lease bonus history or production data to point to.",
+    "In general, production history is what turns a rough estimate into a firmer number, which is part of why we always ask for recent royalty statements or division orders as a starting point."
+   ]
+  },
+  {
+   "heading": "Decline curves and well age",
+   "paragraphs": [
+    "Bakken and Three Forks wells typically produce heavily in their first couple of years, then decline steadily after that. A well two years into production is worth valuing very differently than one that's been in decline for eight or ten years, even if both are producing on similar-sized units. Buyers factor remaining productive life into their valuation, which is part of why offers on the same acreage can shift over time as the well ages.",
+    "Newer wells drilled with modern completion techniques have also generally produced more per lateral foot than older vertical wells, which is another reason vintage matters as much as location."
+   ]
+  },
+  {
+   "heading": "Oil prices and market conditions",
+   "paragraphs": [
+    "Because royalty income moves directly with oil and gas prices, mineral values tend to track market conditions over time, rising when prices are strong and softening when they pull back. This is one reason offers you get today may look different from offers a year ago or a year from now, and it's part of why we talk in ranges tied to current activity rather than fixed numbers.",
+    "If you're comparing offers, it's fair to ask a buyer how recent oil prices and nearby well performance factored into their number, rather than accepting a flat figure without explanation.",
+    "We've seen offers on the same acreage shift by a meaningful margin over the course of a single year purely because of price swings, with nothing else about the underlying wells changing at all. That's not a sign anyone did anything wrong, it's just how closely tied mineral value is to the commodity itself."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is there a per-acre price I can use to estimate my minerals?",
+   "answer": "Not reliably. Value varies too much by county, spacing unit, well age, and current market conditions for a single per-acre figure to mean much without looking at your specific acreage."
+  },
+  {
+   "question": "Are minerals in McKenzie County worth more than other counties?",
+   "answer": "McKenzie County has historically seen some of the heaviest drilling activity in the Bakken, but value still depends on the specific spacing unit and production history, not the county name alone."
+  },
+  {
+   "question": "Does an older, declining well mean my minerals are worth less?",
+   "answer": "Typically yes, since less future production remains to be projected, though older wells can still hold value, especially if there's potential for future infill drilling on the same unit."
+  },
+  {
+   "question": "How often should I get my minerals re-evaluated?",
+   "answer": "There's no fixed schedule, but it's reasonable to check in whenever nearby drilling activity picks up, a new well is permitted on your unit, or oil prices shift significantly."
+  },
+  {
+   "question": "Can I get a rough sense of value without selling?",
+   "answer": "Yes, a real buyer should be willing to walk through the factors driving value on your specific acreage even if you're just exploring the idea and not ready to commit."
+  },
+  {
+   "question": "Does the number of wells on my unit affect value?",
+   "answer": "Yes, spacing units with multiple producing wells generally show a fuller production picture than a unit with just one well, though each well's individual age and decline still matters more than the raw count."
+  }
+ ],
+ "wordCount": 857,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-rights-value-guide-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "What Are Mineral Rights Worth? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

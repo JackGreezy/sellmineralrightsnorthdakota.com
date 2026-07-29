@@ -1,0 +1,71 @@
+{
+ "slug": "division-orders-explained",
+ "title": "Division Orders Explained",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Division Orders Explained | ND Mineral Owners",
+ "metaDescription": "A plain-language walkthrough of North Dakota division orders: what the decimal means, why it changes, and what to check before you sign one.",
+ "heroLead": "The first division order that lands in a North Dakota mailbox usually raises more questions than it answers, and that's fine, because it's a legal form dressed up as paperwork.",
+ "intro": [
+  "My grandfather used to say the division order was the only mail he got that took longer to understand than a weather forecast. He wasn't wrong. It's a short form with a long tail, and if you sign it wrong, or sign it without checking it, you can spend years correcting the mistake. Our family has gone through the process on our own home quarter in McKenzie County, so this isn't theory to us. It's the same stack of paper we've sorted through at the kitchen table more than once."
+ ],
+ "sections": [
+  {
+   "heading": "What a division order actually is",
+   "paragraphs": [
+    "A division order is the operator's statement of who owns what share of production from a well, expressed as a decimal interest, and a request for you to confirm it before they start paying you. It is not the lease. It does not change your ownership. It's an accounting document that tells the operator's revenue department how to split the check among everyone with an interest in that spacing unit.",
+    "In North Dakota, most wells are drilled on 1,280-acre units under Bakken and Three Forks spacing orders, so a single division order might be carving your interest down to eight or ten decimal places. That's normal. What matters is whether the decimal matches the acreage and interest type you actually own, not whether the number looks small on the page."
+   ]
+  },
+  {
+   "heading": "Where the decimal comes from",
+   "paragraphs": [
+    "The operator's land department builds your decimal from the county records: your deed, any probate or heirship affidavits, the lease, and the spacing order for that unit. If you own 40 net mineral acres in a 1,280-acre unit under a lease with a standard royalty, the math is your net acres divided by the unit size, times your royalty fraction. Simple in theory. In practice, North Dakota mineral ownership is often split across generations through wills that were never formally probated, and that's where the decimal gets it wrong.",
+    "We've seen division orders that undercount an owner's share because the title work only found half the heirs, or because an old deed reserved minerals in a way the land department's title runner read differently than the family understood it. Neither side is necessarily at fault. It's just old paper and small print."
+   ]
+  },
+  {
+   "heading": "Checking it before you sign",
+   "paragraphs": [
+    "Compare the decimal interest on the division order to your own math, or to the interest shown on your last check stub if you've owned this interest a while. Confirm the well name, API number, and county match what you expect. Look at whether it lists you as a working interest owner or a royalty owner, because those are taxed and treated very differently, and a clerical mix-up here is more common than people assume.",
+    "If the numbers don't match, you're not stuck. Call the operator's division order department, tell them what you think your correct interest is, and ask what documentation they need. Sometimes it's a copy of a deed. Sometimes it's a certified heirship affidavit. It can take a few letters back and forth, but it beats getting underpaid for years because a form went out with a typo baked into it."
+   ]
+  },
+  {
+   "heading": "What happens after you sign",
+   "paragraphs": [
+    "Once you return a signed division order, the operator starts or corrects your payments based on that decimal. Most operators in North Dakota will pay back to first production or to when your interest became effective, so a delay in signing doesn't usually cost you money, it just delays when the checks start showing up. Keep a copy of every division order you sign, filed by well name, because you'll want it later when a royalty statement doesn't seem to add up.",
+    "If you're in the middle of selling your minerals, buyers will want to see your division orders too. They tell a buyer exactly what decimal interest they'd be stepping into, which speeds up an offer instead of leaving it as a guess based on the county plat alone."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I have to sign a division order to get paid?",
+   "answer": "Most operators won't start regular payments until they have a signed division order on file, though North Dakota law generally requires payment of proceeds within a set time after production regardless. Read it carefully rather than signing on the day it arrives, but don't sit on it indefinitely either."
+  },
+  {
+   "question": "Can a division order change my ownership?",
+   "answer": "No. It's an accounting confirmation, not a conveyance. Your actual title comes from your deed, will, or heirship documents. If the division order decimal is wrong, it's the paperwork that's wrong, not your underlying ownership."
+  },
+  {
+   "question": "What if I inherited my interest and never got a division order?",
+   "answer": "You'll typically need to send the operator a certified copy of the death certificate, the will or a court order determining heirs, and sometimes an affidavit of heirship, before they'll issue a new division order in your name."
+  },
+  {
+   "question": "Why does my decimal interest have so many digits?",
+   "answer": "North Dakota's large spacing units, often 1,280 or 2,560 acres, mean even a full 40-acre mineral tract is a small fraction of the unit, and that fraction gets divided further by your royalty percentage, which produces a long decimal that's normal, not a red flag."
+  },
+  {
+   "question": "Should I talk to anyone before signing?",
+   "answer": "If the interest is large, contested among heirs, or the numbers don't match your own records, it's worth a call to your attorney or CPA before you sign, especially if the division order affects how income gets reported for tax purposes."
+  }
+ ],
+ "wordCount": 971,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-division-orders-explained-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "Division Orders Explained mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

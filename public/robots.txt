@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://sellmineralrightsnorthdakota.com/sitemap.xml
+# AI: https://sellmineralrightsnorthdakota.com/llms.txt

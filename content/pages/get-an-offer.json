@@ -1,0 +1,75 @@
+{
+ "slug": "get-an-offer",
+ "title": "Get An Offer",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Get an Offer on Your North Dakota Minerals",
+ "metaDescription": "Request a real offer on your North Dakota mineral rights from a fourth-generation ranch family, with no cost and no pressure to accept.",
+ "heroLead": "Getting an offer starts with a conversation, not a contract, and it costs you nothing to find out what your North Dakota minerals might be worth.",
+ "intro": [
+  "If you're ready to see what a real offer looks like, or you just want to understand the range before deciding anything, this is the place to start. We'll ask a handful of questions about your acreage, look at what's actually happening on it, and come back with a number tied to your specific county and production, not a guess pulled from a statewide average."
+ ],
+ "sections": [
+  {
+   "heading": "What we need from you",
+   "paragraphs": [
+    "To put together a real offer, we typically need to know which county your minerals sit in, roughly how many net mineral acres you own, and whether the interest is currently leased or producing. If you have a division order, recent royalty statement, or your deed handy, sharing those speeds things up considerably, though it's fine to start without them.",
+    "If you inherited the interest and aren't sure of the exact acreage or even which county it's in, we can often help track that down using the name on the original deed or the county where a relative lived, so don't let uncertainty stop you from reaching out."
+   ]
+  },
+  {
+   "heading": "How we build the offer",
+   "paragraphs": [
+    "For producing acreage, we look at the actual wells on your unit, their production history, and where they sit on their decline curve, then project the remaining value of that royalty stream. For leased but undeveloped acreage, we weigh nearby drilling activity and where your unit sits relative to the active parts of the Bakken and Three Forks trend. For unleased minerals, we look at the same regional activity with a wider range built into the number, since there's no lease bonus or production history yet to anchor it.",
+    "We'll walk you through how we got to our number rather than just handing you a figure. If something in our math doesn't match what you know about your own acreage, tell us. That's often exactly the kind of detail that changes an offer for the better."
+   ]
+  },
+  {
+   "heading": "What happens if you accept",
+   "paragraphs": [
+    "If you decide to move forward, we handle the purchase agreement and mineral deed, and we'll walk you through what's needed to confirm title, whether that's a copy of your existing deed, an heirship affidavit, or other documentation depending on how your interest was acquired. Once everything checks out, we record the deed at the county courthouse and get funds to you, typically within a few weeks for straightforward title.",
+    "If your family's title has a gap, an unprobated estate or a name that doesn't quite match older records, we'll tell you plainly what's needed to fix it rather than let it stall the process unexplained."
+   ]
+  },
+  {
+   "heading": "There's no obligation attached",
+   "paragraphs": [
+    "Requesting an offer doesn't commit you to anything. If the number isn't right for you, or the timing doesn't work, you're free to walk away, and we'd rather you make that decision with real information than feel pressured into one. Some owners we talk to decide to keep their interest and lease it instead, and that's a fine outcome for us to hear too.",
+    "We'd rather spend an extra call answering questions than have someone sign a purchase agreement they're not fully comfortable with. That's true whether your interest is a small fractional share inherited three generations back or a full section your family has held onto since it was homesteaded, and it's true whether the acreage sits in a county we know well or one where we've had to do a little extra homework ourselves before we could give you a straight answer."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long does it take to get an offer?",
+   "answer": "Once we have your county and basic acreage information, we can usually put together a preliminary offer within a few days, sooner if you're able to share division orders or recent statements."
+  },
+  {
+   "question": "Does it cost anything to request an offer?",
+   "answer": "No, requesting and reviewing an offer is free, and there's no obligation to accept it."
+  },
+  {
+   "question": "What if I don't know exactly how many acres I own?",
+   "answer": "That's common, especially with inherited interests. We can often help pull county records using your deed or a relative's name to figure out the exact acreage."
+  },
+  {
+   "question": "Can I get an offer if my minerals aren't producing?",
+   "answer": "Yes, we evaluate leased and unleased minerals as well as producing acreage, though the approach and the range involved differ depending on production history."
+  },
+  {
+   "question": "What if my ownership is shared with siblings or other heirs?",
+   "answer": "We're used to working with multiple owners on a single interest, and we can walk you through how deeds and closing typically work when more than one person needs to sign."
+  },
+  {
+   "question": "Will you ask me to pay for anything upfront?",
+   "answer": "No, we never ask owners to pay fees, appraisal costs, or any other charges to receive or review an offer. Any costs tied to closing, like title work, are handled on our end."
+  }
+ ],
+ "wordCount": 854,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-get-an-offer-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "Get An Offer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

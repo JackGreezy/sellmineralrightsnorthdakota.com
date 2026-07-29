@@ -1,0 +1,73 @@
+{
+ "slug": "leased-but-undrilled",
+ "title": "Leased but Undrilled",
+ "type": "situation",
+ "note": "bonus paid, no drilling yet",
+ "metaTitle": "Selling Mineral Rights That Are Leased But Undrilled",
+ "metaDescription": "Signed a North Dakota mineral lease, collected the bonus, and no well yet? Here is what leased-but-undrilled acreage is worth and how to sell it.",
+ "heroLead": "We leased a piece of ground once and then waited three years watching the rig never show up, checking the mail every quarter for a check that wasn't coming because there was nothing yet to pay us on.",
+ "intro": [
+  "A signed lease with a bonus check in hand but no rig on the horizon is one of the most common positions a North Dakota mineral owner ends up in, especially outside the busiest sections of McKenzie and Mountrail County. The lease gives the operator the right to drill within a set primary term, usually three to five years, in exchange for the upfront bonus payment you already received, but it doesn't obligate them to actually drill on any particular timeline, or at all before the lease expires.",
+  "That gap between having a lease and having a producing well is exactly where a lot of owners get stuck, unsure whether to wait it out, negotiate, or sell the interest as-is."
+ ],
+ "sections": [
+  {
+   "heading": "Why a lease sits undrilled for years",
+   "paragraphs": [
+    "Operators in the Williston Basin plan development around spacing units, permitting, pipeline and gathering capacity, and their own capital budget for the year, not around any single lease's clock. Your tract might be held as part of a large multi-section development plan where wells are sequenced years apart, or it might sit on the flank of the play where the operator is holding acreage defensively without near-term drilling intent.",
+    "Either reason is common, and neither one tells you much on its own about whether a well is coming next year or not at all before the lease term runs out."
+   ]
+  },
+  {
+   "heading": "What the lease itself tells a buyer",
+   "paragraphs": [
+    "The royalty rate, the primary term length and expiration date, any Pugh clause, and whether the lease includes a shut-in royalty provision all matter to how a buyer values undrilled acreage. A lease with a strong royalty rate and time left on the term, held by an operator actively drilling nearby units, is worth more than one about to expire with no nearby activity.",
+    "Pull your lease and check the expiration date before you talk to anyone. If it's close to running out with no extension or drilling activity, that's worth flagging up front, since it changes the picture."
+   ]
+  },
+  {
+   "heading": "Selling versus waiting for the well",
+   "paragraphs": [
+    "Waiting means betting on a specific timeline you don't control, with the real possibility the lease simply expires undrilled and you're back to square one, minus whatever time value the bonus represented. Selling now converts the uncertainty into a number today, priced against the lease terms, nearby operator activity, and how much runway is left in the primary term.",
+    "There's no wrong answer here, but the decision should be made with the lease document in hand and a real understanding of what's happening on adjacent units, rather than a hope that a rig shows up before the clock runs out."
+   ]
+  },
+  {
+   "heading": "Checking permit activity before you commit either way",
+   "paragraphs": [
+    "The North Dakota Industrial Commission's Oil and Gas Division publishes permit filings, spacing orders, and well status by township and range, which is public information anyone can check against their own legal description. A recent permit filed within your spacing unit, or even an adjacent one under the same operator, is a stronger signal than the lease document alone, since it tells you the operator is actively planning ahead rather than simply holding acreage.",
+    "If nothing has been filed near your tract in the years since you signed, that's useful information too, and it's worth weighing honestly against how much runway is actually left before your primary term expires."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I sell mineral rights that are under an active lease?",
+   "answer": "Yes. You're selling the underlying mineral interest, which carries the lease with it, and the buyer simply steps into your position as lessor going forward, receiving any future bonus, delay rental, or royalty payments."
+  },
+  {
+   "question": "What happens if the lease expires with no well drilled?",
+   "answer": "The lease terminates and your mineral rights return to you unencumbered, at which point you could lease again to a different operator or sell the acreage outright as unleased minerals."
+  },
+  {
+   "question": "Does a nearby well on someone else's tract help my undrilled acreage?",
+   "answer": "It can, since activity nearby signals the operator sees the area as worth developing, though it depends on whether your tract falls inside the same spacing unit or is simply adjacent to one."
+  },
+  {
+   "question": "Is my bonus payment relevant to what my minerals are worth now?",
+   "answer": "It's one data point among several, since a bonus reflects the market at signing, not necessarily what the interest is worth today given how much time is left and what's happened nearby since."
+  },
+  {
+   "question": "What is a Pugh clause and why does it matter for undrilled acreage?",
+   "answer": "A Pugh clause releases the undeveloped portion of your acreage from the lease once the primary term ends, even if a well was drilled elsewhere on a larger tract, so check whether your lease has one before assuming the whole thing is held by production."
+  }
+ ],
+ "status": "written",
+ "wordCount": 860,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-leased-but-undrilled-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "Leased but Undrilled mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

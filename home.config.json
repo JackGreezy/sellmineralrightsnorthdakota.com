@@ -1,0 +1,29 @@
+{
+  "domain": "sellmineralrightsnorthdakota.com",
+  "clone_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightsnorthdakota.com",
+  "content_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightsnorthdakota.com",
+  "reference": "https://www.enercon.de/en",
+  "refhost": "enercon-de",
+  "biz": "Sell Mineral Rights North Dakota",
+  "businessName": "Sell Mineral Rights North Dakota",
+  "wordmark_l1": "SELL MINERAL RIGHTS",
+  "wordmark_l2": "NORTH DAKOTA",
+  "city": "Williston",
+  "state": "North Dakota",
+  "region": "Williston, the Bakken, the Three Forks, and mineral-producing counties across North Dakota",
+  "phone": "701-555-1033",
+  "email": "northdakota@sellmineralrightsnorthdakota.com",
+  "vertical": "mineral-rights",
+  "suppress_footer_media": true,
+  "brand_favicon": "/favicon.svg",
+  "hero_image": "/ours/pages/mineral-rights-pages-home-sellmineralrightsnorthdakota-com.jpg",
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightsnorthdakota.com/site-voice.json",
+  "nav": [
+    ["Selling Situations", "/situations"],
+    ["Interest Types", "/interest-types"],
+    ["Bakken Guide", "/basins"],
+    ["Owner Resources", "/resources"],
+    ["North Dakota Areas", "/locations"]
+  ],
+  "cta": ["Request a Mineral Review", "/contact"]
+}

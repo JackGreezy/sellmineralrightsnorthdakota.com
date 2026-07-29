@@ -1,0 +1,73 @@
+{
+ "slug": "unsolicited-offer-received",
+ "title": "Got an Unsolicited Offer?",
+ "type": "situation",
+ "note": "benchmarking mailbox offers",
+ "metaTitle": "Got an Unsolicited Mineral Rights Offer? Check It First",
+ "metaDescription": "Received a mailbox offer for your North Dakota Bakken mineral rights out of nowhere? Here is how to check whether it's actually fair before signing.",
+ "heroLead": "A letter showed up at my aunt's place offering to buy minerals she didn't even know she still owned, and her first instinct, sensible as it was, was to wonder why a stranger cared enough to write.",
+ "intro": [
+  "An unsolicited offer arriving in the mail, sometimes with a specific dollar figure, sometimes just an interest in buying, is one of the more unsettling ways to first learn a company is watching your North Dakota mineral interest. It's not a scam by default. Buyers do send these letters based on public county records and permit activity, and getting one can actually be a useful signal that something is happening near your acreage. But it's also not a reason to sign anything on the spot.",
+  "The letter tells you someone thinks your interest is worth pursuing. It doesn't tell you whether the number attached is a fair one, and there's no obligation to respond quickly, or at all, before you've had a chance to check it."
+ ],
+ "sections": [
+  {
+   "heading": "Why you got the letter in the first place",
+   "paragraphs": [
+    "Mineral deeds and division orders are public record at the county level, and companies actively buying in the Bakken and Three Forks trend track NDIC permit filings, spacing orders, and new well completions to figure out whose acreage sits near fresh activity. Getting a letter often means a well was recently permitted or completed near your tract, which is worth knowing regardless of whether you sell to that particular buyer.",
+    "It doesn't mean that specific company has done a careful, individualized valuation of your interest. Mailer offers are frequently sent in bulk across a wide area, with the actual number sometimes set low enough to leave room for negotiation, or simply untethered to your specific decimal interest and statement history."
+   ]
+  },
+  {
+   "heading": "How to check whether an offer is fair",
+   "paragraphs": [
+    "Pull your most recent royalty statement or division order and compare the offer against your actual net decimal interest and recent production, rather than the acreage number alone. Check whether the offer accounts for which specific well or unit is producing on your tract, since a flat per-acre number that ignores your specific production history is a red flag that the offer never actually reflected your real interest.",
+    "Getting a second opinion costs nothing and takes little time. Reach out to another buyer, tell them what you received, and compare. A legitimate offer holds up fine to that comparison, and a lowball one usually doesn't."
+   ]
+  },
+  {
+   "heading": "What to watch for before signing anything",
+   "paragraphs": [
+    "Read the deed language carefully, some mailer offers try to acquire more than the specific interest discussed, or include broad language covering future wells and formations beyond what you'd expect. Watch for pressure to sign quickly, a deadline attached to an unsolicited letter is a tactic, not a real constraint, since your minerals aren't going anywhere and a fair buyer will give you time to review.",
+    "It's fine to take the letter seriously as a signal that something is happening near your acreage while still taking your time to shop the actual number before you commit to anyone, including us."
+   ]
+  },
+  {
+   "heading": "What a legitimate second opinion actually looks like",
+   "paragraphs": [
+    "A serious buyer will ask for the same basic documents regardless of who reaches out first, your recent statement or division order, the legal description, and whatever lease information you have on hand, and will explain how they arrived at their number rather than just presenting a figure and a deadline. If a buyer can't or won't explain how they priced your specific interest, that's worth noting as much as the number itself.",
+    "Comparing two real offers side by side, built from the same underlying documents, is the single clearest way to know whether the letter that started this whole thing was fair, generous, or worth passing on entirely."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is it normal to get an offer out of nowhere with no prior contact?",
+   "answer": "Yes, this is a common and legitimate way mineral buyers reach owners, using public county and NDIC records to identify acreage near recent activity, though the offer itself still deserves independent review."
+  },
+  {
+   "question": "Should I ignore the letter since I didn't ask for it?",
+   "answer": "You don't have to respond, but the letter can be a useful clue that something has changed near your tract, so it's worth at least checking recent permit and well activity in your township before deciding."
+  },
+  {
+   "question": "How do I compare an unsolicited offer to a fair market number?",
+   "answer": "Get a second offer from another buyer using your actual royalty statement or division order, and compare both against your real decimal interest rather than a generic per-acre figure."
+  },
+  {
+   "question": "Is there a deadline I need to respond by?",
+   "answer": "Almost never a real one. Pressure to decide fast is common in mailer offers, but your ownership doesn't expire, and a legitimate buyer will still be there after you've had time to check the number."
+  },
+  {
+   "question": "What if I received offers from several different companies at once?",
+   "answer": "That usually means multiple buyers have flagged the same nearby activity, which is a good position for you, since you can compare the actual numbers against each other using the same statement and title documents."
+  }
+ ],
+ "status": "written",
+ "wordCount": 887,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-unsolicited-offer-received-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "Got an Unsolicited Offer? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

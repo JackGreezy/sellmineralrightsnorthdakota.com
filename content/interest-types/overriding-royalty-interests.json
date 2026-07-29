@@ -1,0 +1,68 @@
+{
+ "slug": "overriding-royalty-interests",
+ "title": "Overriding Royalty Interests (ORRI)",
+ "type": "interest-type",
+ "metaTitle": "ORRI Explained: Overriding Royalty in North Dakota Wells",
+ "metaDescription": "Hold an overriding royalty interest tied to a North Dakota Bakken lease? Here is how ORRI works, why it can end with the lease, and what it's worth.",
+ "heroLead": "A landman we knew back when the leasing rush was in full swing kept a small overriding royalty from nearly every deal he brokered, and for years those little slivers paid better than most people expected from paper that thin.",
+ "intro": [
+  "An overriding royalty interest, or ORRI, is a share of production revenue carved out of a specific lease, rather than out of the underlying mineral estate itself. Landmen, geologists, and sometimes the mineral owner negotiating the original lease often retain or are granted an ORRI as part of putting a deal together, and operators occasionally assign a slice of one to a partner or investor as part of financing a well. If you hold an ORRI in North Dakota's Bakken or Three Forks trend, you're entitled to a percentage of production for as long as that specific lease stays in force.",
+  "That last part is the key difference from most other mineral interests, an ORRI is tied to one lease, not to the ground itself, and it lives and dies with that lease."
+ ],
+ "sections": [
+  {
+   "heading": "Why an ORRI ends when the lease does",
+   "paragraphs": [
+    "Because an override is carved from the leasehold estate, not the mineral estate, it has no independent existence once that lease terminates, whether through expiration, release, or the well being plugged and abandoned. This is very different from a mineral interest or an NPRI, both of which survive a single lease's end and can be re-leased or continue producing under a new lease indefinitely.",
+    "If your ORRI is on a currently producing well with an active lease, that distinction may not matter much day to day, but it matters enormously to how the interest should be valued, since its remaining life is tied to that one well's productive future, not the underlying acreage's long-term potential."
+   ]
+  },
+  {
+   "heading": "Where North Dakota ORRIs typically come from",
+   "paragraphs": [
+    "Common sources include a landman or broker retaining a small override on leases they helped negotiate during the busiest leasing years of the Bakken boom, an operator assigning an override to a partner as part of a farmout or joint development arrangement, or a mineral owner negotiating an ORRI in addition to a standard lease royalty as part of a favorable deal on prime acreage. Each of these creates paper trails that can be harder to track down than a standard mineral deed, especially if the assignment happened during a busy leasing period and got recorded without much fanfare.",
+    "If you're not sure how your ORRI originated, the assignment document recorded at the county where the well sits will show the chain, and it's worth pulling before valuing or selling."
+   ]
+  },
+  {
+   "heading": "Valuing and selling an ORRI",
+   "paragraphs": [
+    "Because the interest's life is capped by the well and lease it came from, buyers weigh current production, decline trend, and how much productive life realistically remains on that specific well more heavily than they would for a mineral interest that could be re-leased indefinitely. A strong, relatively young Bakken well with a long decline tail ahead of it supports more value than an override on an older well nearing the end of its economic life.",
+    "Selling an ORRI still works through a standard assignment, recorded at the county, but expect a buyer to ask pointed questions about the well's current performance and remaining reserves, since that, more than anything else, drives the number."
+   ]
+  },
+  {
+   "heading": "Multiple wells and how overrides can stack up over a career",
+   "paragraphs": [
+    "Someone who spent years working leasing in and around the Bakken can end up holding overrides across a dozen or more wells, each with its own decline curve, its own remaining life, and its own paperwork trail. Managing that collection over time is genuinely harder than managing a single mineral interest, since every well ages differently and the statements arrive from whichever operator ended up drilling each one.",
+    "For owners in that position, selling a batch of ORRIs together, rather than tracking each one individually for years as they wind down, is often the simpler path, and a buyer can evaluate the whole group at once instead of one well at a time."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does my ORRI transfer with the mineral rights if the land is sold?",
+   "answer": "No. An ORRI is independent of who owns the minerals or surface, it's tied strictly to the lease and well it was carved from, and it stays with you regardless of any subsequent sale of the underlying land or minerals."
+  },
+  {
+   "question": "What happens to my ORRI if the operator re-leases after the current lease expires?",
+   "answer": "Generally nothing, your override typically does not carry forward into a brand new lease, since it was carved from the original lease specifically, which is why an ORRI's value is closely tied to the current well's remaining life."
+  },
+  {
+   "question": "How do I confirm the size of my override interest?",
+   "answer": "The original assignment document, recorded at the county where the well is located, will state your override percentage, and your royalty statement should reflect that same decimal applied to production."
+  },
+  {
+   "question": "Is an ORRI riskier to hold than a mineral interest?",
+   "answer": "In one sense yes, since it has a defined end point tied to the lease and well, but that finite structure is simply part of how it should be valued and sold rather than a flaw in the interest itself."
+  }
+ ],
+ "status": "written",
+ "wordCount": 907,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-overriding-royalty-interests-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "Overriding Royalty Interests (ORRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

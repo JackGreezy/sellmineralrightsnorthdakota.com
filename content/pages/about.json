@@ -1,0 +1,71 @@
+{
+ "slug": "about",
+ "title": "About",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "About Us | North Dakota Mineral Buyers",
+ "metaDescription": "A fourth-generation North Dakota ranch family that sold its own minerals once and now helps other owners understand and sell theirs.",
+ "heroLead": "We're a fourth-generation ranch family from western North Dakota, and before we ever bought a mineral interest from anyone else, we sold a piece of our own.",
+ "intro": [
+  "Our family has run cattle on the same stretch of ground in McKenzie County since our great-grandparents homesteaded it, and like a lot of ranch families out here, the minerals under that land got split, leased, and passed down across generations right alongside the surface. We've sat at the kitchen table with division orders and royalty statements the same way you might be right now, trying to figure out what a number on a page actually means for our family."
+ ],
+ "sections": [
+  {
+   "heading": "Why we do this",
+   "paragraphs": [
+    "A few years back, we sold a portion of our own mineral interest, one that had been split among cousins after our grandfather passed without a formal will covering the minerals separately from the ranch. It took longer than it should have, mostly because nobody had explained the process to us in plain language. We learned it the hard way, one phone call and one courthouse trip at a time.",
+    "That experience is why we started buying minerals from other North Dakota families. We know what it's like to get an offer letter with no explanation attached, and we know what it feels like when someone finally walks you through it instead. We try to be that second kind of buyer."
+   ]
+  },
+  {
+   "heading": "What we actually do",
+   "paragraphs": [
+    "We buy mineral interests directly from owners across North Dakota, whether your acreage is producing, leased and waiting on a well, or sitting undeveloped on the edge of the play. We look at your county, your division orders if you have production, and any nearby drilling activity, and we explain how we arrived at our number rather than handing you a figure with no context.",
+    "We work with a lot of nonresident heirs, families who inherited a fractional interest in North Dakota minerals but live in another state entirely and would rather not manage royalty statements and lease renewals from a distance for land they've never seen. We also work with owners who simply want the paperwork behind them and the decision made."
+   ]
+  },
+  {
+   "heading": "How we think about an offer",
+   "paragraphs": [
+    "We're not appraisers, attorneys, or your CPA, and we'll tell you plainly when a question belongs to one of them instead of us. What we can do is look at your specific acreage, your county's position within the Bakken and Three Forks, and any production history you can share, and give you a real number tied to that, not a form-letter figure that could apply to anyone.",
+    "If the timing or the number isn't right for you, that's fine. We'd rather you make an informed decision, even if it's not with us, than feel rushed into one."
+   ]
+  },
+  {
+   "heading": "Rooted in North Dakota",
+   "paragraphs": [
+    "This is home for us, not a market we drove in from. We understand what it means to hold onto family land, and we understand why some families are ready to let go of a mineral interest that's become more paperwork than payoff. Either way, we treat every conversation the way we'd want ours treated back when we were the ones sorting through the paperwork.",
+    "We still run cattle on the same ground our great-grandparents worked, and the wells we drive past on the way to check fence are the same formations most of the owners we talk to are asking about. That's not a marketing line, it's just where we live, and it shapes how we approach every conversation about someone else's family land. Our kids are the fifth generation, and they already know the difference between a pumpjack and a wellhead better than most adults do, which is either a point of pride or a sign we talk about this too much at the dinner table."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Are you a mineral rights broker or an actual buyer?",
+   "answer": "We buy mineral interests directly. We're not brokering your acreage to a third party or listing it publicly, we're evaluating it ourselves and making a direct offer."
+  },
+  {
+   "question": "Do you only buy producing minerals?",
+   "answer": "No, we look at producing, leased, and undeveloped acreage across North Dakota, though the approach to valuing each is different depending on production history and location within the play."
+  },
+  {
+   "question": "Why did your family sell your own minerals?",
+   "answer": "Our interest had become split among several cousins after an estate that was never formally settled for the mineral portion, and selling simplified something that had become a headache to manage across family members."
+  },
+  {
+   "question": "Do you work with owners who live outside North Dakota?",
+   "answer": "Yes, a large share of the owners we work with are nonresident heirs managing an inherited interest from out of state, and we're used to handling the paperwork side of that remotely."
+  },
+  {
+   "question": "What makes your family different from other mineral buyers?",
+   "answer": "We've been on the other side of the table, selling our own family's minerals, so we explain the process the way we wish someone had explained it to us, rather than treating you like a transaction to close quickly."
+  }
+ ],
+ "wordCount": 866,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-about-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "About mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

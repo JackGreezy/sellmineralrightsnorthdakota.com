@@ -1,0 +1,73 @@
+{
+ "slug": "probate-and-estate-minerals",
+ "title": "Minerals in Probate & Estates",
+ "type": "situation",
+ "note": "executor/estate sale mechanics",
+ "metaTitle": "Selling Mineral Rights During North Dakota Probate",
+ "metaDescription": "Serving as executor of a North Dakota estate with Bakken mineral rights in it? Here is how probate sales work and what the court needs to see.",
+ "heroLead": "I was named executor for an uncle's estate a few years back, and the mineral interest turned out to be the single line item that took longest to sort out, longer than the house, longer than the truck.",
+ "intro": [
+  "Serving as executor or personal representative of a North Dakota estate that includes mineral rights puts you in a specific role with specific obligations, you're managing the asset for the benefit of the heirs, not deciding on your own what happens to it. Before anything can be sold, the estate typically needs to be opened in probate court in the county where the deceased resided, and the personal representative needs either explicit authority under the will or court approval to sell estate property, including minerals.",
+  "The good news is that mineral interests are one of the more straightforward estate assets to value and transfer once the probate authority is in place, especially compared to real estate or a closely held business."
+ ],
+ "sections": [
+  {
+   "heading": "What the court and title company will want to see",
+   "paragraphs": [
+    "Letters testamentary or letters of administration establishing your authority as personal representative, the original mineral deed or a prior division order identifying the interest, and if the will specifically addresses mineral rights, that language matters for how the sale proceeds and gets distributed. If there's no will, North Dakota's intestate succession rules determine how the interest passes among heirs before any sale.",
+    "A recent royalty statement, if the interest is producing, also helps establish current value for the estate's records and for any accounting you'll need to provide to heirs or the court."
+   ]
+  },
+  {
+   "heading": "Why executors often sell rather than distribute in kind",
+   "paragraphs": [
+    "Distributing a mineral interest in kind to multiple heirs means each one ends up owning a small fractional piece, with all the ongoing paperwork, statements, and county filings that come with it. Selling the interest as part of estate administration and distributing cash proceeds instead is often simpler for everyone, particularly when heirs live in different states or have different preferences about holding oil and gas assets long term.",
+    "It also closes out one more line item on the estate inventory cleanly, with a single transaction and a clear record for the final accounting, rather than leaving loose ends that outlive the probate process itself."
+   ]
+  },
+  {
+   "heading": "Timing a sale within probate",
+   "paragraphs": [
+    "Some estates require court confirmation of a sale price, particularly for larger or more contested estates, while smaller, uncontested estates often allow the personal representative more direct authority under the will or a simplified probate process. Either way, getting a documented offer early in the process gives you a real number to work with for the estate inventory and for discussions with heirs, rather than waiting until late in probate to figure out what the interest is worth.",
+    "If timing is tight, for example if the estate has bills to pay before other assets can be liquidated, a mineral sale can often close faster than selling real property, since there's no physical property to inspect or market."
+   ]
+  },
+  {
+   "heading": "When there's no will and multiple heirs inherit together",
+   "paragraphs": [
+    "Intestate succession in North Dakota typically divides mineral interests among a decedent's children or other heirs according to statute, which means an executor or administrator may be managing a sale on behalf of several beneficiaries who don't all agree on timing or terms. Documenting the offer clearly, and communicating with every heir before closing, protects the personal representative from later disputes even when formal consent from each heir isn't strictly required by the probate process itself.",
+    "In these situations it often helps to get every heir's contact information gathered early, so the final accounting and distribution can move as soon as the sale closes rather than stalling while the estate tries to track someone down."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I sell mineral rights before probate is fully closed?",
+   "answer": "Often yes, once you have letters testamentary or letters of administration establishing your authority, though some estates require additional court approval for asset sales, so check with the estate's attorney first."
+  },
+  {
+   "question": "What if the will doesn't mention mineral rights specifically?",
+   "answer": "Mineral rights are generally treated as part of the residuary estate unless specifically addressed, meaning they pass according to the general distribution terms of the will along with other assets."
+  },
+  {
+   "question": "Do all the heirs need to agree before I can sell as executor?",
+   "answer": "That depends on your authority under the will and North Dakota probate rules, but keeping heirs informed and documented on the sale price generally avoids disputes even when formal consent isn't strictly required."
+  },
+  {
+   "question": "How is the interest valued for estate tax and accounting purposes?",
+   "answer": "A documented offer or appraisal at or near the date of death is typically used to establish value for the estate's records, and your CPA or estate attorney can confirm what documentation the specific estate requires."
+  },
+  {
+   "question": "What if the estate includes minerals in more than one North Dakota county?",
+   "answer": "Each county's records need to be checked separately for lease status and production history, and a sale may involve multiple deeds recorded in different counties, though it can still be handled as one coordinated transaction."
+  }
+ ],
+ "status": "written",
+ "wordCount": 877,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-probate-and-estate-minerals-sellmineralrightsnorthdakota-com.jpg",
+  "alt": "Minerals in Probate & Estates mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}
