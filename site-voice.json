@@ -29,69 +29,258 @@
     ]
   },
   "scrub": [
-    ["\\bDo I\\b", "Does an owner"],
-    ["\\bCan I\\b", "Can an owner"],
-    ["\\bHow do I\\b", "How does an owner"],
-    ["\\bWhat if I\\b", "What if an owner"],
-    ["\\bAm I\\b", "Is an owner"],
-    ["\\bWill I\\b", "Will an owner"],
-    ["\\bShould I\\b", "Should an owner"],
-    ["\\bI need\\b", "an owner needs"],
-    ["\\bI find\\b", "an owner finds"],
-    ["\\bI get\\b", "an owner gets"],
-    ["\\bI know\\b", "an owner knows"],
-    ["\\bI sell\\b", "an owner sells"],
-    ["\\bI confirm\\b", "an owner confirms"],
-    ["\\bI own\\b", "an owner owns"],
-    ["\\bI have\\b", "an owner has"],
-    ["\\bI check\\b", "an owner checks"],
-    ["\\bI only\\b", "an owner only"],
-    ["\\bI live\\b", "an owner lives"],
-    ["\\bI inherited\\b", "an owner inherited"],
-    ["\\bI research\\b", "an owner researches"],
-    ["\\bI ask\\b", "an owner asks"],
-    ["\\bI keep\\b", "an owner keeps"],
-    ["\\bI still\\b", "an owner still"],
-    ["\\bI remember\\b", "an owner remembers"],
-    ["\\bI was\\b", "an owner was"],
-    ["\\bI even\\b", "an owner even"],
-    ["\\bI start\\b", "an owner starts"],
-    ["\\bI trace\\b", "an owner traces"],
-    ["\\bI talk\\b", "an owner talks"],
-    ["\\bI negotiate\\b", "an owner negotiates"],
-    ["\\bI transfer\\b", "an owner transfers"],
-    ["\\bI dispute\\b", "an owner disputes"],
-    ["\\bI think\\b", "an owner thinks"],
-    ["\\bI owe\\b", "an owner owes"],
-    ["\\bI disagree\\b", "an owner disagrees"],
-    ["\\bI try\\b", "an owner tries"],
-    ["\\bI ignore\\b", "an owner ignores"],
-    ["\\bI didn['’]t\\b", "an owner did not"],
-    ["\\bI compare\\b", "an owner compares"],
-    ["\\bI go\\b", "an owner goes"],
-    ["\\bI expect\\b", "an owner expects"],
-    ["\\bI search\\b", "an owner searches"],
-    ["\\bI locate\\b", "an owner locates"],
-    ["\\bI contact\\b", "an owner contacts"],
-    ["\\bI do\\b", "an owner does"],
-    ["\\bI convert\\b", "an owner converts"],
-    ["\\bI share\\b", "an owner shares"],
-    ["\\bI decide\\b", "an owner decides"],
-    ["\\bI hear\\b", "an owner hears"],
-    ["\\bI provide\\b", "an owner provides"],
-    ["\\bI reach\\b", "an owner reaches"],
-    ["\\bI['’]m\\b", "the owner is"],
-    ["\\bI['’]ve\\b", "the owner has"],
-    ["\\bI['’]ll\\b", "the owner will"],
-    ["\\bI['’]d\\b", "the owner would"],
-    ["\\bI don['’]t\\b", "the owner does not"],
-    ["\\bI can['’]t\\b", "the owner cannot"],
-    ["\\bI can\\b", "the owner can"],
-    ["\\bmyself\\b", "the owner"],
-    ["\\bmine\\b", "the owner's interest"],
-    ["\\bmy\\b", "the owner's"],
-    ["\\bme\\b", "the owner"],
-    ["\\bI\\b", "the owner"]
+    [
+      "\\bDo I\\b",
+      "Does an owner"
+    ],
+    [
+      "\\bCan I\\b",
+      "Can an owner"
+    ],
+    [
+      "\\bHow do I\\b",
+      "How does an owner"
+    ],
+    [
+      "\\bWhat if I\\b",
+      "What if an owner"
+    ],
+    [
+      "\\bAm I\\b",
+      "Is an owner"
+    ],
+    [
+      "\\bWill I\\b",
+      "Will an owner"
+    ],
+    [
+      "\\bShould I\\b",
+      "Should an owner"
+    ],
+    [
+      "\\bI need\\b",
+      "an owner needs"
+    ],
+    [
+      "\\bI find\\b",
+      "an owner finds"
+    ],
+    [
+      "\\bI get\\b",
+      "an owner gets"
+    ],
+    [
+      "\\bI know\\b",
+      "an owner knows"
+    ],
+    [
+      "\\bI sell\\b",
+      "an owner sells"
+    ],
+    [
+      "\\bI confirm\\b",
+      "an owner confirms"
+    ],
+    [
+      "\\bI own\\b",
+      "an owner owns"
+    ],
+    [
+      "\\bI have\\b",
+      "an owner has"
+    ],
+    [
+      "\\bI check\\b",
+      "an owner checks"
+    ],
+    [
+      "\\bI only\\b",
+      "an owner only"
+    ],
+    [
+      "\\bI live\\b",
+      "an owner lives"
+    ],
+    [
+      "\\bI inherited\\b",
+      "an owner inherited"
+    ],
+    [
+      "\\bI research\\b",
+      "an owner researches"
+    ],
+    [
+      "\\bI ask\\b",
+      "an owner asks"
+    ],
+    [
+      "\\bI keep\\b",
+      "an owner keeps"
+    ],
+    [
+      "\\bI still\\b",
+      "an owner still"
+    ],
+    [
+      "\\bI remember\\b",
+      "an owner remembers"
+    ],
+    [
+      "\\bI was\\b",
+      "an owner was"
+    ],
+    [
+      "\\bI even\\b",
+      "an owner even"
+    ],
+    [
+      "\\bI start\\b",
+      "an owner starts"
+    ],
+    [
+      "\\bI trace\\b",
+      "an owner traces"
+    ],
+    [
+      "\\bI talk\\b",
+      "an owner talks"
+    ],
+    [
+      "\\bI negotiate\\b",
+      "an owner negotiates"
+    ],
+    [
+      "\\bI transfer\\b",
+      "an owner transfers"
+    ],
+    [
+      "\\bI dispute\\b",
+      "an owner disputes"
+    ],
+    [
+      "\\bI think\\b",
+      "an owner thinks"
+    ],
+    [
+      "\\bI owe\\b",
+      "an owner owes"
+    ],
+    [
+      "\\bI disagree\\b",
+      "an owner disagrees"
+    ],
+    [
+      "\\bI try\\b",
+      "an owner tries"
+    ],
+    [
+      "\\bI ignore\\b",
+      "an owner ignores"
+    ],
+    [
+      "\\bI didn['’]t\\b",
+      "an owner did not"
+    ],
+    [
+      "\\bI compare\\b",
+      "an owner compares"
+    ],
+    [
+      "\\bI go\\b",
+      "an owner goes"
+    ],
+    [
+      "\\bI expect\\b",
+      "an owner expects"
+    ],
+    [
+      "\\bI search\\b",
+      "an owner searches"
+    ],
+    [
+      "\\bI locate\\b",
+      "an owner locates"
+    ],
+    [
+      "\\bI contact\\b",
+      "an owner contacts"
+    ],
+    [
+      "\\bI do\\b",
+      "an owner does"
+    ],
+    [
+      "\\bI convert\\b",
+      "an owner converts"
+    ],
+    [
+      "\\bI share\\b",
+      "an owner shares"
+    ],
+    [
+      "\\bI decide\\b",
+      "an owner decides"
+    ],
+    [
+      "\\bI hear\\b",
+      "an owner hears"
+    ],
+    [
+      "\\bI provide\\b",
+      "an owner provides"
+    ],
+    [
+      "\\bI reach\\b",
+      "an owner reaches"
+    ],
+    [
+      "\\bI['’]m\\b",
+      "the owner is"
+    ],
+    [
+      "\\bI['’]ve\\b",
+      "the owner has"
+    ],
+    [
+      "\\bI['’]ll\\b",
+      "the owner will"
+    ],
+    [
+      "\\bI['’]d\\b",
+      "the owner would"
+    ],
+    [
+      "\\bI don['’]t\\b",
+      "the owner does not"
+    ],
+    [
+      "\\bI can['’]t\\b",
+      "the owner cannot"
+    ],
+    [
+      "\\bI can\\b",
+      "the owner can"
+    ],
+    [
+      "\\bmyself\\b",
+      "the owner"
+    ],
+    [
+      "\\bmine\\b",
+      "the owner's interest"
+    ],
+    [
+      "\\bmy\\b",
+      "the owner's"
+    ],
+    [
+      "\\bme\\b",
+      "the owner"
+    ],
+    [
+      "\\bI\\b",
+      "the owner"
+    ]
   ],
   "heroes": [
     [
@@ -226,46 +415,125 @@
     ]
   ],
   "form_fields": [
-    ["owner_name", "text", "Owner or contact name", true],
-    ["county_state", "text", "Property county and state", true],
-    ["email", "email", "Email address", true],
-    ["phone", "tel", "Phone number", false],
-    ["property_details", "textarea", "Describe the interest, records, checks, and sale question", true]
+    [
+      "name",
+      "text",
+      "Name",
+      true
+    ],
+    [
+      "email",
+      "email",
+      "Email",
+      true
+    ],
+    [
+      "phone",
+      "tel",
+      "Phone",
+      true
+    ],
+    [
+      "message",
+      "textarea",
+      "Message",
+      true
+    ]
   ],
   "taxonomy_enrichment": {
     "situations": [
-      ["Define the owner's decision first", "{name} can change authority, documents, timing, family coordination, tax questions, title work, retained interests, and the type of certainty needed before closing."],
-      ["Keep the open questions visible", "For {name}, unresolved ownership, missing statements, unknown units, title conflicts, offer conditions, and timing concerns stay beside the part of the transaction they could change."]
+      [
+        "Define the owner's decision first",
+        "{name} can change authority, documents, timing, family coordination, tax questions, title work, retained interests, and the type of certainty needed before closing."
+      ],
+      [
+        "Keep the open questions visible",
+        "For {name}, unresolved ownership, missing statements, unknown units, title conflicts, offer conditions, and timing concerns stay beside the part of the transaction they could change."
+      ]
     ],
     "interest-types": [
-      ["Trace the recorded interest", "{name} should be followed through deeds, reservations, leases, assignments, units, division orders, statements, products, depths, and cost obligations before a sale is quoted."],
-      ["Attach a complete tract schedule", "The {name} schedule identifies counties, legal descriptions, fractions, depths, products, formations, wells, units, effective dates, receivables, reservations, and burdens included in the transaction."]
+      [
+        "Trace the recorded interest",
+        "{name} should be followed through deeds, reservations, leases, assignments, units, division orders, statements, products, depths, and cost obligations before a sale is quoted."
+      ],
+      [
+        "Attach a complete tract schedule",
+        "The {name} schedule identifies counties, legal descriptions, fractions, depths, products, formations, wells, units, effective dates, receivables, reservations, and burdens included in the transaction."
+      ]
     ],
     "basins": [
-      ["Use Bakken evidence without losing the tract", "{name} informs well design, products, decline, spacing, operator activity, development pace, deductions, and comparable transactions. It does not replace the property file."],
-      ["Separate current checks from possible inventory", "Producing wells, intermittent wells, behind-pipe intervals, permits, offsets, and undeveloped acreage in {name} carry different evidence, timing, and risk."]
+      [
+        "Use Bakken evidence without losing the tract",
+        "{name} informs well design, products, decline, spacing, operator activity, development pace, deductions, and comparable transactions. It does not replace the property file."
+      ],
+      [
+        "Separate current checks from possible inventory",
+        "Producing wells, intermittent wells, behind-pipe intervals, permits, offsets, and undeveloped acreage in {name} carry different evidence, timing, and risk."
+      ]
     ],
     "locations": [
-      ["Begin with the local record trail", "A mineral review in {name} starts with the recording office, legal description, deed chain, reservations, lease, units, division orders, payor records, statements, and state well data."],
-      ["Route local questions correctly", "Probate, marital property, dormant-mineral rules, pooling, recording, transfer, regulatory filings, and payor notices can differ in {name}. Qualified advisers should review those questions."]
+      [
+        "Begin with the local record trail",
+        "A mineral review in {name} starts with the recording office, legal description, deed chain, reservations, lease, units, division orders, payor records, statements, and state well data."
+      ],
+      [
+        "Route local questions correctly",
+        "Probate, marital property, dormant-mineral rules, pooling, recording, transfer, regulatory filings, and payor notices can differ in {name}. Qualified advisers should review those questions."
+      ]
     ],
     "resources": [
-      ["Turn the guide into a record question", "{name} should help locate a document, test a paid decimal, separate observed checks from future potential, compare written terms, or prepare a precise question for an adviser."],
-      ["Keep the source and date attached", "Every figure used with {name} should retain its source, observation date, unit, period, property, adjustment, and fact-or-scenario label."]
+      [
+        "Turn the guide into a record question",
+        "{name} should help locate a document, test a paid decimal, separate observed checks from future potential, compare written terms, or prepare a precise question for an adviser."
+      ],
+      [
+        "Keep the source and date attached",
+        "Every figure used with {name} should retain its source, observation date, unit, period, property, adjustment, and fact-or-scenario label."
+      ]
     ],
     "investing": [
-      ["Reconcile production to paid royalties", "For {name}, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received."],
-      ["Test one driver at a time", "Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for {name} before scenarios are combined."],
-      ["State the forecast horizon", "A {name} review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible."],
-      ["Show the downside case", "The downside schedule for {name} can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability."],
-      ["Preserve the update path", "A {name} file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates."]
+      [
+        "Reconcile production to paid royalties",
+        "For {name}, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received. Start with the owner statement rather than a basin-wide multiple. Match each payor line to the well, unit, product, sales month, decimal, and net amount, then compare that record with North Dakota production data and the controlling division order. Separate ordinary decline from shut-in time, workovers, corrected statements, and suspense releases. A useful income schedule explains why a check changed and identifies which missing record would confirm the explanation."
+      ],
+      [
+        "Test one driver at a time",
+        "Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for {name} before scenarios are combined. Changing every input at once can make an attractive forecast impossible to audit. Hold the paid decimal and well list constant while testing commodity price, then hold price constant while testing decline or downtime. Keep existing producing wells apart from permits, offsets, and undeveloped inventory. The resulting range should show which assumption drives the outcome, which evidence supports it, and how quickly the conclusion changes when Bakken activity or owner records change."
+      ],
+      [
+        "State the forecast horizon",
+        "A {name} review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible. The first period should tie directly to statements and reported production. Later periods should identify the decline convention, price deck, deduction treatment, and date each assumption was observed. Possible future wells belong in a separate development schedule with operator, spacing, permit, offset, and timing evidence. That separation prevents uncommitted inventory from being presented as current income and gives the owner a clear path for updating the analysis after a new statement or regulatory filing arrives."
+      ],
+      [
+        "Show the downside case",
+        "The downside schedule for {name} can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability. It should not be a vague percentage haircut. Record the changed assumption, the reason for the change, and the line of the owner ledger it affects. For a concentrated North Dakota package, also test an operator delay, a single high-volume well going offline, and a title reserve that postpones payment. Comparing that case with the observed case helps an owner understand whether an offer reflects ordinary uncertainty or depends on an unusually pessimistic view of the property."
+      ],
+      [
+        "Preserve the update path",
+        "A {name} file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates. Give every figure a source and every scenario an as-of date. Keep the legal-description schedule beside the well schedule so a later analyst can see which tracts and depths were included. Preserve unresolved questions instead of burying them inside a single value. When a new royalty statement, permit, order, or title document arrives, the owner should be able to replace one input and see the effect without rebuilding the entire property file from memory."
+      ]
     ],
     "exchange-1031": [
-      ["Put exchange planning before closing", "{name} begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing."],
-      ["Write deadlines as calendar dates", "Identification and completion periods for {name} should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks."],
-      ["Confirm taxpayer and vesting", "The {name} file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review."],
-      ["Keep valuation and tax roles separate", "The {name} owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds."],
-      ["Archive the exchange evidence", "A completed {name} file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence."]
+      [
+        "Put exchange planning before closing",
+        "{name} begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing. The working file should show the contemplated mineral sale, current vesting, expected proceeds, debt, closing date, and unresolved eligibility questions while there is still time to change the transaction sequence. Do not rely on a purchase offer or title conversation as tax guidance. The mineral evaluation can support property economics, but the intermediary and advisers must establish the exchange structure, permitted flow of funds, taxpayer consistency, and documents required before the relinquished interest closes."
+      ],
+      [
+        "Write deadlines as calendar dates",
+        "Identification and completion periods for {name} should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks. Start the calendar from the actual relinquished-property closing rather than an estimated month. Record weekends and holidays without assuming they extend a federal deadline. Assign an owner to every task and keep backup replacement choices visible before identification. North Dakota mineral title work can consume time, so deeds, reservations, legal descriptions, and curative questions should enter the calendar early. A dated checklist is more useful than a summary that merely repeats the 45-day and 180-day numbers."
+      ],
+      [
+        "Confirm taxpayer and vesting",
+        "The {name} file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review. Compare the deed and contract names before signing, especially when minerals passed through an estate, trust, family entity, or marital transfer. List any proposed change in ownership separately and send it to the qualified intermediary and tax counsel rather than assuming it is harmless. The property schedule should also identify tracts, depths, products, retained interests, and exclusions so the advisers know exactly what is being sold and what replacement-property value and debt questions remain."
+      ],
+      [
+        "Keep valuation and tax roles separate",
+        "The {name} owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds. Use the ledger to compare documented income, title condition, concentration, development evidence, price assumptions, and marketability across candidate properties. Send eligibility, related-party, vesting, debt, boot, identification, and timing questions to the appropriate adviser. Keeping those roles distinct prevents a valuation conclusion from being mistaken for an exchange opinion and creates a cleaner record of who supplied each instruction before money or title moves."
+      ],
+      [
+        "Archive the exchange evidence",
+        "A completed {name} file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence. Save the final signed versions, not only drafts or email summaries. Record when and how the identification notice was delivered and retain the accepted replacement-property description. Keep the mineral-property schedules and valuation assumptions that supported the decision at the time. That archive helps the owner, CPA, attorney, and intermediary reconstruct the transaction later without relying on memory, and it makes any post-closing correction or tax-reporting question easier to route to the right record."
+      ]
     ]
   }
 }

@@ -16,3 +16,11 @@ Release blockers:
 - Homepage bands cover every shipped taxonomy and appear in importance order, never alphabetical source order.
 - Both faithful-home machine gates and full-resolution donor-versus-built visual review must pass before git or deployment.
 - Git work must occur inside this child repository only. Neighboring mineral-rights projects and the dirty fleet parent are out of scope.
+
+## Fleet website-taste requirements
+
+- Preserve this project’s own donor theme and the unique business voice already declared above. Never copy another mineral-rights site’s CTA copy or voice.
+- Every taxonomy slug page may render exactly one image: its mapped `/ours/` hero. It must use a centered desktop reading measure, donor-colored related navigation, and a strong final contact plus phone CTA.
+- Every public contact form has exactly four visitor fields in this order: Name, Email, Phone, Message. Field names are `name`, `email`, `phone`, and `message`.
+- Every desktop header shows 701-555-1033 and a clear CTA that lands on `/contact#contact-form`. Consolidate secondary links before allowing overlap; dropdowns must open on hover/focus and keep the trigger-to-menu gap selectable.
+- Every page-level footer contains one Google Maps embed and no other footer media. Contact also contains one unlabeled body map. The street address remains metadata/map-query only and never appears as visible page copy.

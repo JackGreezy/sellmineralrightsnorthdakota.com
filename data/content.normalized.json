@@ -5309,23 +5309,23 @@
      "sections": [
       {
        "title": "Reconcile production to paid royalties",
-       "html": "<p>For How Royalty Income Works, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received.</p>"
+       "html": "<p>For How Royalty Income Works, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received. Start with the owner statement rather than a basin-wide multiple. Match each payor line to the well, unit, product, sales month, decimal, and net amount, then compare that record with North Dakota production data and the controlling division order. Separate ordinary decline from shut-in time, workovers, corrected statements, and suspense releases. A useful income schedule explains why a check changed and identifies which missing record would confirm the explanation.</p>"
       },
       {
        "title": "Test one driver at a time",
-       "html": "<p>Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for How Royalty Income Works before scenarios are combined.</p>"
+       "html": "<p>Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for How Royalty Income Works before scenarios are combined. Changing every input at once can make an attractive forecast impossible to audit. Hold the paid decimal and well list constant while testing commodity price, then hold price constant while testing decline or downtime. Keep existing producing wells apart from permits, offsets, and undeveloped inventory. The resulting range should show which assumption drives the outcome, which evidence supports it, and how quickly the conclusion changes when Bakken activity or owner records change.</p>"
       },
       {
        "title": "State the forecast horizon",
-       "html": "<p>A How Royalty Income Works review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible.</p>"
+       "html": "<p>A How Royalty Income Works review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible. The first period should tie directly to statements and reported production. Later periods should identify the decline convention, price deck, deduction treatment, and date each assumption was observed. Possible future wells belong in a separate development schedule with operator, spacing, permit, offset, and timing evidence. That separation prevents uncommitted inventory from being presented as current income and gives the owner a clear path for updating the analysis after a new statement or regulatory filing arrives.</p>"
       },
       {
        "title": "Show the downside case",
-       "html": "<p>The downside schedule for How Royalty Income Works can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability.</p>"
+       "html": "<p>The downside schedule for How Royalty Income Works can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability. It should not be a vague percentage haircut. Record the changed assumption, the reason for the change, and the line of the owner ledger it affects. For a concentrated North Dakota package, also test an operator delay, a single high-volume well going offline, and a title reserve that postpones payment. Comparing that case with the observed case helps an owner understand whether an offer reflects ordinary uncertainty or depends on an unusually pessimistic view of the property.</p>"
       },
       {
        "title": "Preserve the update path",
-       "html": "<p>A How Royalty Income Works file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates.</p>"
+       "html": "<p>A How Royalty Income Works file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates. Give every figure a source and every scenario an as-of date. Keep the legal-description schedule beside the well schedule so a later analyst can see which tracts and depths were included. Preserve unresolved questions instead of burying them inside a single value. When a new royalty statement, permit, order, or title document arrives, the owner should be able to replace one input and see the effect without rebuilding the entire property file from memory.</p>"
       }
      ],
      "faqs": [],
@@ -5338,23 +5338,23 @@
      "sections": [
       {
        "title": "Reconcile production to paid royalties",
-       "html": "<p>For Cash Flow vs. Long-Term Value, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received.</p>"
+       "html": "<p>For Cash Flow vs. Long-Term Value, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received. Start with the owner statement rather than a basin-wide multiple. Match each payor line to the well, unit, product, sales month, decimal, and net amount, then compare that record with North Dakota production data and the controlling division order. Separate ordinary decline from shut-in time, workovers, corrected statements, and suspense releases. A useful income schedule explains why a check changed and identifies which missing record would confirm the explanation.</p>"
       },
       {
        "title": "Test one driver at a time",
-       "html": "<p>Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for Cash Flow vs. Long-Term Value before scenarios are combined.</p>"
+       "html": "<p>Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for Cash Flow vs. Long-Term Value before scenarios are combined. Changing every input at once can make an attractive forecast impossible to audit. Hold the paid decimal and well list constant while testing commodity price, then hold price constant while testing decline or downtime. Keep existing producing wells apart from permits, offsets, and undeveloped inventory. The resulting range should show which assumption drives the outcome, which evidence supports it, and how quickly the conclusion changes when Bakken activity or owner records change.</p>"
       },
       {
        "title": "State the forecast horizon",
-       "html": "<p>A Cash Flow vs. Long-Term Value review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible.</p>"
+       "html": "<p>A Cash Flow vs. Long-Term Value review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible. The first period should tie directly to statements and reported production. Later periods should identify the decline convention, price deck, deduction treatment, and date each assumption was observed. Possible future wells belong in a separate development schedule with operator, spacing, permit, offset, and timing evidence. That separation prevents uncommitted inventory from being presented as current income and gives the owner a clear path for updating the analysis after a new statement or regulatory filing arrives.</p>"
       },
       {
        "title": "Show the downside case",
-       "html": "<p>The downside schedule for Cash Flow vs. Long-Term Value can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability.</p>"
+       "html": "<p>The downside schedule for Cash Flow vs. Long-Term Value can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability. It should not be a vague percentage haircut. Record the changed assumption, the reason for the change, and the line of the owner ledger it affects. For a concentrated North Dakota package, also test an operator delay, a single high-volume well going offline, and a title reserve that postpones payment. Comparing that case with the observed case helps an owner understand whether an offer reflects ordinary uncertainty or depends on an unusually pessimistic view of the property.</p>"
       },
       {
        "title": "Preserve the update path",
-       "html": "<p>A Cash Flow vs. Long-Term Value file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates.</p>"
+       "html": "<p>A Cash Flow vs. Long-Term Value file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates. Give every figure a source and every scenario an as-of date. Keep the legal-description schedule beside the well schedule so a later analyst can see which tracts and depths were included. Preserve unresolved questions instead of burying them inside a single value. When a new royalty statement, permit, order, or title document arrives, the owner should be able to replace one input and see the effect without rebuilding the entire property file from memory.</p>"
       }
      ],
      "faqs": [],
@@ -5367,23 +5367,23 @@
      "sections": [
       {
        "title": "Reconcile production to paid royalties",
-       "html": "<p>For Producing vs. Non-Producing for Investors, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received.</p>"
+       "html": "<p>For Producing vs. Non-Producing for Investors, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received. Start with the owner statement rather than a basin-wide multiple. Match each payor line to the well, unit, product, sales month, decimal, and net amount, then compare that record with North Dakota production data and the controlling division order. Separate ordinary decline from shut-in time, workovers, corrected statements, and suspense releases. A useful income schedule explains why a check changed and identifies which missing record would confirm the explanation.</p>"
       },
       {
        "title": "Test one driver at a time",
-       "html": "<p>Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for Producing vs. Non-Producing for Investors before scenarios are combined.</p>"
+       "html": "<p>Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for Producing vs. Non-Producing for Investors before scenarios are combined. Changing every input at once can make an attractive forecast impossible to audit. Hold the paid decimal and well list constant while testing commodity price, then hold price constant while testing decline or downtime. Keep existing producing wells apart from permits, offsets, and undeveloped inventory. The resulting range should show which assumption drives the outcome, which evidence supports it, and how quickly the conclusion changes when Bakken activity or owner records change.</p>"
       },
       {
        "title": "State the forecast horizon",
-       "html": "<p>A Producing vs. Non-Producing for Investors review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible.</p>"
+       "html": "<p>A Producing vs. Non-Producing for Investors review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible. The first period should tie directly to statements and reported production. Later periods should identify the decline convention, price deck, deduction treatment, and date each assumption was observed. Possible future wells belong in a separate development schedule with operator, spacing, permit, offset, and timing evidence. That separation prevents uncommitted inventory from being presented as current income and gives the owner a clear path for updating the analysis after a new statement or regulatory filing arrives.</p>"
       },
       {
        "title": "Show the downside case",
-       "html": "<p>The downside schedule for Producing vs. Non-Producing for Investors can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability.</p>"
+       "html": "<p>The downside schedule for Producing vs. Non-Producing for Investors can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability. It should not be a vague percentage haircut. Record the changed assumption, the reason for the change, and the line of the owner ledger it affects. For a concentrated North Dakota package, also test an operator delay, a single high-volume well going offline, and a title reserve that postpones payment. Comparing that case with the observed case helps an owner understand whether an offer reflects ordinary uncertainty or depends on an unusually pessimistic view of the property.</p>"
       },
       {
        "title": "Preserve the update path",
-       "html": "<p>A Producing vs. Non-Producing for Investors file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates.</p>"
+       "html": "<p>A Producing vs. Non-Producing for Investors file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates. Give every figure a source and every scenario an as-of date. Keep the legal-description schedule beside the well schedule so a later analyst can see which tracts and depths were included. Preserve unresolved questions instead of burying them inside a single value. When a new royalty statement, permit, order, or title document arrives, the owner should be able to replace one input and see the effect without rebuilding the entire property file from memory.</p>"
       }
      ],
      "faqs": [],
@@ -5396,23 +5396,23 @@
      "sections": [
       {
        "title": "Reconcile production to paid royalties",
-       "html": "<p>For How to Evaluate a Mineral Package, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received.</p>"
+       "html": "<p>For How to Evaluate a Mineral Package, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received. Start with the owner statement rather than a basin-wide multiple. Match each payor line to the well, unit, product, sales month, decimal, and net amount, then compare that record with North Dakota production data and the controlling division order. Separate ordinary decline from shut-in time, workovers, corrected statements, and suspense releases. A useful income schedule explains why a check changed and identifies which missing record would confirm the explanation.</p>"
       },
       {
        "title": "Test one driver at a time",
-       "html": "<p>Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for How to Evaluate a Mineral Package before scenarios are combined.</p>"
+       "html": "<p>Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for How to Evaluate a Mineral Package before scenarios are combined. Changing every input at once can make an attractive forecast impossible to audit. Hold the paid decimal and well list constant while testing commodity price, then hold price constant while testing decline or downtime. Keep existing producing wells apart from permits, offsets, and undeveloped inventory. The resulting range should show which assumption drives the outcome, which evidence supports it, and how quickly the conclusion changes when Bakken activity or owner records change.</p>"
       },
       {
        "title": "State the forecast horizon",
-       "html": "<p>A How to Evaluate a Mineral Package review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible.</p>"
+       "html": "<p>A How to Evaluate a Mineral Package review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible. The first period should tie directly to statements and reported production. Later periods should identify the decline convention, price deck, deduction treatment, and date each assumption was observed. Possible future wells belong in a separate development schedule with operator, spacing, permit, offset, and timing evidence. That separation prevents uncommitted inventory from being presented as current income and gives the owner a clear path for updating the analysis after a new statement or regulatory filing arrives.</p>"
       },
       {
        "title": "Show the downside case",
-       "html": "<p>The downside schedule for How to Evaluate a Mineral Package can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability.</p>"
+       "html": "<p>The downside schedule for How to Evaluate a Mineral Package can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability. It should not be a vague percentage haircut. Record the changed assumption, the reason for the change, and the line of the owner ledger it affects. For a concentrated North Dakota package, also test an operator delay, a single high-volume well going offline, and a title reserve that postpones payment. Comparing that case with the observed case helps an owner understand whether an offer reflects ordinary uncertainty or depends on an unusually pessimistic view of the property.</p>"
       },
       {
        "title": "Preserve the update path",
-       "html": "<p>A How to Evaluate a Mineral Package file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates.</p>"
+       "html": "<p>A How to Evaluate a Mineral Package file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates. Give every figure a source and every scenario an as-of date. Keep the legal-description schedule beside the well schedule so a later analyst can see which tracts and depths were included. Preserve unresolved questions instead of burying them inside a single value. When a new royalty statement, permit, order, or title document arrives, the owner should be able to replace one input and see the effect without rebuilding the entire property file from memory.</p>"
       }
      ],
      "faqs": [],
@@ -5425,23 +5425,23 @@
      "sections": [
       {
        "title": "Reconcile production to paid royalties",
-       "html": "<p>For The Real Risks of Mineral Investing, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received.</p>"
+       "html": "<p>For The Real Risks of Mineral Investing, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received. Start with the owner statement rather than a basin-wide multiple. Match each payor line to the well, unit, product, sales month, decimal, and net amount, then compare that record with North Dakota production data and the controlling division order. Separate ordinary decline from shut-in time, workovers, corrected statements, and suspense releases. A useful income schedule explains why a check changed and identifies which missing record would confirm the explanation.</p>"
       },
       {
        "title": "Test one driver at a time",
-       "html": "<p>Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for The Real Risks of Mineral Investing before scenarios are combined.</p>"
+       "html": "<p>Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for The Real Risks of Mineral Investing before scenarios are combined. Changing every input at once can make an attractive forecast impossible to audit. Hold the paid decimal and well list constant while testing commodity price, then hold price constant while testing decline or downtime. Keep existing producing wells apart from permits, offsets, and undeveloped inventory. The resulting range should show which assumption drives the outcome, which evidence supports it, and how quickly the conclusion changes when Bakken activity or owner records change.</p>"
       },
       {
        "title": "State the forecast horizon",
-       "html": "<p>A The Real Risks of Mineral Investing review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible.</p>"
+       "html": "<p>A The Real Risks of Mineral Investing review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible. The first period should tie directly to statements and reported production. Later periods should identify the decline convention, price deck, deduction treatment, and date each assumption was observed. Possible future wells belong in a separate development schedule with operator, spacing, permit, offset, and timing evidence. That separation prevents uncommitted inventory from being presented as current income and gives the owner a clear path for updating the analysis after a new statement or regulatory filing arrives.</p>"
       },
       {
        "title": "Show the downside case",
-       "html": "<p>The downside schedule for The Real Risks of Mineral Investing can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability.</p>"
+       "html": "<p>The downside schedule for The Real Risks of Mineral Investing can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability. It should not be a vague percentage haircut. Record the changed assumption, the reason for the change, and the line of the owner ledger it affects. For a concentrated North Dakota package, also test an operator delay, a single high-volume well going offline, and a title reserve that postpones payment. Comparing that case with the observed case helps an owner understand whether an offer reflects ordinary uncertainty or depends on an unusually pessimistic view of the property.</p>"
       },
       {
        "title": "Preserve the update path",
-       "html": "<p>A The Real Risks of Mineral Investing file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates.</p>"
+       "html": "<p>A The Real Risks of Mineral Investing file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates. Give every figure a source and every scenario an as-of date. Keep the legal-description schedule beside the well schedule so a later analyst can see which tracts and depths were included. Preserve unresolved questions instead of burying them inside a single value. When a new royalty statement, permit, order, or title document arrives, the owner should be able to replace one input and see the effect without rebuilding the entire property file from memory.</p>"
       }
      ],
      "faqs": [],
@@ -5454,23 +5454,23 @@
      "sections": [
       {
        "title": "Reconcile production to paid royalties",
-       "html": "<p>For Mineral Rights as an Investment, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received.</p>"
+       "html": "<p>For Mineral Rights as an Investment, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received. Start with the owner statement rather than a basin-wide multiple. Match each payor line to the well, unit, product, sales month, decimal, and net amount, then compare that record with North Dakota production data and the controlling division order. Separate ordinary decline from shut-in time, workovers, corrected statements, and suspense releases. A useful income schedule explains why a check changed and identifies which missing record would confirm the explanation.</p>"
       },
       {
        "title": "Test one driver at a time",
-       "html": "<p>Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for Mineral Rights as an Investment before scenarios are combined.</p>"
+       "html": "<p>Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for Mineral Rights as an Investment before scenarios are combined. Changing every input at once can make an attractive forecast impossible to audit. Hold the paid decimal and well list constant while testing commodity price, then hold price constant while testing decline or downtime. Keep existing producing wells apart from permits, offsets, and undeveloped inventory. The resulting range should show which assumption drives the outcome, which evidence supports it, and how quickly the conclusion changes when Bakken activity or owner records change.</p>"
       },
       {
        "title": "State the forecast horizon",
-       "html": "<p>A Mineral Rights as an Investment review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible.</p>"
+       "html": "<p>A Mineral Rights as an Investment review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible. The first period should tie directly to statements and reported production. Later periods should identify the decline convention, price deck, deduction treatment, and date each assumption was observed. Possible future wells belong in a separate development schedule with operator, spacing, permit, offset, and timing evidence. That separation prevents uncommitted inventory from being presented as current income and gives the owner a clear path for updating the analysis after a new statement or regulatory filing arrives.</p>"
       },
       {
        "title": "Show the downside case",
-       "html": "<p>The downside schedule for Mineral Rights as an Investment can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability.</p>"
+       "html": "<p>The downside schedule for Mineral Rights as an Investment can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability. It should not be a vague percentage haircut. Record the changed assumption, the reason for the change, and the line of the owner ledger it affects. For a concentrated North Dakota package, also test an operator delay, a single high-volume well going offline, and a title reserve that postpones payment. Comparing that case with the observed case helps an owner understand whether an offer reflects ordinary uncertainty or depends on an unusually pessimistic view of the property.</p>"
       },
       {
        "title": "Preserve the update path",
-       "html": "<p>A Mineral Rights as an Investment file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates.</p>"
+       "html": "<p>A Mineral Rights as an Investment file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates. Give every figure a source and every scenario an as-of date. Keep the legal-description schedule beside the well schedule so a later analyst can see which tracts and depths were included. Preserve unresolved questions instead of burying them inside a single value. When a new royalty statement, permit, order, or title document arrives, the owner should be able to replace one input and see the effect without rebuilding the entire property file from memory.</p>"
       }
      ],
      "faqs": [],
@@ -5483,23 +5483,23 @@
      "sections": [
       {
        "title": "Reconcile production to paid royalties",
-       "html": "<p>For Passive Royalty Income, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received.</p>"
+       "html": "<p>For Passive Royalty Income, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received. Start with the owner statement rather than a basin-wide multiple. Match each payor line to the well, unit, product, sales month, decimal, and net amount, then compare that record with North Dakota production data and the controlling division order. Separate ordinary decline from shut-in time, workovers, corrected statements, and suspense releases. A useful income schedule explains why a check changed and identifies which missing record would confirm the explanation.</p>"
       },
       {
        "title": "Test one driver at a time",
-       "html": "<p>Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for Passive Royalty Income before scenarios are combined.</p>"
+       "html": "<p>Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for Passive Royalty Income before scenarios are combined. Changing every input at once can make an attractive forecast impossible to audit. Hold the paid decimal and well list constant while testing commodity price, then hold price constant while testing decline or downtime. Keep existing producing wells apart from permits, offsets, and undeveloped inventory. The resulting range should show which assumption drives the outcome, which evidence supports it, and how quickly the conclusion changes when Bakken activity or owner records change.</p>"
       },
       {
        "title": "State the forecast horizon",
-       "html": "<p>A Passive Royalty Income review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible.</p>"
+       "html": "<p>A Passive Royalty Income review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible. The first period should tie directly to statements and reported production. Later periods should identify the decline convention, price deck, deduction treatment, and date each assumption was observed. Possible future wells belong in a separate development schedule with operator, spacing, permit, offset, and timing evidence. That separation prevents uncommitted inventory from being presented as current income and gives the owner a clear path for updating the analysis after a new statement or regulatory filing arrives.</p>"
       },
       {
        "title": "Show the downside case",
-       "html": "<p>The downside schedule for Passive Royalty Income can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability.</p>"
+       "html": "<p>The downside schedule for Passive Royalty Income can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability. It should not be a vague percentage haircut. Record the changed assumption, the reason for the change, and the line of the owner ledger it affects. For a concentrated North Dakota package, also test an operator delay, a single high-volume well going offline, and a title reserve that postpones payment. Comparing that case with the observed case helps an owner understand whether an offer reflects ordinary uncertainty or depends on an unusually pessimistic view of the property.</p>"
       },
       {
        "title": "Preserve the update path",
-       "html": "<p>A Passive Royalty Income file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates.</p>"
+       "html": "<p>A Passive Royalty Income file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates. Give every figure a source and every scenario an as-of date. Keep the legal-description schedule beside the well schedule so a later analyst can see which tracts and depths were included. Preserve unresolved questions instead of burying them inside a single value. When a new royalty statement, permit, order, or title document arrives, the owner should be able to replace one input and see the effect without rebuilding the entire property file from memory.</p>"
       }
      ],
      "faqs": [],
@@ -5512,23 +5512,23 @@
      "sections": [
       {
        "title": "Reconcile production to paid royalties",
-       "html": "<p>For Diversifying a Portfolio With Minerals, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received.</p>"
+       "html": "<p>For Diversifying a Portfolio With Minerals, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received. Start with the owner statement rather than a basin-wide multiple. Match each payor line to the well, unit, product, sales month, decimal, and net amount, then compare that record with North Dakota production data and the controlling division order. Separate ordinary decline from shut-in time, workovers, corrected statements, and suspense releases. A useful income schedule explains why a check changed and identifies which missing record would confirm the explanation.</p>"
       },
       {
        "title": "Test one driver at a time",
-       "html": "<p>Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for Diversifying a Portfolio With Minerals before scenarios are combined.</p>"
+       "html": "<p>Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for Diversifying a Portfolio With Minerals before scenarios are combined. Changing every input at once can make an attractive forecast impossible to audit. Hold the paid decimal and well list constant while testing commodity price, then hold price constant while testing decline or downtime. Keep existing producing wells apart from permits, offsets, and undeveloped inventory. The resulting range should show which assumption drives the outcome, which evidence supports it, and how quickly the conclusion changes when Bakken activity or owner records change.</p>"
       },
       {
        "title": "State the forecast horizon",
-       "html": "<p>A Diversifying a Portfolio With Minerals review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible.</p>"
+       "html": "<p>A Diversifying a Portfolio With Minerals review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible. The first period should tie directly to statements and reported production. Later periods should identify the decline convention, price deck, deduction treatment, and date each assumption was observed. Possible future wells belong in a separate development schedule with operator, spacing, permit, offset, and timing evidence. That separation prevents uncommitted inventory from being presented as current income and gives the owner a clear path for updating the analysis after a new statement or regulatory filing arrives.</p>"
       },
       {
        "title": "Show the downside case",
-       "html": "<p>The downside schedule for Diversifying a Portfolio With Minerals can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability.</p>"
+       "html": "<p>The downside schedule for Diversifying a Portfolio With Minerals can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability. It should not be a vague percentage haircut. Record the changed assumption, the reason for the change, and the line of the owner ledger it affects. For a concentrated North Dakota package, also test an operator delay, a single high-volume well going offline, and a title reserve that postpones payment. Comparing that case with the observed case helps an owner understand whether an offer reflects ordinary uncertainty or depends on an unusually pessimistic view of the property.</p>"
       },
       {
        "title": "Preserve the update path",
-       "html": "<p>A Diversifying a Portfolio With Minerals file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates.</p>"
+       "html": "<p>A Diversifying a Portfolio With Minerals file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates. Give every figure a source and every scenario an as-of date. Keep the legal-description schedule beside the well schedule so a later analyst can see which tracts and depths were included. Preserve unresolved questions instead of burying them inside a single value. When a new royalty statement, permit, order, or title document arrives, the owner should be able to replace one input and see the effect without rebuilding the entire property file from memory.</p>"
       }
      ],
      "faqs": [],
@@ -5541,23 +5541,23 @@
      "sections": [
       {
        "title": "Reconcile production to paid royalties",
-       "html": "<p>For Direct Minerals vs. Royalty Funds, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received.</p>"
+       "html": "<p>For Direct Minerals vs. Royalty Funds, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received. Start with the owner statement rather than a basin-wide multiple. Match each payor line to the well, unit, product, sales month, decimal, and net amount, then compare that record with North Dakota production data and the controlling division order. Separate ordinary decline from shut-in time, workovers, corrected statements, and suspense releases. A useful income schedule explains why a check changed and identifies which missing record would confirm the explanation.</p>"
       },
       {
        "title": "Test one driver at a time",
-       "html": "<p>Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for Direct Minerals vs. Royalty Funds before scenarios are combined.</p>"
+       "html": "<p>Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for Direct Minerals vs. Royalty Funds before scenarios are combined. Changing every input at once can make an attractive forecast impossible to audit. Hold the paid decimal and well list constant while testing commodity price, then hold price constant while testing decline or downtime. Keep existing producing wells apart from permits, offsets, and undeveloped inventory. The resulting range should show which assumption drives the outcome, which evidence supports it, and how quickly the conclusion changes when Bakken activity or owner records change.</p>"
       },
       {
        "title": "State the forecast horizon",
-       "html": "<p>A Direct Minerals vs. Royalty Funds review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible.</p>"
+       "html": "<p>A Direct Minerals vs. Royalty Funds review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible. The first period should tie directly to statements and reported production. Later periods should identify the decline convention, price deck, deduction treatment, and date each assumption was observed. Possible future wells belong in a separate development schedule with operator, spacing, permit, offset, and timing evidence. That separation prevents uncommitted inventory from being presented as current income and gives the owner a clear path for updating the analysis after a new statement or regulatory filing arrives.</p>"
       },
       {
        "title": "Show the downside case",
-       "html": "<p>The downside schedule for Direct Minerals vs. Royalty Funds can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability.</p>"
+       "html": "<p>The downside schedule for Direct Minerals vs. Royalty Funds can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability. It should not be a vague percentage haircut. Record the changed assumption, the reason for the change, and the line of the owner ledger it affects. For a concentrated North Dakota package, also test an operator delay, a single high-volume well going offline, and a title reserve that postpones payment. Comparing that case with the observed case helps an owner understand whether an offer reflects ordinary uncertainty or depends on an unusually pessimistic view of the property.</p>"
       },
       {
        "title": "Preserve the update path",
-       "html": "<p>A Direct Minerals vs. Royalty Funds file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates.</p>"
+       "html": "<p>A Direct Minerals vs. Royalty Funds file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates. Give every figure a source and every scenario an as-of date. Keep the legal-description schedule beside the well schedule so a later analyst can see which tracts and depths were included. Preserve unresolved questions instead of burying them inside a single value. When a new royalty statement, permit, order, or title document arrives, the owner should be able to replace one input and see the effect without rebuilding the entire property file from memory.</p>"
       }
      ],
      "faqs": [],
@@ -5570,23 +5570,23 @@
      "sections": [
       {
        "title": "Reconcile production to paid royalties",
-       "html": "<p>For Inflation and Mineral Income, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received.</p>"
+       "html": "<p>For Inflation and Mineral Income, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received. Start with the owner statement rather than a basin-wide multiple. Match each payor line to the well, unit, product, sales month, decimal, and net amount, then compare that record with North Dakota production data and the controlling division order. Separate ordinary decline from shut-in time, workovers, corrected statements, and suspense releases. A useful income schedule explains why a check changed and identifies which missing record would confirm the explanation.</p>"
       },
       {
        "title": "Test one driver at a time",
-       "html": "<p>Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for Inflation and Mineral Income before scenarios are combined.</p>"
+       "html": "<p>Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for Inflation and Mineral Income before scenarios are combined. Changing every input at once can make an attractive forecast impossible to audit. Hold the paid decimal and well list constant while testing commodity price, then hold price constant while testing decline or downtime. Keep existing producing wells apart from permits, offsets, and undeveloped inventory. The resulting range should show which assumption drives the outcome, which evidence supports it, and how quickly the conclusion changes when Bakken activity or owner records change.</p>"
       },
       {
        "title": "State the forecast horizon",
-       "html": "<p>A Inflation and Mineral Income review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible.</p>"
+       "html": "<p>A Inflation and Mineral Income review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible. The first period should tie directly to statements and reported production. Later periods should identify the decline convention, price deck, deduction treatment, and date each assumption was observed. Possible future wells belong in a separate development schedule with operator, spacing, permit, offset, and timing evidence. That separation prevents uncommitted inventory from being presented as current income and gives the owner a clear path for updating the analysis after a new statement or regulatory filing arrives.</p>"
       },
       {
        "title": "Show the downside case",
-       "html": "<p>The downside schedule for Inflation and Mineral Income can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability.</p>"
+       "html": "<p>The downside schedule for Inflation and Mineral Income can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability. It should not be a vague percentage haircut. Record the changed assumption, the reason for the change, and the line of the owner ledger it affects. For a concentrated North Dakota package, also test an operator delay, a single high-volume well going offline, and a title reserve that postpones payment. Comparing that case with the observed case helps an owner understand whether an offer reflects ordinary uncertainty or depends on an unusually pessimistic view of the property.</p>"
       },
       {
        "title": "Preserve the update path",
-       "html": "<p>A Inflation and Mineral Income file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates.</p>"
+       "html": "<p>A Inflation and Mineral Income file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates. Give every figure a source and every scenario an as-of date. Keep the legal-description schedule beside the well schedule so a later analyst can see which tracts and depths were included. Preserve unresolved questions instead of burying them inside a single value. When a new royalty statement, permit, order, or title document arrives, the owner should be able to replace one input and see the effect without rebuilding the entire property file from memory.</p>"
       }
      ],
      "faqs": [],
@@ -5605,23 +5605,23 @@
      "sections": [
       {
        "title": "Put exchange planning before closing",
-       "html": "<p>Is a 1031 Exchange Right for You? begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing.</p>"
+       "html": "<p>Is a 1031 Exchange Right for You? begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing. The working file should show the contemplated mineral sale, current vesting, expected proceeds, debt, closing date, and unresolved eligibility questions while there is still time to change the transaction sequence. Do not rely on a purchase offer or title conversation as tax guidance. The mineral evaluation can support property economics, but the intermediary and advisers must establish the exchange structure, permitted flow of funds, taxpayer consistency, and documents required before the relinquished interest closes.</p>"
       },
       {
        "title": "Write deadlines as calendar dates",
-       "html": "<p>Identification and completion periods for Is a 1031 Exchange Right for You? should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks.</p>"
+       "html": "<p>Identification and completion periods for Is a 1031 Exchange Right for You? should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks. Start the calendar from the actual relinquished-property closing rather than an estimated month. Record weekends and holidays without assuming they extend a federal deadline. Assign an owner to every task and keep backup replacement choices visible before identification. North Dakota mineral title work can consume time, so deeds, reservations, legal descriptions, and curative questions should enter the calendar early. A dated checklist is more useful than a summary that merely repeats the 45-day and 180-day numbers.</p>"
       },
       {
        "title": "Confirm taxpayer and vesting",
-       "html": "<p>The Is a 1031 Exchange Right for You? file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review.</p>"
+       "html": "<p>The Is a 1031 Exchange Right for You? file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review. Compare the deed and contract names before signing, especially when minerals passed through an estate, trust, family entity, or marital transfer. List any proposed change in ownership separately and send it to the qualified intermediary and tax counsel rather than assuming it is harmless. The property schedule should also identify tracts, depths, products, retained interests, and exclusions so the advisers know exactly what is being sold and what replacement-property value and debt questions remain.</p>"
       },
       {
        "title": "Keep valuation and tax roles separate",
-       "html": "<p>The Is a 1031 Exchange Right for You? owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds.</p>"
+       "html": "<p>The Is a 1031 Exchange Right for You? owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds. Use the ledger to compare documented income, title condition, concentration, development evidence, price assumptions, and marketability across candidate properties. Send eligibility, related-party, vesting, debt, boot, identification, and timing questions to the appropriate adviser. Keeping those roles distinct prevents a valuation conclusion from being mistaken for an exchange opinion and creates a cleaner record of who supplied each instruction before money or title moves.</p>"
       },
       {
        "title": "Archive the exchange evidence",
-       "html": "<p>A completed Is a 1031 Exchange Right for You? file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence.</p>"
+       "html": "<p>A completed Is a 1031 Exchange Right for You? file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence. Save the final signed versions, not only drafts or email summaries. Record when and how the identification notice was delivered and retain the accepted replacement-property description. Keep the mineral-property schedules and valuation assumptions that supported the decision at the time. That archive helps the owner, CPA, attorney, and intermediary reconstruct the transaction later without relying on memory, and it makes any post-closing correction or tax-reporting question easier to route to the right record.</p>"
       }
      ],
      "faqs": [],
@@ -5634,23 +5634,23 @@
      "sections": [
       {
        "title": "Put exchange planning before closing",
-       "html": "<p>Qualified Intermediaries, Explained begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing.</p>"
+       "html": "<p>Qualified Intermediaries, Explained begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing. The working file should show the contemplated mineral sale, current vesting, expected proceeds, debt, closing date, and unresolved eligibility questions while there is still time to change the transaction sequence. Do not rely on a purchase offer or title conversation as tax guidance. The mineral evaluation can support property economics, but the intermediary and advisers must establish the exchange structure, permitted flow of funds, taxpayer consistency, and documents required before the relinquished interest closes.</p>"
       },
       {
        "title": "Write deadlines as calendar dates",
-       "html": "<p>Identification and completion periods for Qualified Intermediaries, Explained should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks.</p>"
+       "html": "<p>Identification and completion periods for Qualified Intermediaries, Explained should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks. Start the calendar from the actual relinquished-property closing rather than an estimated month. Record weekends and holidays without assuming they extend a federal deadline. Assign an owner to every task and keep backup replacement choices visible before identification. North Dakota mineral title work can consume time, so deeds, reservations, legal descriptions, and curative questions should enter the calendar early. A dated checklist is more useful than a summary that merely repeats the 45-day and 180-day numbers.</p>"
       },
       {
        "title": "Confirm taxpayer and vesting",
-       "html": "<p>The Qualified Intermediaries, Explained file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review.</p>"
+       "html": "<p>The Qualified Intermediaries, Explained file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review. Compare the deed and contract names before signing, especially when minerals passed through an estate, trust, family entity, or marital transfer. List any proposed change in ownership separately and send it to the qualified intermediary and tax counsel rather than assuming it is harmless. The property schedule should also identify tracts, depths, products, retained interests, and exclusions so the advisers know exactly what is being sold and what replacement-property value and debt questions remain.</p>"
       },
       {
        "title": "Keep valuation and tax roles separate",
-       "html": "<p>The Qualified Intermediaries, Explained owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds.</p>"
+       "html": "<p>The Qualified Intermediaries, Explained owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds. Use the ledger to compare documented income, title condition, concentration, development evidence, price assumptions, and marketability across candidate properties. Send eligibility, related-party, vesting, debt, boot, identification, and timing questions to the appropriate adviser. Keeping those roles distinct prevents a valuation conclusion from being mistaken for an exchange opinion and creates a cleaner record of who supplied each instruction before money or title moves.</p>"
       },
       {
        "title": "Archive the exchange evidence",
-       "html": "<p>A completed Qualified Intermediaries, Explained file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence.</p>"
+       "html": "<p>A completed Qualified Intermediaries, Explained file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence. Save the final signed versions, not only drafts or email summaries. Record when and how the identification notice was delivered and retain the accepted replacement-property description. Keep the mineral-property schedules and valuation assumptions that supported the decision at the time. That archive helps the owner, CPA, attorney, and intermediary reconstruct the transaction later without relying on memory, and it makes any post-closing correction or tax-reporting question easier to route to the right record.</p>"
       }
      ],
      "faqs": [],
@@ -5663,23 +5663,23 @@
      "sections": [
       {
        "title": "Put exchange planning before closing",
-       "html": "<p>The 45- and 180-Day 1031 Deadlines begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing.</p>"
+       "html": "<p>The 45- and 180-Day 1031 Deadlines begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing. The working file should show the contemplated mineral sale, current vesting, expected proceeds, debt, closing date, and unresolved eligibility questions while there is still time to change the transaction sequence. Do not rely on a purchase offer or title conversation as tax guidance. The mineral evaluation can support property economics, but the intermediary and advisers must establish the exchange structure, permitted flow of funds, taxpayer consistency, and documents required before the relinquished interest closes.</p>"
       },
       {
        "title": "Write deadlines as calendar dates",
-       "html": "<p>Identification and completion periods for The 45- and 180-Day 1031 Deadlines should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks.</p>"
+       "html": "<p>Identification and completion periods for The 45- and 180-Day 1031 Deadlines should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks. Start the calendar from the actual relinquished-property closing rather than an estimated month. Record weekends and holidays without assuming they extend a federal deadline. Assign an owner to every task and keep backup replacement choices visible before identification. North Dakota mineral title work can consume time, so deeds, reservations, legal descriptions, and curative questions should enter the calendar early. A dated checklist is more useful than a summary that merely repeats the 45-day and 180-day numbers.</p>"
       },
       {
        "title": "Confirm taxpayer and vesting",
-       "html": "<p>The The 45- and 180-Day 1031 Deadlines file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review.</p>"
+       "html": "<p>The The 45- and 180-Day 1031 Deadlines file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review. Compare the deed and contract names before signing, especially when minerals passed through an estate, trust, family entity, or marital transfer. List any proposed change in ownership separately and send it to the qualified intermediary and tax counsel rather than assuming it is harmless. The property schedule should also identify tracts, depths, products, retained interests, and exclusions so the advisers know exactly what is being sold and what replacement-property value and debt questions remain.</p>"
       },
       {
        "title": "Keep valuation and tax roles separate",
-       "html": "<p>The The 45- and 180-Day 1031 Deadlines owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds.</p>"
+       "html": "<p>The The 45- and 180-Day 1031 Deadlines owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds. Use the ledger to compare documented income, title condition, concentration, development evidence, price assumptions, and marketability across candidate properties. Send eligibility, related-party, vesting, debt, boot, identification, and timing questions to the appropriate adviser. Keeping those roles distinct prevents a valuation conclusion from being mistaken for an exchange opinion and creates a cleaner record of who supplied each instruction before money or title moves.</p>"
       },
       {
        "title": "Archive the exchange evidence",
-       "html": "<p>A completed The 45- and 180-Day 1031 Deadlines file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence.</p>"
+       "html": "<p>A completed The 45- and 180-Day 1031 Deadlines file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence. Save the final signed versions, not only drafts or email summaries. Record when and how the identification notice was delivered and retain the accepted replacement-property description. Keep the mineral-property schedules and valuation assumptions that supported the decision at the time. That archive helps the owner, CPA, attorney, and intermediary reconstruct the transaction later without relying on memory, and it makes any post-closing correction or tax-reporting question easier to route to the right record.</p>"
       }
      ],
      "faqs": [],
@@ -5692,23 +5692,23 @@
      "sections": [
       {
        "title": "Put exchange planning before closing",
-       "html": "<p>Defer Taxes on Your Mineral Sale begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing.</p>"
+       "html": "<p>Defer Taxes on Your Mineral Sale begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing. The working file should show the contemplated mineral sale, current vesting, expected proceeds, debt, closing date, and unresolved eligibility questions while there is still time to change the transaction sequence. Do not rely on a purchase offer or title conversation as tax guidance. The mineral evaluation can support property economics, but the intermediary and advisers must establish the exchange structure, permitted flow of funds, taxpayer consistency, and documents required before the relinquished interest closes.</p>"
       },
       {
        "title": "Write deadlines as calendar dates",
-       "html": "<p>Identification and completion periods for Defer Taxes on Your Mineral Sale should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks.</p>"
+       "html": "<p>Identification and completion periods for Defer Taxes on Your Mineral Sale should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks. Start the calendar from the actual relinquished-property closing rather than an estimated month. Record weekends and holidays without assuming they extend a federal deadline. Assign an owner to every task and keep backup replacement choices visible before identification. North Dakota mineral title work can consume time, so deeds, reservations, legal descriptions, and curative questions should enter the calendar early. A dated checklist is more useful than a summary that merely repeats the 45-day and 180-day numbers.</p>"
       },
       {
        "title": "Confirm taxpayer and vesting",
-       "html": "<p>The Defer Taxes on Your Mineral Sale file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review.</p>"
+       "html": "<p>The Defer Taxes on Your Mineral Sale file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review. Compare the deed and contract names before signing, especially when minerals passed through an estate, trust, family entity, or marital transfer. List any proposed change in ownership separately and send it to the qualified intermediary and tax counsel rather than assuming it is harmless. The property schedule should also identify tracts, depths, products, retained interests, and exclusions so the advisers know exactly what is being sold and what replacement-property value and debt questions remain.</p>"
       },
       {
        "title": "Keep valuation and tax roles separate",
-       "html": "<p>The Defer Taxes on Your Mineral Sale owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds.</p>"
+       "html": "<p>The Defer Taxes on Your Mineral Sale owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds. Use the ledger to compare documented income, title condition, concentration, development evidence, price assumptions, and marketability across candidate properties. Send eligibility, related-party, vesting, debt, boot, identification, and timing questions to the appropriate adviser. Keeping those roles distinct prevents a valuation conclusion from being mistaken for an exchange opinion and creates a cleaner record of who supplied each instruction before money or title moves.</p>"
       },
       {
        "title": "Archive the exchange evidence",
-       "html": "<p>A completed Defer Taxes on Your Mineral Sale file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence.</p>"
+       "html": "<p>A completed Defer Taxes on Your Mineral Sale file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence. Save the final signed versions, not only drafts or email summaries. Record when and how the identification notice was delivered and retain the accepted replacement-property description. Keep the mineral-property schedules and valuation assumptions that supported the decision at the time. That archive helps the owner, CPA, attorney, and intermediary reconstruct the transaction later without relying on memory, and it makes any post-closing correction or tax-reporting question easier to route to the right record.</p>"
       }
      ],
      "faqs": [],
@@ -5721,23 +5721,23 @@
      "sections": [
       {
        "title": "Put exchange planning before closing",
-       "html": "<p>1031 Exchange Into Mineral Rights begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing.</p>"
+       "html": "<p>1031 Exchange Into Mineral Rights begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing. The working file should show the contemplated mineral sale, current vesting, expected proceeds, debt, closing date, and unresolved eligibility questions while there is still time to change the transaction sequence. Do not rely on a purchase offer or title conversation as tax guidance. The mineral evaluation can support property economics, but the intermediary and advisers must establish the exchange structure, permitted flow of funds, taxpayer consistency, and documents required before the relinquished interest closes.</p>"
       },
       {
        "title": "Write deadlines as calendar dates",
-       "html": "<p>Identification and completion periods for 1031 Exchange Into Mineral Rights should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks.</p>"
+       "html": "<p>Identification and completion periods for 1031 Exchange Into Mineral Rights should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks. Start the calendar from the actual relinquished-property closing rather than an estimated month. Record weekends and holidays without assuming they extend a federal deadline. Assign an owner to every task and keep backup replacement choices visible before identification. North Dakota mineral title work can consume time, so deeds, reservations, legal descriptions, and curative questions should enter the calendar early. A dated checklist is more useful than a summary that merely repeats the 45-day and 180-day numbers.</p>"
       },
       {
        "title": "Confirm taxpayer and vesting",
-       "html": "<p>The 1031 Exchange Into Mineral Rights file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review.</p>"
+       "html": "<p>The 1031 Exchange Into Mineral Rights file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review. Compare the deed and contract names before signing, especially when minerals passed through an estate, trust, family entity, or marital transfer. List any proposed change in ownership separately and send it to the qualified intermediary and tax counsel rather than assuming it is harmless. The property schedule should also identify tracts, depths, products, retained interests, and exclusions so the advisers know exactly what is being sold and what replacement-property value and debt questions remain.</p>"
       },
       {
        "title": "Keep valuation and tax roles separate",
-       "html": "<p>The 1031 Exchange Into Mineral Rights owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds.</p>"
+       "html": "<p>The 1031 Exchange Into Mineral Rights owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds. Use the ledger to compare documented income, title condition, concentration, development evidence, price assumptions, and marketability across candidate properties. Send eligibility, related-party, vesting, debt, boot, identification, and timing questions to the appropriate adviser. Keeping those roles distinct prevents a valuation conclusion from being mistaken for an exchange opinion and creates a cleaner record of who supplied each instruction before money or title moves.</p>"
       },
       {
        "title": "Archive the exchange evidence",
-       "html": "<p>A completed 1031 Exchange Into Mineral Rights file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence.</p>"
+       "html": "<p>A completed 1031 Exchange Into Mineral Rights file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence. Save the final signed versions, not only drafts or email summaries. Record when and how the identification notice was delivered and retain the accepted replacement-property description. Keep the mineral-property schedules and valuation assumptions that supported the decision at the time. That archive helps the owner, CPA, attorney, and intermediary reconstruct the transaction later without relying on memory, and it makes any post-closing correction or tax-reporting question easier to route to the right record.</p>"
       }
      ],
      "faqs": [],
@@ -5750,23 +5750,23 @@
      "sections": [
       {
        "title": "Put exchange planning before closing",
-       "html": "<p>Minerals as 1031 Replacement Property begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing.</p>"
+       "html": "<p>Minerals as 1031 Replacement Property begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing. The working file should show the contemplated mineral sale, current vesting, expected proceeds, debt, closing date, and unresolved eligibility questions while there is still time to change the transaction sequence. Do not rely on a purchase offer or title conversation as tax guidance. The mineral evaluation can support property economics, but the intermediary and advisers must establish the exchange structure, permitted flow of funds, taxpayer consistency, and documents required before the relinquished interest closes.</p>"
       },
       {
        "title": "Write deadlines as calendar dates",
-       "html": "<p>Identification and completion periods for Minerals as 1031 Replacement Property should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks.</p>"
+       "html": "<p>Identification and completion periods for Minerals as 1031 Replacement Property should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks. Start the calendar from the actual relinquished-property closing rather than an estimated month. Record weekends and holidays without assuming they extend a federal deadline. Assign an owner to every task and keep backup replacement choices visible before identification. North Dakota mineral title work can consume time, so deeds, reservations, legal descriptions, and curative questions should enter the calendar early. A dated checklist is more useful than a summary that merely repeats the 45-day and 180-day numbers.</p>"
       },
       {
        "title": "Confirm taxpayer and vesting",
-       "html": "<p>The Minerals as 1031 Replacement Property file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review.</p>"
+       "html": "<p>The Minerals as 1031 Replacement Property file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review. Compare the deed and contract names before signing, especially when minerals passed through an estate, trust, family entity, or marital transfer. List any proposed change in ownership separately and send it to the qualified intermediary and tax counsel rather than assuming it is harmless. The property schedule should also identify tracts, depths, products, retained interests, and exclusions so the advisers know exactly what is being sold and what replacement-property value and debt questions remain.</p>"
       },
       {
        "title": "Keep valuation and tax roles separate",
-       "html": "<p>The Minerals as 1031 Replacement Property owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds.</p>"
+       "html": "<p>The Minerals as 1031 Replacement Property owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds. Use the ledger to compare documented income, title condition, concentration, development evidence, price assumptions, and marketability across candidate properties. Send eligibility, related-party, vesting, debt, boot, identification, and timing questions to the appropriate adviser. Keeping those roles distinct prevents a valuation conclusion from being mistaken for an exchange opinion and creates a cleaner record of who supplied each instruction before money or title moves.</p>"
       },
       {
        "title": "Archive the exchange evidence",
-       "html": "<p>A completed Minerals as 1031 Replacement Property file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence.</p>"
+       "html": "<p>A completed Minerals as 1031 Replacement Property file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence. Save the final signed versions, not only drafts or email summaries. Record when and how the identification notice was delivered and retain the accepted replacement-property description. Keep the mineral-property schedules and valuation assumptions that supported the decision at the time. That archive helps the owner, CPA, attorney, and intermediary reconstruct the transaction later without relying on memory, and it makes any post-closing correction or tax-reporting question easier to route to the right record.</p>"
       }
      ],
      "faqs": [],
@@ -5779,23 +5779,23 @@
      "sections": [
       {
        "title": "Put exchange planning before closing",
-       "html": "<p>Reinvesting Your Mineral Sale Proceeds begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing.</p>"
+       "html": "<p>Reinvesting Your Mineral Sale Proceeds begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing. The working file should show the contemplated mineral sale, current vesting, expected proceeds, debt, closing date, and unresolved eligibility questions while there is still time to change the transaction sequence. Do not rely on a purchase offer or title conversation as tax guidance. The mineral evaluation can support property economics, but the intermediary and advisers must establish the exchange structure, permitted flow of funds, taxpayer consistency, and documents required before the relinquished interest closes.</p>"
       },
       {
        "title": "Write deadlines as calendar dates",
-       "html": "<p>Identification and completion periods for Reinvesting Your Mineral Sale Proceeds should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks.</p>"
+       "html": "<p>Identification and completion periods for Reinvesting Your Mineral Sale Proceeds should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks. Start the calendar from the actual relinquished-property closing rather than an estimated month. Record weekends and holidays without assuming they extend a federal deadline. Assign an owner to every task and keep backup replacement choices visible before identification. North Dakota mineral title work can consume time, so deeds, reservations, legal descriptions, and curative questions should enter the calendar early. A dated checklist is more useful than a summary that merely repeats the 45-day and 180-day numbers.</p>"
       },
       {
        "title": "Confirm taxpayer and vesting",
-       "html": "<p>The Reinvesting Your Mineral Sale Proceeds file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review.</p>"
+       "html": "<p>The Reinvesting Your Mineral Sale Proceeds file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review. Compare the deed and contract names before signing, especially when minerals passed through an estate, trust, family entity, or marital transfer. List any proposed change in ownership separately and send it to the qualified intermediary and tax counsel rather than assuming it is harmless. The property schedule should also identify tracts, depths, products, retained interests, and exclusions so the advisers know exactly what is being sold and what replacement-property value and debt questions remain.</p>"
       },
       {
        "title": "Keep valuation and tax roles separate",
-       "html": "<p>The Reinvesting Your Mineral Sale Proceeds owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds.</p>"
+       "html": "<p>The Reinvesting Your Mineral Sale Proceeds owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds. Use the ledger to compare documented income, title condition, concentration, development evidence, price assumptions, and marketability across candidate properties. Send eligibility, related-party, vesting, debt, boot, identification, and timing questions to the appropriate adviser. Keeping those roles distinct prevents a valuation conclusion from being mistaken for an exchange opinion and creates a cleaner record of who supplied each instruction before money or title moves.</p>"
       },
       {
        "title": "Archive the exchange evidence",
-       "html": "<p>A completed Reinvesting Your Mineral Sale Proceeds file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence.</p>"
+       "html": "<p>A completed Reinvesting Your Mineral Sale Proceeds file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence. Save the final signed versions, not only drafts or email summaries. Record when and how the identification notice was delivered and retain the accepted replacement-property description. Keep the mineral-property schedules and valuation assumptions that supported the decision at the time. That archive helps the owner, CPA, attorney, and intermediary reconstruct the transaction later without relying on memory, and it makes any post-closing correction or tax-reporting question easier to route to the right record.</p>"
       }
      ],
      "faqs": [],
@@ -5808,23 +5808,23 @@
      "sections": [
       {
        "title": "Put exchange planning before closing",
-       "html": "<p>Partial Exchanges and Boot begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing.</p>"
+       "html": "<p>Partial Exchanges and Boot begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing. The working file should show the contemplated mineral sale, current vesting, expected proceeds, debt, closing date, and unresolved eligibility questions while there is still time to change the transaction sequence. Do not rely on a purchase offer or title conversation as tax guidance. The mineral evaluation can support property economics, but the intermediary and advisers must establish the exchange structure, permitted flow of funds, taxpayer consistency, and documents required before the relinquished interest closes.</p>"
       },
       {
        "title": "Write deadlines as calendar dates",
-       "html": "<p>Identification and completion periods for Partial Exchanges and Boot should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks.</p>"
+       "html": "<p>Identification and completion periods for Partial Exchanges and Boot should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks. Start the calendar from the actual relinquished-property closing rather than an estimated month. Record weekends and holidays without assuming they extend a federal deadline. Assign an owner to every task and keep backup replacement choices visible before identification. North Dakota mineral title work can consume time, so deeds, reservations, legal descriptions, and curative questions should enter the calendar early. A dated checklist is more useful than a summary that merely repeats the 45-day and 180-day numbers.</p>"
       },
       {
        "title": "Confirm taxpayer and vesting",
-       "html": "<p>The Partial Exchanges and Boot file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review.</p>"
+       "html": "<p>The Partial Exchanges and Boot file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review. Compare the deed and contract names before signing, especially when minerals passed through an estate, trust, family entity, or marital transfer. List any proposed change in ownership separately and send it to the qualified intermediary and tax counsel rather than assuming it is harmless. The property schedule should also identify tracts, depths, products, retained interests, and exclusions so the advisers know exactly what is being sold and what replacement-property value and debt questions remain.</p>"
       },
       {
        "title": "Keep valuation and tax roles separate",
-       "html": "<p>The Partial Exchanges and Boot owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds.</p>"
+       "html": "<p>The Partial Exchanges and Boot owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds. Use the ledger to compare documented income, title condition, concentration, development evidence, price assumptions, and marketability across candidate properties. Send eligibility, related-party, vesting, debt, boot, identification, and timing questions to the appropriate adviser. Keeping those roles distinct prevents a valuation conclusion from being mistaken for an exchange opinion and creates a cleaner record of who supplied each instruction before money or title moves.</p>"
       },
       {
        "title": "Archive the exchange evidence",
-       "html": "<p>A completed Partial Exchanges and Boot file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence.</p>"
+       "html": "<p>A completed Partial Exchanges and Boot file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence. Save the final signed versions, not only drafts or email summaries. Record when and how the identification notice was delivered and retain the accepted replacement-property description. Keep the mineral-property schedules and valuation assumptions that supported the decision at the time. That archive helps the owner, CPA, attorney, and intermediary reconstruct the transaction later without relying on memory, and it makes any post-closing correction or tax-reporting question easier to route to the right record.</p>"
       }
      ],
      "faqs": [],
@@ -5837,23 +5837,23 @@
      "sections": [
       {
        "title": "Put exchange planning before closing",
-       "html": "<p>1031 From Real Estate Into Minerals begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing.</p>"
+       "html": "<p>1031 From Real Estate Into Minerals begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing. The working file should show the contemplated mineral sale, current vesting, expected proceeds, debt, closing date, and unresolved eligibility questions while there is still time to change the transaction sequence. Do not rely on a purchase offer or title conversation as tax guidance. The mineral evaluation can support property economics, but the intermediary and advisers must establish the exchange structure, permitted flow of funds, taxpayer consistency, and documents required before the relinquished interest closes.</p>"
       },
       {
        "title": "Write deadlines as calendar dates",
-       "html": "<p>Identification and completion periods for 1031 From Real Estate Into Minerals should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks.</p>"
+       "html": "<p>Identification and completion periods for 1031 From Real Estate Into Minerals should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks. Start the calendar from the actual relinquished-property closing rather than an estimated month. Record weekends and holidays without assuming they extend a federal deadline. Assign an owner to every task and keep backup replacement choices visible before identification. North Dakota mineral title work can consume time, so deeds, reservations, legal descriptions, and curative questions should enter the calendar early. A dated checklist is more useful than a summary that merely repeats the 45-day and 180-day numbers.</p>"
       },
       {
        "title": "Confirm taxpayer and vesting",
-       "html": "<p>The 1031 From Real Estate Into Minerals file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review.</p>"
+       "html": "<p>The 1031 From Real Estate Into Minerals file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review. Compare the deed and contract names before signing, especially when minerals passed through an estate, trust, family entity, or marital transfer. List any proposed change in ownership separately and send it to the qualified intermediary and tax counsel rather than assuming it is harmless. The property schedule should also identify tracts, depths, products, retained interests, and exclusions so the advisers know exactly what is being sold and what replacement-property value and debt questions remain.</p>"
       },
       {
        "title": "Keep valuation and tax roles separate",
-       "html": "<p>The 1031 From Real Estate Into Minerals owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds.</p>"
+       "html": "<p>The 1031 From Real Estate Into Minerals owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds. Use the ledger to compare documented income, title condition, concentration, development evidence, price assumptions, and marketability across candidate properties. Send eligibility, related-party, vesting, debt, boot, identification, and timing questions to the appropriate adviser. Keeping those roles distinct prevents a valuation conclusion from being mistaken for an exchange opinion and creates a cleaner record of who supplied each instruction before money or title moves.</p>"
       },
       {
        "title": "Archive the exchange evidence",
-       "html": "<p>A completed 1031 From Real Estate Into Minerals file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence.</p>"
+       "html": "<p>A completed 1031 From Real Estate Into Minerals file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence. Save the final signed versions, not only drafts or email summaries. Record when and how the identification notice was delivered and retain the accepted replacement-property description. Keep the mineral-property schedules and valuation assumptions that supported the decision at the time. That archive helps the owner, CPA, attorney, and intermediary reconstruct the transaction later without relying on memory, and it makes any post-closing correction or tax-reporting question easier to route to the right record.</p>"
       }
      ],
      "faqs": [],
@@ -5866,23 +5866,23 @@
      "sections": [
       {
        "title": "Put exchange planning before closing",
-       "html": "<p>1031 From Farmland Into Minerals begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing.</p>"
+       "html": "<p>1031 From Farmland Into Minerals begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing. The working file should show the contemplated mineral sale, current vesting, expected proceeds, debt, closing date, and unresolved eligibility questions while there is still time to change the transaction sequence. Do not rely on a purchase offer or title conversation as tax guidance. The mineral evaluation can support property economics, but the intermediary and advisers must establish the exchange structure, permitted flow of funds, taxpayer consistency, and documents required before the relinquished interest closes.</p>"
       },
       {
        "title": "Write deadlines as calendar dates",
-       "html": "<p>Identification and completion periods for 1031 From Farmland Into Minerals should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks.</p>"
+       "html": "<p>Identification and completion periods for 1031 From Farmland Into Minerals should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks. Start the calendar from the actual relinquished-property closing rather than an estimated month. Record weekends and holidays without assuming they extend a federal deadline. Assign an owner to every task and keep backup replacement choices visible before identification. North Dakota mineral title work can consume time, so deeds, reservations, legal descriptions, and curative questions should enter the calendar early. A dated checklist is more useful than a summary that merely repeats the 45-day and 180-day numbers.</p>"
       },
       {
        "title": "Confirm taxpayer and vesting",
-       "html": "<p>The 1031 From Farmland Into Minerals file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review.</p>"
+       "html": "<p>The 1031 From Farmland Into Minerals file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review. Compare the deed and contract names before signing, especially when minerals passed through an estate, trust, family entity, or marital transfer. List any proposed change in ownership separately and send it to the qualified intermediary and tax counsel rather than assuming it is harmless. The property schedule should also identify tracts, depths, products, retained interests, and exclusions so the advisers know exactly what is being sold and what replacement-property value and debt questions remain.</p>"
       },
       {
        "title": "Keep valuation and tax roles separate",
-       "html": "<p>The 1031 From Farmland Into Minerals owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds.</p>"
+       "html": "<p>The 1031 From Farmland Into Minerals owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds. Use the ledger to compare documented income, title condition, concentration, development evidence, price assumptions, and marketability across candidate properties. Send eligibility, related-party, vesting, debt, boot, identification, and timing questions to the appropriate adviser. Keeping those roles distinct prevents a valuation conclusion from being mistaken for an exchange opinion and creates a cleaner record of who supplied each instruction before money or title moves.</p>"
       },
       {
        "title": "Archive the exchange evidence",
-       "html": "<p>A completed 1031 From Farmland Into Minerals file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence.</p>"
+       "html": "<p>A completed 1031 From Farmland Into Minerals file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence. Save the final signed versions, not only drafts or email summaries. Record when and how the identification notice was delivered and retain the accepted replacement-property description. Keep the mineral-property schedules and valuation assumptions that supported the decision at the time. That archive helps the owner, CPA, attorney, and intermediary reconstruct the transaction later without relying on memory, and it makes any post-closing correction or tax-reporting question easier to route to the right record.</p>"
       }
      ],
      "faqs": [],
@@ -5892,8 +5892,6 @@
   }
  },
  "warnings": [
-  "locations: 22 thin items (<300 words): ['trenton-nd', 'epping-nd', 'blacktail-nd', 'long-creek-nd', 'crosby-nd']",
-  "investing: 10 thin items (<300 words): ['how-royalty-income-works', 'cash-flow-vs-long-term-value', 'producing-vs-nonproducing-for-investors', 'how-to-evaluate-a-mineral-package', 'risks-of-mineral-investing']",
-  "exchange-1031: 10 thin items (<300 words): ['is-a-1031-right-for-you', 'qualified-intermediary-basics', '45-and-180-day-deadlines', 'defer-taxes-on-your-mineral-sale', '1031-exchange-into-mineral-rights']"
+  "locations: 22 thin items (<300 words): ['trenton-nd', 'epping-nd', 'blacktail-nd', 'long-creek-nd', 'crosby-nd']"
  ]
 }

@@ -47,6 +47,11 @@ find "$PROJ/public" -type f \( -name '*.html' -o -name '*.html.ref' -o -name '*.
 find "$PROJ/public/assets-f/js" -type f -name '*.js' -print0 \
   | xargs -0 perl -pi -e 's/[ \t]+\r?\n/\n/g; s/\r\n/\n/g'
 
+python3 "$S/website_taste_fleet.py" --project "$PROJ"
+python3 "$S/footer_maps.py" --project "$PROJ"
+python3 "$S/footer_maps.py" --project "$PROJ" --check
+python3 "$S/website_taste_fleet.py" --project "$PROJ" --check
+
 python3 "$S/verify_site.py" "$PROJ" --map "$MAP" --json "$PROJ/qa-out/verify.json"
 node "$S/qa_shots.mjs" "$PROJ"
 
