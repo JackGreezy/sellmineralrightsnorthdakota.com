@@ -280,6 +280,10 @@
       [
         "Route local questions correctly",
         "Probate, marital property, dormant-mineral rules, pooling, recording, transfer, regulatory filings, and payor notices can differ in {name}. Qualified advisers should review those questions."
+      ],
+      [
+        "Keep the local review tract-specific",
+        "Use the local context as a prompt, not a valuation shortcut. {meta} The review desk then reconciles the exact tract against gross and net acres, ownership fraction, producing and inactive wells, paid decimal, recent statements, lease burdens, title exceptions, and the complete written offer. That comparison keeps a familiar town or county name from standing in for the record that actually controls price and closing."
       ]
     ],
     "resources": [
