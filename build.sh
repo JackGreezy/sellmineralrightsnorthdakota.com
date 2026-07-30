@@ -50,4 +50,10 @@ find "$PROJ/public/assets-f/js" -type f -name '*.js' -print0 \
 python3 "$S/verify_site.py" "$PROJ" --map "$MAP" --json "$PROJ/qa-out/verify.json"
 node "$S/qa_shots.mjs" "$PROJ"
 
+# Inject Vercel Web Analytics into all HTML files
+if [ -f "$PROJ/inject-analytics.js" ]; then
+  echo "Injecting Vercel Web Analytics..."
+  node "$PROJ/inject-analytics.js"
+fi
+
 echo "BUILD COMPLETE — gates green. Human QA: open $PROJ/qa-out/CONTACT-SHEET.html"
