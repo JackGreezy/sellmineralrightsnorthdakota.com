@@ -681,19 +681,22 @@
       "not_found_shell_html": "<section class=\"head-stage-section\"><div class=\"padding-side normal\"><div class=\"padding-top-bottom top-btm-120\"><div class=\"w-layout-blockcontainer main-container w-container\"><div class=\"h-text-wrapper _20px\"><h1 class=\"h1\">{title}</h1></div><div class=\"p-text-wrapper maxw90 _40px\"><p class=\"p1-large-regular\">{body}</p></div><div class=\"rr-not-found-links\">{links}</div></div></div></div></section>",
       "signature": [
         ".head-stage-section",
-        ".section-single-image",
-        ".section-benefits",
-        ".sectioan-diagramm",
-        ".wea-gallerie",
-        ".portfolio",
-        ".section-cta-text"
+        ".section-single-image"
       ],
       "back_button": ".head-stage-section a.zuruek-link",
       "back_label": ".head-stage-section a.zuruek-link p",
       "semantic_title_selector": ".head-stage-section h1.h1",
       "strip": [
         ".video-container",
-        ".w-condition-invisible"
+        ".w-condition-invisible",
+        ".section-benefits",
+        ".sectioan-diagramm",
+        ".download-infoblatt",
+        ".section-single-image:has(.primary-btn)",
+        ".wea-gallerie",
+        ".portfolio",
+        ".section-cta-text",
+        ".enercon-ueberblick-section"
       ],
       "sections": [
         {
@@ -714,184 +717,6 @@
             {"sel": ".rt-standard", "html": "{sec0.html}", "demote_h1": true},
             {"sel": "img.single-image-fernueberwachung", "img": "{img1}", "alt": "{name}"}
           ]
-        },
-        {
-          "selector": ".section-benefits:not(.green) .cta-icon-content-white",
-          "nth": 5,
-          "action": "relabel",
-          "drop_band_if_empty": "{sec6.html}",
-          "ops": [
-            {"sel": "h3", "text": "{sec6.title}"},
-            {"sel": "p", "html": "{sec6.html}", "demote_h1": true}
-          ]
-        },
-        {
-          "selector": ".section-benefits:not(.green) .cta-icon-content-white",
-          "nth": 4,
-          "action": "relabel",
-          "drop_band_if_empty": "{sec5.html}",
-          "ops": [
-            {"sel": "h3", "text": "{sec5.title}"},
-            {"sel": "p", "html": "{sec5.html}", "demote_h1": true}
-          ]
-        },
-        {
-          "selector": ".section-benefits:not(.green) .cta-icon-content-white",
-          "nth": 3,
-          "action": "relabel",
-          "drop_band_if_empty": "{sec4.html}",
-          "ops": [
-            {"sel": "h3", "text": "{sec4.title}"},
-            {"sel": "p", "html": "{sec4.html}", "demote_h1": true}
-          ]
-        },
-        {
-          "selector": ".section-benefits:not(.green) .cta-icon-content-white",
-          "nth": 2,
-          "action": "relabel",
-          "drop_band_if_empty": "{sec3.html}",
-          "ops": [
-            {"sel": "h3", "text": "{sec3.title}"},
-            {"sel": "p", "html": "{sec3.html}", "demote_h1": true}
-          ]
-        },
-        {
-          "selector": ".section-benefits:not(.green) .cta-icon-content-white",
-          "nth": 1,
-          "action": "relabel",
-          "drop_band_if_empty": "{sec2.html}",
-          "ops": [
-            {"sel": "h3", "text": "{sec2.title}"},
-            {"sel": "p", "html": "{sec2.html}", "demote_h1": true}
-          ]
-        },
-        {
-          "selector": ".section-benefits:not(.green) .cta-icon-content-white",
-          "nth": 0,
-          "action": "relabel",
-          "drop_band_if_empty": "{sec1.html}",
-          "ops": [
-            {"sel": "h3", "text": "{sec1.title}"},
-            {"sel": "p", "html": "{sec1.html}", "demote_h1": true}
-          ]
-        },
-        {
-          "selector": ".section-benefits:not(.green)",
-          "action": "relabel",
-          "ops": [
-            {"sel": ".section-headline-wrapper h2", "text": "What Matters for {name}"}
-          ]
-        },
-        {
-          "selector": ".sectioan-diagramm",
-          "action": "relabel",
-          "ops": [
-            {"sel": ".section-headline-wrapper h2", "copy": "faq_heading"},
-            {
-              "sel": ".diagramm-list-wrapper",
-              "fill_faqs": true,
-              "item_sel": ".cta-icon-content-diagramm",
-              "q_sel": "h3",
-              "a_sel": "p"
-            },
-            {"sel": ".diagramm-wrapper img", "img": "{img2}", "alt": "{name} owner questions"}
-          ]
-        },
-        {
-          "selector": ".download-infoblatt",
-          "action": "relabel",
-          "ops": [
-            {"sel": "h3", "copy": "detail_cta_title"},
-            {"sel": ".download-infoblatt-content p", "copy": "detail_cta_body"},
-            {"sel": "a.primary-btn-white .btn-text-on-white", "text": "Request a Mineral Review"},
-            {"sel": "a.primary-btn-white", "href": "/contact"}
-          ]
-        },
-        {
-          "selector": ".section-single-image",
-          "nth": 1,
-          "action": "relabel",
-          "ops": [
-            {"sel": "h2.h2", "copy": "detail_cta_title"},
-            {"sel": ".rt-standard", "html_copy": ["detail_followup"]},
-            {"sel": "img.single-image-fernueberwachung", "img": "{img3}", "alt": "{name} review records"},
-            {"sel": "a.primary-btn .btn-text", "text": "Start the Review"},
-            {"sel": "a.primary-btn", "href": "/contact"}
-          ]
-        },
-        {
-          "selector": ".wea-gallerie",
-          "action": "relabel",
-          "ops": [
-            {"sel": "img.produkt-image-l", "nth": 0, "img": "{img4}", "alt": "{name} record view 1"},
-            {"sel": "img.produkt-image-m", "nth": 0, "img": "{img5}", "alt": "{name} record view 2"},
-            {"sel": "img.produkt-image-l", "nth": 1, "img": "{img6}", "alt": "{name} record view 3"},
-            {"sel": "img.produkt-image-m", "nth": 1, "img": "{img7}", "alt": "{name} record view 4"}
-          ]
-        },
-        {
-          "selector": ".section-benefits.green",
-          "action": "relabel",
-          "ops": [
-            {"sel": ".section-headline-wrapper h2", "copy": "detail_standard_title"},
-            {"sel": ".cta-icon-content h3", "nth": 0, "copy": "detail_standard_one_title"},
-            {"sel": ".cta-icon-content p", "nth": 0, "copy": "detail_standard_one_body"},
-            {"sel": ".cta-icon-content h3", "nth": 1, "copy": "detail_standard_two_title"},
-            {"sel": ".cta-icon-content p", "nth": 1, "copy": "detail_standard_two_body"},
-            {"sel": ".cta-icon-content h3", "nth": 2, "copy": "detail_standard_three_title"},
-            {"sel": ".cta-icon-content p", "nth": 2, "copy": "detail_standard_three_body"},
-            {"sel": ".cta-icon-content h3", "nth": 3, "copy": "detail_standard_four_title"},
-            {"sel": ".cta-icon-content p", "nth": 3, "copy": "detail_standard_four_body"},
-            {"sel": ".cta-icon-content h3", "nth": 4, "copy": "detail_standard_five_title"},
-            {"sel": ".cta-icon-content p", "nth": 4, "copy": "detail_standard_five_body"},
-            {"sel": ".cta-icon-content h3", "nth": 5, "copy": "detail_standard_six_title"},
-            {"sel": ".cta-icon-content p", "nth": 5, "copy": "detail_standard_six_body"}
-          ]
-        },
-        {
-          "selector": ".portfolio",
-          "action": "card-grid",
-          "source": "$tax",
-          "limit": 3,
-          "heading": ".section-headline-wrapper h2.h2",
-          "card": ".collection-list-anlagenportfolio > .w-dyn-item",
-          "card_fields": {
-            "title": "h2.h2",
-            "more": ".anlagen-btn .btn-text",
-            "image": "img.image-3"
-          },
-          "kill_in_card": [
-            ".neu-sticker",
-            ".anlagen-content-wrapper > div:not(.h-text-wrapper)"
-          ]
-        },
-        {
-          "selector": ".section-cta-text",
-          "action": "relabel",
-          "ops": [
-            {"sel": "h2.h2", "copy": "detail_cta_title"},
-            {"sel": ".cta-text-wrapper p", "copy": "detail_cta_body"},
-            {"sel": "a.secondary-btn .btn-text", "text": "Request a Mineral Review"},
-            {"sel": "a.secondary-btn", "href": "/contact"}
-          ]
-        },
-        {
-          "selector": ".enercon-ueberblick-section",
-          "action": "card-grid",
-          "source": "resources",
-          "limit": 3,
-          "heading": ".section-headline-wrapper h2.h2",
-          "card": ".grid-weitere-inhalte > .card-link-info",
-          "card_fields": {
-            "title": "h3.h3",
-            "sub": ".text-link-info > p",
-            "more": ".info-link-block p",
-            "image": "img.image-link-info"
-          },
-          "kill_in_card": [
-            ".info-link-block img"
-          ],
-          "view_all": ["All Owner Resources", "/resources"]
         }
       ]
     },

@@ -5,8 +5,8 @@
  "intent": "seller",
  "tier": "Expansion (260 head vol)",
  "available": true,
- "voice": "fourth-gen-ranch-family: sold their own minerals once; empathetic, story-forward",
- "angle": "ND pillar; nonresident-heir owners + 'ND mineral rights value' 110/mo; Bakken royalty statements depth",
+ "voice": "North Dakota owner ledger: county record, deed reservation, paid decimal, Bakken well history, written offer terms, and closing file",
+ "angle": "North Dakota pillar for owners reconciling inherited interests, Bakken royalty statements, recorded title, and sale terms",
  "taxonomyCounts": {
   "locations": 73,
   "basins": 1,
@@ -16,5 +16,5 @@
   "pages": 7
  },
  "totalPages": 107,
- "status": "scaffold"
+ "status": "release-ready"
 }

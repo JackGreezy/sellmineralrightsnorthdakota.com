@@ -17,7 +17,7 @@ CAP=$ROOT/David/clones/_captures/$REFHOST
 [ -f "$MAP" ] || { echo "MISSING $MAP — author the relabel map per \$faithful-home"; exit 1; }
 
 if [ ! -f "$CAP/public/home.html.ref" ]; then
-  node "$S/faithful-home.mjs" --src "https://www.mortenson.com/" --pages "$PAGES" --dir "$CAP"
+  node "$S/faithful-home.mjs" --src "https://www.enercon.de/en" --pages "$PAGES" --dir "$CAP"
 fi
 mkdir -p "$PROJ/public"
 cp "$CAP"/public/*.html.ref "$PROJ/public/" 2>/dev/null || true

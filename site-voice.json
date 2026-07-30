@@ -1,5 +1,5 @@
 {
-  "_": "This voice belongs only to sellmineralrightsnorthdakota.com. It is the North Dakota owner ledger: a calm business voice shaped by a fourth-generation ranch family's experience with inherited minerals, royalty statements, and one family sale. It is never a reusable mineral-rights voice pack.",
+  "_": "This voice belongs only to sellmineralrightsnorthdakota.com. It is the North Dakota owner ledger: a calm business voice built around county records, deed reservations, paid decimals, Bakken and Three Forks well history, written offer terms, and a clean closing file. It is never a reusable mineral-rights voice pack.",
   "identity": {
     "name": "North Dakota owner ledger",
     "domain_lock": "sellmineralrightsnorthdakota.com",
@@ -29,258 +29,59 @@
     ]
   },
   "scrub": [
-    [
-      "\\bDo I\\b",
-      "Does an owner"
-    ],
-    [
-      "\\bCan I\\b",
-      "Can an owner"
-    ],
-    [
-      "\\bHow do I\\b",
-      "How does an owner"
-    ],
-    [
-      "\\bWhat if I\\b",
-      "What if an owner"
-    ],
-    [
-      "\\bAm I\\b",
-      "Is an owner"
-    ],
-    [
-      "\\bWill I\\b",
-      "Will an owner"
-    ],
-    [
-      "\\bShould I\\b",
-      "Should an owner"
-    ],
-    [
-      "\\bI need\\b",
-      "an owner needs"
-    ],
-    [
-      "\\bI find\\b",
-      "an owner finds"
-    ],
-    [
-      "\\bI get\\b",
-      "an owner gets"
-    ],
-    [
-      "\\bI know\\b",
-      "an owner knows"
-    ],
-    [
-      "\\bI sell\\b",
-      "an owner sells"
-    ],
-    [
-      "\\bI confirm\\b",
-      "an owner confirms"
-    ],
-    [
-      "\\bI own\\b",
-      "an owner owns"
-    ],
-    [
-      "\\bI have\\b",
-      "an owner has"
-    ],
-    [
-      "\\bI check\\b",
-      "an owner checks"
-    ],
-    [
-      "\\bI only\\b",
-      "an owner only"
-    ],
-    [
-      "\\bI live\\b",
-      "an owner lives"
-    ],
-    [
-      "\\bI inherited\\b",
-      "an owner inherited"
-    ],
-    [
-      "\\bI research\\b",
-      "an owner researches"
-    ],
-    [
-      "\\bI ask\\b",
-      "an owner asks"
-    ],
-    [
-      "\\bI keep\\b",
-      "an owner keeps"
-    ],
-    [
-      "\\bI still\\b",
-      "an owner still"
-    ],
-    [
-      "\\bI remember\\b",
-      "an owner remembers"
-    ],
-    [
-      "\\bI was\\b",
-      "an owner was"
-    ],
-    [
-      "\\bI even\\b",
-      "an owner even"
-    ],
-    [
-      "\\bI start\\b",
-      "an owner starts"
-    ],
-    [
-      "\\bI trace\\b",
-      "an owner traces"
-    ],
-    [
-      "\\bI talk\\b",
-      "an owner talks"
-    ],
-    [
-      "\\bI negotiate\\b",
-      "an owner negotiates"
-    ],
-    [
-      "\\bI transfer\\b",
-      "an owner transfers"
-    ],
-    [
-      "\\bI dispute\\b",
-      "an owner disputes"
-    ],
-    [
-      "\\bI think\\b",
-      "an owner thinks"
-    ],
-    [
-      "\\bI owe\\b",
-      "an owner owes"
-    ],
-    [
-      "\\bI disagree\\b",
-      "an owner disagrees"
-    ],
-    [
-      "\\bI try\\b",
-      "an owner tries"
-    ],
-    [
-      "\\bI ignore\\b",
-      "an owner ignores"
-    ],
-    [
-      "\\bI didn['’]t\\b",
-      "an owner did not"
-    ],
-    [
-      "\\bI compare\\b",
-      "an owner compares"
-    ],
-    [
-      "\\bI go\\b",
-      "an owner goes"
-    ],
-    [
-      "\\bI expect\\b",
-      "an owner expects"
-    ],
-    [
-      "\\bI search\\b",
-      "an owner searches"
-    ],
-    [
-      "\\bI locate\\b",
-      "an owner locates"
-    ],
-    [
-      "\\bI contact\\b",
-      "an owner contacts"
-    ],
-    [
-      "\\bI do\\b",
-      "an owner does"
-    ],
-    [
-      "\\bI convert\\b",
-      "an owner converts"
-    ],
-    [
-      "\\bI share\\b",
-      "an owner shares"
-    ],
-    [
-      "\\bI decide\\b",
-      "an owner decides"
-    ],
-    [
-      "\\bI hear\\b",
-      "an owner hears"
-    ],
-    [
-      "\\bI provide\\b",
-      "an owner provides"
-    ],
-    [
-      "\\bI reach\\b",
-      "an owner reaches"
-    ],
-    [
-      "\\bI['’]m\\b",
-      "the owner is"
-    ],
-    [
-      "\\bI['’]ve\\b",
-      "the owner has"
-    ],
-    [
-      "\\bI['’]ll\\b",
-      "the owner will"
-    ],
-    [
-      "\\bI['’]d\\b",
-      "the owner would"
-    ],
-    [
-      "\\bI don['’]t\\b",
-      "the owner does not"
-    ],
-    [
-      "\\bI can['’]t\\b",
-      "the owner cannot"
-    ],
-    [
-      "\\bI can\\b",
-      "the owner can"
-    ],
-    [
-      "\\bmyself\\b",
-      "the owner"
-    ],
-    [
-      "\\bmine\\b",
-      "the owner's interest"
-    ],
-    [
-      "\\bmy\\b",
-      "the owner's"
-    ],
-    [
-      "\\bme\\b",
-      "the owner"
-    ],
-    [
-      "\\bI\\b",
-      "the owner"
-    ]
+    ["\\bHow do I\\b", "How do you"],
+    ["\\bDo I\\b", "Do you"],
+    ["\\bCan I\\b", "Can you"],
+    ["\\bWhat if I\\b", "What if you"],
+    ["\\bAm I\\b", "Are you"],
+    ["\\bWill I\\b", "Will you"],
+    ["\\bShould I\\b", "Should you"],
+    ["\\bOur family has gone through the process on our own home quarter in McKenzie County, so this isn['’]t theory to us\\. It['’]s the same stack of paper we['’]ve sorted through at the kitchen table more than once\\.", "The review desk's process reflects real title, division-order, and royalty-statement work from a McKenzie County family mineral file."],
+    ["(^|<p>|[.!?]\\s+)My aunt\\b", "\\1A North Dakota mineral owner's aunt"],
+    ["(^|<p>|[.!?]\\s+)My family\\b", "\\1A western North Dakota family"],
+    ["(^|<p>|[.!?]\\s+)My grandfather\\b", "\\1A western North Dakota owner"],
+    ["\\bmy aunt\\b", "a North Dakota mineral owner's aunt"],
+    ["\\bmy family\\b", "a western North Dakota family"],
+    ["\\bmy grandfather\\b", "a western North Dakota owner"],
+    ["\\bMy Grenora\\b", "The Grenora"],
+    ["(^|<p>|[.!?]\\s+)My interest\\b", "\\1Your interest"],
+    ["(^|<p>|[.!?]\\s+)My minerals\\b", "\\1Your minerals"],
+    ["\\bmy interest\\b", "your interest"],
+    ["\\bmy minerals\\b", "your minerals"],
+    ["(^|<p>|[.!?]\\s+)My mother\\b", "\\1A North Dakota mineral owner's mother"],
+    ["\\bmy mother\\b", "a North Dakota mineral owner's mother"],
+    ["(^|<p>|[.!?]\\s+)My statement\\b", "\\1Your statement"],
+    ["\\bmy statement\\b", "your statement"],
+    ["(^|<p>|[.!?]\\s+)My uncle\\b", "\\1A North Dakota mineral owner's uncle"],
+    ["\\bmy uncle\\b", "a North Dakota mineral owner's uncle"],
+    ["\\bI['’]m\\b", "you are"],
+    ["\\bI['’]ve\\b", "you have"],
+    ["\\bI['’]ll\\b", "you will"],
+    ["\\bI['’]d\\b", "you would"],
+    ["\\bI don['’]t\\b", "you do not"],
+    ["\\bI didn['’]t\\b", "you did not"],
+    ["\\bI can['’]t\\b", "you cannot"],
+    ["\\bmyself\\b", "yourself"],
+    ["\\bmine\\b", "your mineral interest"],
+    ["\\bmy\\b", "your"],
+    ["\\bme\\b", "you"],
+    ["\\bI\\b", "you"],
+    ["\\bwe ever signed as a family\\b", "recorded in a western North Dakota family file"],
+    ["\\bOur family\\b", "A western North Dakota family"],
+    ["\\bour own home quarter\\b", "its home quarter"],
+    ["(^|<p>|[.!?]\\s+)We['’]re\\b", "\\1The North Dakota review specialists are"],
+    ["(^|<p>|[.!?]\\s+)We['’]ve\\b", "\\1The North Dakota review specialists have"],
+    ["(^|<p>|[.!?]\\s+)We['’]ll\\b", "\\1The North Dakota review specialists will"],
+    ["(^|<p>|[.!?]\\s+)We['’]d\\b", "\\1The North Dakota review specialists would"],
+    ["(^|<p>|[.!?]\\s+)We\\b", "\\1The North Dakota review specialists"],
+    ["(^|<p>|[.!?]\\s+)Our\\b", "\\1The review desk's"],
+    ["\\bWe['’]re\\b", "the North Dakota review specialists are"],
+    ["\\bWe['’]ve\\b", "the North Dakota review specialists have"],
+    ["\\bWe['’]ll\\b", "the North Dakota review specialists will"],
+    ["\\bWe['’]d\\b", "the North Dakota review specialists would"],
+    ["\\bwe\\b", "the North Dakota review specialists"],
+    ["\\bour\\b", "the review desk's"],
+    ["\\bus\\b", "the review desk"]
   ],
   "heroes": [
     [
@@ -372,9 +173,9 @@
     "detail_standard_six_title": "Handoff",
     "detail_standard_six_body": "The signed deed, schedule, settlement record, and notices remain reviewable.",
     "faq_heading": "North Dakota Owner Questions",
-    "about_title": "A North Dakota Mineral Buyer Shaped by the Owner's Side of the Table",
-    "about_story_title": "The Family Mineral File Came Before the Buying Desk",
-    "about_story_body": "The business grew from a fourth-generation western North Dakota ranch family's experience with minerals that moved through homestead records, leases, division orders, royalty statements, estate questions, and one family sale. That history keeps every review tied to what the owner can verify.",
+    "about_title": "A North Dakota Mineral Buyer Built Around the Owner Ledger",
+    "about_story_title": "The County Record Comes Before the Offer",
+    "about_story_body": "The review begins with the county, legal description, recorded owner, deed reservations, lease position, division orders, royalty statements, and producing wells. Every valuation question stays tied to records the owner can examine.",
     "about_kitchen_title": "Plain Language Belongs Beside the Paperwork",
     "about_kitchen_body": "Mineral decisions often begin at a kitchen table covered with old deeds, current check stubs, county tax notices, and letters quoting different numbers. The review translates those records into a tract schedule and a short list of questions without turning the conversation into a sales performance.",
     "about_research_title": "Research the Exact Interest",
@@ -383,8 +184,8 @@
     "about_offer_body": "A useful offer explains what is included, which acres or depths are excluded, whether receivables or retained interests change hands, how title exceptions are handled, when the effective date begins, and which records will remain after closing.",
     "about_scope_title": "Keep Professional Roles Clear",
     "about_scope_body": "Sell Mineral Rights North Dakota is a direct mineral buyer, not a law firm, tax adviser, title company, engineering firm, appraiser, broker, qualified intermediary, or fiduciary. Questions in those lanes should be reviewed by qualified independent professionals.",
-    "about_close_title": "Leave the Family File in Order",
-    "about_close_body": "A clean closing file retains the executed deed, legal description, tract schedule, settlement record, funding confirmation, title correspondence, tax documents, operator and payor notices, and a clear list of any interests the family kept.",
+    "about_close_title": "Leave the Closing File in Order",
+    "about_close_body": "A clean closing file retains the executed deed, legal description, tract schedule, settlement record, funding confirmation, title correspondence, tax documents, operator and payor notices, and a clear list of any interests retained.",
     "contact_title": "Request a North Dakota Mineral Review",
     "contact_intro": "Share the county, owner name, interest type, producing status, recent statements if available, and the decision that needs a clearer answer. A complete title file is not required for the first conversation.",
     "contact_form_title": "Start With the Property Facts Already Available",
@@ -398,8 +199,8 @@
   },
   "about_blocks": [
     [
-      "The Family Mineral File Came Before the Buying Desk",
-      "The review standard comes from a western North Dakota ranch family's experience tracing inherited minerals through deeds, leases, division orders, royalty checks, estate questions, and a family sale. Every offer should remain connected to records an owner can examine."
+      "The County Record Comes Before the Offer",
+      "The review standard follows North Dakota mineral ownership through deeds, reservations, leases, division orders, royalty statements, well history, title questions, and written sale terms. Every offer remains connected to records an owner can examine."
     ],
     [
       "Plain Language Belongs Beside the Paperwork",
@@ -410,7 +211,7 @@
       "The price appears beside the conveyed acreage, depths, products, effective date, retained interests, receivables, title conditions, curative work, payment timing, and closing documents."
     ],
     [
-      "Leave the Family File in Order",
+      "Leave the Closing File in Order",
       "A completed transaction should leave a reviewable deed, tract schedule, settlement record, funding confirmation, tax documents, title correspondence, payor notices, and a clear list of interests retained."
     ]
   ],
