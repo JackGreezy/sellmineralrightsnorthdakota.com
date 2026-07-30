@@ -535,5 +535,13 @@
         "A completed {name} file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence. Save the final signed versions, not only drafts or email summaries. Record when and how the identification notice was delivered and retain the accepted replacement-property description. Keep the mineral-property schedules and valuation assumptions that supported the decision at the time. That archive helps the owner, CPA, attorney, and intermediary reconstruct the transaction later without relying on memory, and it makes any post-closing correction or tax-reporting question easier to route to the right record."
       ]
     ]
+  },
+  "slug_ui": {
+    "related_kicker": "Owner ledger",
+    "related_heading": "Carry the Bakken file to the next ledger entry",
+    "related_intro": "Keep the county, tract, spacing unit, wells, statements, decimal, title, and sale objective from {item} visible in these related guides.",
+    "related_action": "Open the North Dakota Owner Ledger",
+    "faq_kicker": "Bakken owner desk",
+    "faq_intro": "Each answer helps reconcile the ownership and payment record before a North Dakota mineral interest is held, divided, or sold."
   }
 }
