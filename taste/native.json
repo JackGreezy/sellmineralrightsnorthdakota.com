@@ -1,0 +1,32 @@
+{
+  "classes": {
+    "#contact-form button[type=submit]": "primary-btn",
+    "header a.rr-header-cta": "primary-btn"
+  },
+  "remove": {
+    "all": [
+      ".anlagenuebersicht-section .cell-wrapper-flex .p-text-wrapper",
+      "body:has(.anlagenuebersicht-section) section.head-stage-section + section.section-single-image .single-image-content .p-text-wrapper",
+      ".p-text-wrapper.margin-bottom-40px:has(> p.p1-large-bold:-soup-contains(\"is a direct mineral buyer, not a law firm\"))"
+    ],
+    "slug": [
+      ".page-wrapper > section.section-single-image"
+    ]
+  },
+  "slug_order": [
+    "faq",
+    "related",
+    "cta"
+  ],
+  "slug_mounts": {
+    "related": "div.page-wrapper",
+    "cta": "div.page-wrapper"
+  },
+  "templates": {
+    "faq": "<div class=\"section-benefits\"><div class=\"single-image-titel-wrapper-red\"><p class=\"p1-large-regular red\">{kicker}</p></div><div class=\"section-headline-wrapper\"><h2 class=\"h2\">{heading}</h2></div><div class=\"cta-icon-grid\">{items}</div></div>",
+    "faq_item": "<div class=\"cta-icon-content-white\"><div class=\"cta-icon-text-wrapper\"><h3 class=\"h3\">{q}</h3><div class=\"p1-large-regular\">{a}</div></div></div>",
+    "related": "<section class=\"portfolio\"><div class=\"padding-side normal\"><div class=\"main-container\"><div class=\"section-headline-wrapper\"><h2 class=\"h2\">{heading}</h2></div><div class=\"collection-list-anlagenportfolio\">{items}</div><div class=\"button-wrapper flex-center\"><a class=\"primary-btn w-inline-block\" href=\"{all_href}\"><div class=\"div-block btn-flex\"><div class=\"btn-text\">{all_label}</div></div></a></div></div></div></section>",
+    "related_item": "<div class=\"anlagen-wrapper-portfolio\"><div class=\"anlagen-content-wrapper\"><div class=\"h-text-wrapper\"><h3 class=\"h3\">{name}</h3></div><div class=\"content-line gb-100\"></div><p class=\"p2-default-regular\">{teaser}</p></div><div class=\"anlagen-link\"><a class=\"anlagen-btn w-inline-block\" href=\"{href}\"><div class=\"btn-text\">View details</div></a></div></div>",
+    "cta": "<section class=\"section-cta-text\"><div class=\"padding-side normal\"><div class=\"main-container\"><div class=\"cta-content-wrapper\"><div class=\"cta-text-wrapper\"><h2 class=\"h2 white center\">{title}</h2><p class=\"p1-large-regular gb-200\">{intro}</p></div><div class=\"button-wrapper flex-center\"><a class=\"secondary-btn w-inline-block\" href=\"{contact_href}\"><div class=\"div-block btn-flex\"><div class=\"btn-text\">{label}</div></div></a><a class=\"primary-btn-white w-inline-block\" href=\"{tel_href}\"><div class=\"btn-text-on-white\">Call {phone}</div></a></div></div></div></div></section>"
+  }
+}

@@ -65,23 +65,12 @@
     ["\\bmine\\b", "your mineral interest"],
     ["\\bmy\\b", "your"],
     ["\\bme\\b", "you"],
+    ["\\bI was\\b", "you were"],
+    ["\\bI am\\b", "you are"],
     ["\\bI\\b", "you"],
     ["\\bwe ever signed as a family\\b", "recorded in a western North Dakota family file"],
     ["\\bOur family\\b", "A western North Dakota family"],
-    ["\\bour own home quarter\\b", "its home quarter"],
-    ["(^|<p>|[.!?]\\s+)We['’]re\\b", "\\1The North Dakota review specialists are"],
-    ["(^|<p>|[.!?]\\s+)We['’]ve\\b", "\\1The North Dakota review specialists have"],
-    ["(^|<p>|[.!?]\\s+)We['’]ll\\b", "\\1The North Dakota review specialists will"],
-    ["(^|<p>|[.!?]\\s+)We['’]d\\b", "\\1The North Dakota review specialists would"],
-    ["(^|<p>|[.!?]\\s+)We\\b", "\\1The North Dakota review specialists"],
-    ["(^|<p>|[.!?]\\s+)Our\\b", "\\1The review desk's"],
-    ["\\bWe['’]re\\b", "the North Dakota review specialists are"],
-    ["\\bWe['’]ve\\b", "the North Dakota review specialists have"],
-    ["\\bWe['’]ll\\b", "the North Dakota review specialists will"],
-    ["\\bWe['’]d\\b", "the North Dakota review specialists would"],
-    ["\\bwe\\b", "the North Dakota review specialists"],
-    ["\\bour\\b", "the review desk's"],
-    ["\\bus\\b", "the review desk"]
+    ["\\bour own home quarter\\b", "its home quarter"]
   ],
   "heroes": [
     [
@@ -136,7 +125,7 @@
     "home_resources_title": "Owner Guides Built Around the Next Record",
     "home_resources_body": "A useful guide should point to a deed, statement, division order, lease clause, production record, tax question, or offer term that can be checked before a decision.",
     "hero_cta": "Request a Mineral Review",
-    "index_tagline": "Use the {title} owner ledger to identify the controlling record, the paid interest, the Bakken evidence, the open title question, and the next decision before signing.",
+    "index_tagline": "Identify the controlling record, the paid interest, the open title question, and the next decision before signing.",
     "index_step_one_title": "Name the Property",
     "index_step_one_body": "County, legal description, recorded owner, net mineral acres, depths, products, and tract schedule establish the file.",
     "index_step_two_title": "Reconcile the Payments",
@@ -156,7 +145,7 @@
     "index_standard_five_body": "The complete conveyance and closing conditions sit beside price.",
     "index_standard_six_title": "Questions routed",
     "index_standard_six_body": "Legal, tax, title, appraisal, and exchange issues go to qualified professionals.",
-    "detail_cta_title": "Put This Topic on the Owner Ledger",
+    "detail_cta_title": "Interested in a North Dakota mineral review?",
     "detail_cta_body": "Share the county, interest type, producing status, available statements, and the question the review needs to answer. Bank credentials, government identification numbers, and original documents should not be submitted through the website.",
     "detail_followup": "A useful next step is to connect the page topic to the exact county, tract, recorded interest, paid decimal, wells, documents, and written terms in the owner's file.",
     "detail_standard_title": "Six Checks Before the Mineral Decision",
@@ -245,41 +234,41 @@
     "situations": [
       [
         "Define the owner's decision first",
-        "{name} can change authority, documents, timing, family coordination, tax questions, title work, retained interests, and the type of certainty needed before closing."
+        "The situation can change authority, documents, timing, family coordination, tax questions, title work, retained interests, and the type of certainty needed before closing."
       ],
       [
         "Keep the open questions visible",
-        "For {name}, unresolved ownership, missing statements, unknown units, title conflicts, offer conditions, and timing concerns stay beside the part of the transaction they could change."
+        "In this situation, unresolved ownership, missing statements, unknown units, title conflicts, offer conditions, and timing concerns stay beside the part of the transaction they could change."
       ]
     ],
     "interest-types": [
       [
         "Trace the recorded interest",
-        "{name} should be followed through deeds, reservations, leases, assignments, units, division orders, statements, products, depths, and cost obligations before a sale is quoted."
+        "The interest should be followed through deeds, reservations, leases, assignments, units, division orders, statements, products, depths, and cost obligations before a sale is quoted."
       ],
       [
         "Attach a complete tract schedule",
-        "The {name} schedule identifies counties, legal descriptions, fractions, depths, products, formations, wells, units, effective dates, receivables, reservations, and burdens included in the transaction."
+        "The tract schedule identifies counties, legal descriptions, fractions, depths, products, formations, wells, units, effective dates, receivables, reservations, and burdens included in the transaction."
       ]
     ],
     "basins": [
       [
         "Use Bakken evidence without losing the tract",
-        "{name} informs well design, products, decline, spacing, operator activity, development pace, deductions, and comparable transactions. It does not replace the property file."
+        "Basin context informs well design, products, decline, spacing, operator activity, development pace, deductions, and comparable transactions. It does not replace the property file."
       ],
       [
         "Separate current checks from possible inventory",
-        "Producing wells, intermittent wells, behind-pipe intervals, permits, offsets, and undeveloped acreage in {name} carry different evidence, timing, and risk."
+        "Producing wells, intermittent wells, behind-pipe intervals, permits, offsets, and undeveloped acreage in the basin carry different evidence, timing, and risk."
       ]
     ],
     "locations": [
       [
         "Begin with the local record trail",
-        "A mineral review in {name} starts with the recording office, legal description, deed chain, reservations, lease, units, division orders, payor records, statements, and state well data."
+        "A local mineral review starts with the recording office, legal description, deed chain, reservations, lease, units, division orders, payor records, statements, and state well data."
       ],
       [
         "Route local questions correctly",
-        "Probate, marital property, dormant-mineral rules, pooling, recording, transfer, regulatory filings, and payor notices can differ in {name}. Qualified advisers should review those questions."
+        "Probate, marital property, dormant-mineral rules, pooling, recording, transfer, regulatory filings, and payor notices can differ from one county to the next. Qualified advisers should review those questions."
       ],
       [
         "Keep the local review tract-specific",
@@ -289,64 +278,63 @@
     "resources": [
       [
         "Turn the guide into a record question",
-        "{name} should help locate a document, test a paid decimal, separate observed checks from future potential, compare written terms, or prepare a precise question for an adviser."
+        "Each owner guide should help locate a document, test a paid decimal, separate observed checks from future potential, compare written terms, or prepare a precise question for an adviser."
       ],
       [
         "Keep the source and date attached",
-        "Every figure used with {name} should retain its source, observation date, unit, period, property, adjustment, and fact-or-scenario label."
+        "Every figure used in the review should retain its source, observation date, unit, period, property, adjustment, and fact-or-scenario label."
       ]
     ],
     "investing": [
       [
         "Reconcile production to paid royalties",
-        "For {name}, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received. Start with the owner statement rather than a basin-wide multiple. Match each payor line to the well, unit, product, sales month, decimal, and net amount, then compare that record with North Dakota production data and the controlling division order. Separate ordinary decline from shut-in time, workovers, corrected statements, and suspense releases. A useful income schedule explains why a check changed and identifies which missing record would confirm the explanation."
+        "For the package under review, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received. Start with the owner statement rather than a basin-wide multiple. Match each payor line to the well, unit, product, sales month, decimal, and net amount, then compare that record with North Dakota production data and the controlling division order. Separate ordinary decline from shut-in time, workovers, corrected statements, and suspense releases. A useful income schedule explains why a check changed and identifies which missing record would confirm the explanation."
       ],
       [
         "Test one driver at a time",
-        "Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for {name} before scenarios are combined. Changing every input at once can make an attractive forecast impossible to audit. Hold the paid decimal and well list constant while testing commodity price, then hold price constant while testing decline or downtime. Keep existing producing wells apart from permits, offsets, and undeveloped inventory. The resulting range should show which assumption drives the outcome, which evidence supports it, and how quickly the conclusion changes when Bakken activity or owner records change."
+        "Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately before scenarios are combined. Changing every input at once can make an attractive forecast impossible to audit. Hold the paid decimal and well list constant while testing commodity price, then hold price constant while testing decline or downtime. Keep existing producing wells apart from permits, offsets, and undeveloped inventory. The resulting range should show which assumption drives the outcome, which evidence supports it, and how quickly the conclusion changes when Bakken activity or owner records change."
       ],
       [
         "State the forecast horizon",
-        "A {name} review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible. The first period should tie directly to statements and reported production. Later periods should identify the decline convention, price deck, deduction treatment, and date each assumption was observed. Possible future wells belong in a separate development schedule with operator, spacing, permit, offset, and timing evidence. That separation prevents uncommitted inventory from being presented as current income and gives the owner a clear path for updating the analysis after a new statement or regulatory filing arrives."
+        "A sound review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, and terminal value remain visible. The first period should tie directly to statements and reported production. Later periods should identify the decline convention, price deck, deduction treatment, and date each assumption was observed. Possible future wells belong in a separate development schedule with operator, spacing, permit, offset, and timing evidence. That separation prevents uncommitted inventory from being presented as current income and gives the owner a clear path for updating the analysis after a new statement or regulatory filing arrives."
       ],
       [
         "Show the downside case",
-        "The downside schedule for {name} can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability. It should not be a vague percentage haircut. Record the changed assumption, the reason for the change, and the line of the owner ledger it affects. For a concentrated North Dakota package, also test an operator delay, a single high-volume well going offline, and a title reserve that postpones payment. Comparing that case with the observed case helps an owner understand whether an offer reflects ordinary uncertainty or depends on an unusually pessimistic view of the property."
+        "The downside schedule can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability. It should not be a vague percentage haircut. Record the changed assumption, the reason for the change, and the line of the owner ledger it affects. For a concentrated North Dakota package, also test an operator delay, a single high-volume well going offline, and a title reserve that postpones payment. Comparing that case with the observed case helps an owner understand whether an offer reflects ordinary uncertainty or depends on an unusually pessimistic view of the property."
       ],
       [
         "Preserve the update path",
-        "A {name} file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates. Give every figure a source and every scenario an as-of date. Keep the legal-description schedule beside the well schedule so a later analyst can see which tracts and depths were included. Preserve unresolved questions instead of burying them inside a single value. When a new royalty statement, permit, order, or title document arrives, the owner should be able to replace one input and see the effect without rebuilding the entire property file from memory."
+        "An investment file is easier to refresh when it retains deeds, leases, division orders, statements, production records, operator notices, tax records, well lists, assumptions, and observation dates. Give every figure a source and every scenario an as-of date. Keep the legal-description schedule beside the well schedule so a later analyst can see which tracts and depths were included. Preserve unresolved questions instead of burying them inside a single value. When a new royalty statement, permit, order, or title document arrives, the owner should be able to replace one input and see the effect without rebuilding the entire property file from memory."
       ]
     ],
     "exchange-1031": [
       [
         "Put exchange planning before closing",
-        "{name} begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing. The working file should show the contemplated mineral sale, current vesting, expected proceeds, debt, closing date, and unresolved eligibility questions while there is still time to change the transaction sequence. Do not rely on a purchase offer or title conversation as tax guidance. The mineral evaluation can support property economics, but the intermediary and advisers must establish the exchange structure, permitted flow of funds, taxpayer consistency, and documents required before the relinquished interest closes."
+        "Exchange planning begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing. The working file should show the contemplated mineral sale, current vesting, expected proceeds, debt, closing date, and unresolved eligibility questions while there is still time to change the transaction sequence. Do not rely on a purchase offer or title conversation as tax guidance. The mineral evaluation can support property economics, but the intermediary and advisers must establish the exchange structure, permitted flow of funds, taxpayer consistency, and documents required before the relinquished interest closes."
       ],
       [
         "Write deadlines as calendar dates",
-        "Identification and completion periods for {name} should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks. Start the calendar from the actual relinquished-property closing rather than an estimated month. Record weekends and holidays without assuming they extend a federal deadline. Assign an owner to every task and keep backup replacement choices visible before identification. North Dakota mineral title work can consume time, so deeds, reservations, legal descriptions, and curative questions should enter the calendar early. A dated checklist is more useful than a summary that merely repeats the 45-day and 180-day numbers."
+        "Identification and completion periods should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks. Start the calendar from the actual relinquished-property closing rather than an estimated month. Record weekends and holidays without assuming they extend a federal deadline. Assign an owner to every task and keep backup replacement choices visible before identification. North Dakota mineral title work can consume time, so deeds, reservations, legal descriptions, and curative questions should enter the calendar early. A dated checklist is more useful than a summary that merely repeats the 45-day and 180-day numbers."
       ],
       [
         "Confirm taxpayer and vesting",
-        "The {name} file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review. Compare the deed and contract names before signing, especially when minerals passed through an estate, trust, family entity, or marital transfer. List any proposed change in ownership separately and send it to the qualified intermediary and tax counsel rather than assuming it is harmless. The property schedule should also identify tracts, depths, products, retained interests, and exclusions so the advisers know exactly what is being sold and what replacement-property value and debt questions remain."
+        "The exchange file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified review. Compare the deed and contract names before signing, especially when minerals passed through an estate, trust, family entity, or marital transfer. List any proposed change in ownership separately and send it to the qualified intermediary and tax counsel rather than assuming it is harmless. The property schedule should also identify tracts, depths, products, retained interests, and exclusions so the advisers know exactly what is being sold and what replacement-property value and debt questions remain."
       ],
       [
         "Keep valuation and tax roles separate",
-        "The {name} owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds. Use the ledger to compare documented income, title condition, concentration, development evidence, price assumptions, and marketability across candidate properties. Send eligibility, related-party, vesting, debt, boot, identification, and timing questions to the appropriate adviser. Keeping those roles distinct prevents a valuation conclusion from being mistaken for an exchange opinion and creates a cleaner record of who supplied each instruction before money or title moves."
+        "The owner ledger can compare property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as intermediary, or direct closing funds. Use the ledger to compare documented income, title condition, concentration, development evidence, price assumptions, and marketability across candidate properties. Send eligibility, related-party, vesting, debt, boot, identification, and timing questions to the appropriate adviser. Keeping those roles distinct prevents a valuation conclusion from being mistaken for an exchange opinion and creates a cleaner record of who supplied each instruction before money or title moves."
       ],
       [
         "Archive the exchange evidence",
-        "A completed {name} file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence. Save the final signed versions, not only drafts or email summaries. Record when and how the identification notice was delivered and retain the accepted replacement-property description. Keep the mineral-property schedules and valuation assumptions that supported the decision at the time. That archive helps the owner, CPA, attorney, and intermediary reconstruct the transaction later without relying on memory, and it makes any post-closing correction or tax-reporting question easier to route to the right record."
+        "A completed exchange file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary records, title documents, financing, value support, and adviser correspondence. Save the final signed versions, not only drafts or email summaries. Record when and how the identification notice was delivered and retain the accepted replacement-property description. Keep the mineral-property schedules and valuation assumptions that supported the decision at the time. That archive helps the owner, CPA, attorney, and intermediary reconstruct the transaction later without relying on memory, and it makes any post-closing correction or tax-reporting question easier to route to the right record."
       ]
     ]
   },
   "slug_ui": {
     "related_kicker": "Owner ledger",
-    "related_heading": "Carry the Bakken file to the next ledger entry",
+    "related_heading": "Related North Dakota guides",
     "related_intro": "Keep the county, tract, spacing unit, wells, statements, decimal, title, and sale objective from {item} visible in these related guides.",
-    "related_action": "Open the North Dakota Owner Ledger",
-    "faq_kicker": "Bakken owner desk",
+    "faq_kicker": "Owner questions",
     "faq_intro": "Each answer helps reconcile the ownership and payment record before a North Dakota mineral interest is held, divided, or sold."
   }
 }
