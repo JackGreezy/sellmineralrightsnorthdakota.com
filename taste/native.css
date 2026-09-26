@@ -7,6 +7,16 @@
 html body a.primary-btn .btn-text,html body a.secondary-btn .btn-text{color:#fff!important}
 html body [data-rr-taste-related] a.primary-btn .btn-flex::after,html body [data-rr-taste-cta] a.secondary-btn .btn-flex::after,html body [data-rr-taste-related] a.anlagen-btn::after,html body [data-rr-taste-cta] a.primary-btn-white::after,html body #contact-form>button[type=submit]::after{content:""!important;display:inline-block!important;width:6px!important;height:6px!important;margin-left:10px!important;border-top:1.5px solid currentColor!important;border-right:1.5px solid currentColor!important;transform:rotate(45deg)!important}
 
+/* ---------- Carousel arrows (donor square teal chevrons; no live carousel instance found on this build, kept for spec-compliance) ---------- */
+html body [data-rr-carousel] .rr-carousel-control,html body .rr-agency-control{display:flex!important;align-items:center!important;justify-content:center!important;width:40px!important;height:40px!important;margin:0!important;padding:0!important;border:1px solid #007a70!important;border-radius:0!important;background:#fff!important;color:#007a70!important;font-size:0!important;box-shadow:none!important;opacity:1!important}
+html body [data-rr-carousel] .rr-carousel-control::before,html body .rr-agency-control::before{content:""!important;display:block!important;width:7px!important;height:7px!important;margin:0!important;border:0!important;border-top:1.5px solid #007a70!important;border-right:1.5px solid #007a70!important}
+html body [data-rr-carousel] .rr-carousel-control--prev::before,html body .rr-agency-control--prev::before{transform:rotate(-135deg)!important;margin-left:3px!important}
+html body [data-rr-carousel] .rr-carousel-control--next::before,html body .rr-agency-control--next::before{transform:rotate(45deg)!important;margin-right:3px!important}
+html body [data-rr-carousel] .rr-carousel-control:hover,html body .rr-agency-control:hover{background:#007a70!important}
+html body [data-rr-carousel] .rr-carousel-control:hover::before,html body .rr-agency-control:hover::before{border-color:#fff!important}
+html body [data-rr-carousel] .rr-carousel-control:disabled,html body .rr-agency-control[aria-disabled="true"]{border-color:#e1ebeb!important;opacity:.5!important;cursor:default!important}
+html body [data-rr-carousel] .rr-carousel-control:disabled::before,html body .rr-agency-control[aria-disabled="true"]::before{border-color:#466e69!important}
+
 /* ---------- Header ---------- */
 html body header.nav .navbar{background:#fff!important;box-shadow:0 1px 0 #e1ebeb!important}
 html body header.nav a.rr-header-cta.primary-btn{display:inline-flex!important;align-items:center!important;max-width:none!important;min-height:0!important;padding:12px 18px!important;border:1px solid #007a70!important;border-radius:0!important;background:#007a70!important;color:#fff!important;font:600 14px/1.2 "Inter 18 Pt",Arial,sans-serif!important;letter-spacing:0!important;text-transform:none!important;text-decoration:none!important;box-shadow:none!important;white-space:nowrap!important}

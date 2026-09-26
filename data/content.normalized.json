@@ -10,7 +10,7 @@
  },
  "taxonomies": {
   "locations": {
-   "title": "Locations",
+   "title": "North Dakota Counties and Towns",
    "route": "/locations",
    "items": [
     {
@@ -202,7 +202,7 @@
      "sections": [
       {
        "title": "",
-       "html": "<p>McKenzie County sits at the center of the Bakken, and if your family still holds minerals here, chances are nobody in the household has lived on that land in decades.</p><p>Our own place was north of Watford City, on the McKenzie County side of the river, before the boom ever started. When the rigs came in around 2010, your grandmother was still getting a quarterly check from an old lease her father signed in the 1950s for maybe a few dollars an acre. Nobody expected it to matter again. Then it did, and the mail started arriving from operators, landmen, and buyers she'd never heard of. That confusion is the reason we do this work the way we do it now.</p><p>McKenzie County produces more Bakken oil than any other county in the state, most years by a wide margin, and it also has one of the most tangled ownership pictures in North Dakota because so much of the acreage sits inside or adjacent to the Fort Berthold Reservation. If you inherited a fraction of an interest here, whether it's fee minerals or a trust allotment, we can walk you through what it's actually worth before you sign anything.</p>"
+       "html": "<p>McKenzie County sits at the center of the Bakken, and if your family still holds minerals here, chances are nobody in the household has lived on that land in decades.</p><p>Plenty of McKenzie County families held ground north of Watford City, on the county side of the river, long before the boom ever started. When the rigs came in around 2010, quarterly checks started showing up again on old leases signed in the 1950s for maybe a few dollars an acre. Nobody expected it to matter again. Then it did, and the mail started arriving from operators, landmen, and buyers nobody recognized. That confusion is the reason this review process exists.</p><p>McKenzie County produces more Bakken oil than any other county in the state, most years by a wide margin, and it also has one of the most tangled ownership pictures in North Dakota because so much of the acreage sits inside or adjacent to the Fort Berthold Reservation. If you inherited a fraction of an interest here, whether it's fee minerals or a trust allotment, we can walk you through what it's actually worth before you sign anything.</p>"
       },
       {
        "title": "Where the Bakken runs deepest in McKenzie County",
@@ -4579,10 +4579,11 @@
      "imageAlt": "",
      "related": []
     }
-   ]
+   ],
+   "meta": "County lines, spacing units, and operator activity vary block by block across the Bakken and Three Forks. Find the county or town tied to your family's mineral file."
   },
   "situations": {
-   "title": "Situations",
+   "title": "Selling Situations",
    "route": "/situations",
    "items": [
     {
@@ -4592,7 +4593,7 @@
      "sections": [
       {
        "title": "",
-       "html": "<p>When your dad passed, the mineral deed showed up in a folder with the cattle brand registration and the old land abstract, and none of us kids knew quite what we'd been handed until we sat down with a statement.</p><p>Inheriting mineral rights in North Dakota usually means inheriting a folder, not a phone call. There's a deed somewhere, maybe a division order, maybe a handful of royalty statements that arrived in the mail while the estate was still being settled, and a decision that nobody explained how to make. Do you keep the interest and let it generate income the way it did for the person who left it to you, or do you sell and put the value to work somewhere else.</p><p>We've been on both sides of that folder, once as heirs ourselves and many times since talking with families working through the same question. There's no universally right answer, but there is a right way to think it through.</p>"
+       "html": "<p>When a parent passes, the mineral deed often shows up in a folder with the cattle brand registration and the old land abstract, and the heirs rarely know quite what they've been handed until someone sits down with a statement.</p><p>Inheriting mineral rights in North Dakota usually means inheriting a folder, not a phone call. There's a deed somewhere, maybe a division order, maybe a handful of royalty statements that arrived in the mail while the estate was still being settled, and a decision that nobody explained how to make. Keep the interest and let it generate income the way it did for the person who left it to you, or sell it and put the value to work somewhere else?</p><p>We've been on both sides of that folder, once as heirs ourselves and many times since talking with families working through the same question. There's no universally right answer, but there is a right way to think it through.</p>"
       },
       {
        "title": "What you actually inherited",
@@ -4994,7 +4995,7 @@
      "sections": [
       {
        "title": "",
-       "html": "<p>We put our own minerals into a family trust for exactly the reason most people do, to keep the ranch and the royalty out of probate, and then a decade later you were the one signing as trustee to sell part of it.</p><p>Mineral interests held in trust are common across North Dakota, whether the trust was set up as part of family estate planning to avoid probate, established for a minor or a beneficiary who isn't ready to manage the asset directly, or, in and around the Fort Berthold Indian Reservation, held through mechanisms involving the Bureau of Indian Affairs for enrolled members of the MHA Nation. Each of these trust structures comes with its own rules about who can act, what authority a trustee actually has, and what documentation a buyer or title company will need before a sale can close.</p><p>As trustee, you're not making this decision for yourself, you're making it under the terms of the trust document and, often, with a duty to account to beneficiaries for how you handled it.</p>"
+       "html": "<p>Families put minerals into a trust for exactly the reason most people do, to keep the ranch and the royalty out of probate, and a decade later it's often an adult child signing as trustee to sell part of it.</p><p>Mineral interests held in trust are common across North Dakota, whether the trust was set up as part of family estate planning to avoid probate, established for a minor or a beneficiary who isn't ready to manage the asset directly, or, in and around the Fort Berthold Indian Reservation, held through mechanisms involving the Bureau of Indian Affairs for enrolled members of the MHA Nation. Each of these trust structures comes with its own rules about who can act, what authority a trustee actually has, and what documentation a buyer or title company will need before a sale can close.</p><p>As trustee, you're not making this decision for yourself, you're making it under the terms of the trust document and, often, with a duty to account to beneficiaries for how you handled it.</p>"
       },
       {
        "title": "What the trust document controls",
@@ -5052,7 +5053,7 @@
      "sections": [
       {
        "title": "",
-       "html": "<p>A North Dakota mineral owner's mother sold part of the family interest the year your dad needed care nobody had budgeted for, and you remember how much simpler that decision got once we stopped treating the minerals like something sacred and started treating them like an asset.</p><p>Sometimes the reason to sell isn't about the well or the play at all, it's about what's happening in your life right now. Medical bills that outpaced insurance, a retirement that needs a firmer financial floor under it, debt that's costing more in interest than the minerals are earning in royalty, all of these are real, common reasons North Dakota families sell mineral interests, and none of them require you to justify the decision to anyone.</p><p>A royalty check arrives on the operator's schedule, not yours, and it can be small, delayed, or unpredictable in exactly the months you need cash most. Selling converts that slow, uneven trickle into a lump sum you control on your own timeline.</p>"
+       "html": "<p>One North Dakota family sold part of its mineral interest the year a parent needed care nobody had budgeted for, and the decision got a lot simpler once they stopped treating the minerals like something sacred and started treating them like an asset.</p><p>Sometimes the reason to sell isn't about the well or the play at all, it's about what's happening in your life right now. Medical bills that outpaced insurance, a retirement that needs a firmer financial floor under it, debt that's costing more in interest than the minerals are earning in royalty, all of these are real, common reasons North Dakota families sell mineral interests, and none of them require you to justify the decision to anyone.</p><p>A royalty check arrives on the operator's schedule, not yours, and it can be small, delayed, or unpredictable in exactly the months you need cash most. Selling converts that slow, uneven trickle into a lump sum you control on your own timeline.</p>"
       },
       {
        "title": "Why royalty income doesn't always solve a cash problem",
@@ -5157,10 +5158,11 @@
      "imageAlt": "",
      "related": []
     }
-   ]
+   ],
+   "meta": "Inheritance, divorce, probate, an unsolicited letter, or a quiet nonproducing tract each call for a different starting point. Find the situation closest to what's actually happening with the interest."
   },
   "interest-types": {
-   "title": "Interest Types",
+   "title": "Mineral and Royalty Interest Types",
    "route": "/interest-types",
    "items": [
     {
@@ -5170,7 +5172,7 @@
      "sections": [
       {
        "title": "",
-       "html": "<p>Every deed recorded in a western North Dakota family file had two very different kinds of ownership tangled up in one piece of paper, the ground a western North Dakota owner grazed cattle on, and the rock underneath it that nobody could see.</p><p>Mineral rights are ownership of what lies beneath a tract of land, oil, gas, and other minerals, separate from ownership of the surface itself. In North Dakota, like most oil and gas producing states, the surface and mineral estates can be severed, meaning one person or entity owns the ground you'd walk on while a different person entirely owns the oil and gas under it. If your family homesteaded ground and later sold the surface while keeping the minerals, or the reverse, you're living the practical result of that severance every time a royalty statement or a lease offer arrives.</p><p>Owning mineral rights means you own real property, with the same weight as a deed to a house, even though what you own can't be seen, walked on, or fenced.</p>"
+       "html": "<p>Every deed in a western North Dakota family file carries two very different kinds of ownership tangled up in one piece of paper: the ground the cattle grazed on, and the rock underneath it that nobody could see.</p><p>Mineral rights are ownership of what lies beneath a tract of land, oil, gas, and other minerals, separate from ownership of the surface itself. In North Dakota, like most oil and gas producing states, the surface and mineral estates can be severed, meaning one person or entity owns the ground you'd walk on while a different person entirely owns the oil and gas under it. If your family homesteaded ground and later sold the surface while keeping the minerals, or the reverse, you're living the practical result of that severance every time a royalty statement or a lease offer arrives.</p><p>Owning mineral rights means you own real property, with the same weight as a deed to a house, even though what you own can't be seen, walked on, or fenced.</p>"
       },
       {
        "title": "What owning the mineral estate actually includes",
@@ -5487,10 +5489,11 @@
      "imageAlt": "",
      "related": []
     }
-   ]
+   ],
+   "meta": "Mineral rights, royalty interests, overriding royalties, working interests, and non-participating royalties carry different economics and different burdens. Confirm which one is actually on the table before any number gets discussed."
   },
   "basins": {
-   "title": "Basins",
+   "title": "North Dakota Producing Basins",
    "route": "/basins",
    "items": [
     {
@@ -5500,7 +5503,7 @@
      "sections": [
       {
        "title": "",
-       "html": "<p>A western North Dakota owner ran cattle over ground that turned out to be sitting on the Bakken, and by the time your dad was managing the checkbook, half our neighbors could recite formation names like scripture.</p><p>The Bakken is a shale formation stacked between older marine rock, and it runs under most of the Williston Basin in western North Dakota, eastern Montana, and up into Saskatchewan. Below it sits the Three Forks, a second productive zone that operators now drill almost as often as the Bakken itself. If your family's minerals sit in McKenzie, Mountrail, Dunn, Williams, Burke, Divide, or McLean County, there is a real chance both zones have been tested, leased, or drilled under your acreage at some point since the horizontal boom took off in the mid-2000s.</p><p>We sold our own minerals out of a family trust a decade back, after years of watching a royalty check swing with oil prices and rail differentials neither of us controlled. What we learned then still holds: understanding the play matters more than any single number on an offer letter.</p>"
+       "html": "<p>Ranching families in this part of the state ran cattle over ground that turned out to be sitting on the Bakken, and within a few years of the boom, half the county could recite formation names like scripture.</p><p>The Bakken is a shale formation stacked between older marine rock, and it runs under most of the Williston Basin in western North Dakota, eastern Montana, and up into Saskatchewan. Below it sits the Three Forks, a second productive zone that operators now drill almost as often as the Bakken itself. If your family's minerals sit in McKenzie, Mountrail, Dunn, Williams, Burke, Divide, or McLean County, there is a real chance both zones have been tested, leased, or drilled under your acreage at some point since the horizontal boom took off in the mid-2000s.</p><p>We sold our own minerals out of a family trust a decade back, after years of watching a royalty check swing with oil prices and rail differentials neither of us controlled. What we learned then still holds: understanding the play matters more than any single number on an offer letter.</p>"
       },
       {
        "title": "How the Bakken and Three Forks actually produce",
@@ -5547,10 +5550,11 @@
      "imageAlt": "",
      "related": []
     }
-   ]
+   ],
+   "meta": "Every North Dakota mineral value question eventually comes back to the basin. Start with the Bakken and Three Forks well history tied to your county before comparing any offer."
   },
   "resources": {
-   "title": "Resources",
+   "title": "Owner Resources",
    "route": "/resources",
    "items": [
     {
@@ -5684,7 +5688,7 @@
      "sections": [
       {
        "title": "",
-       "html": "<p>A North Dakota royalty statement can run several pages of tiny numbers when you own interests across multiple wells, and most owners have never had anyone walk them through what it actually says.</p><p>The first multi-well statement you ever tried to read looked like a spreadsheet someone forgot to format for humans. Rows and rows of well names, decimal interests, deduction codes, all crammed onto legal-size paper. It took you an evening with your dad and a calculator to understand it wasn't complicated, it was just dense. Once you know what each column means, it reads a lot faster.</p>"
+       "html": "<p>A North Dakota royalty statement can run several pages of tiny numbers when you own interests across multiple wells, and most owners have never had anyone walk them through what it actually says.</p><p>A first multi-well statement usually looks like a spreadsheet nobody formatted for humans. Rows and rows of well names, decimal interests, deduction codes, all crammed onto legal-size paper. It isn't complicated once someone walks through it with a calculator, it's just dense. Once you know what each column means, it reads a lot faster.</p>"
       },
       {
        "title": "The basics: what each line represents",
@@ -5804,7 +5808,7 @@
      "sections": [
       {
        "title": "",
-       "html": "<p>Before anyone can write a real offer on your North Dakota minerals, they need to see paper, and knowing what to gather ahead of time saves weeks off the process.</p><p>When we sold a piece of our own family's minerals a few years back, the slowest part wasn't the negotiating, it was hunting down paperwork that had been stuffed in three different drawers across two houses. Some of it was in your late aunt's handwriting from a 1970s lease renewal. Some of it we had to drive to the courthouse in Watford City to get copies of ourselves. If you gather the right documents up front, a buyer can move fast. If you don't, the whole thing stalls waiting on paper that should have taken a phone call to find.</p>"
+       "html": "<p>Before anyone can write a real offer on your North Dakota minerals, they need to see paper, and knowing what to gather ahead of time saves weeks off the process.</p><p>For most North Dakota mineral sales, the slowest part isn't the negotiating, it's hunting down paperwork stuffed in different drawers across different houses. Old lease renewals turn up in handwriting from decades ago, and some records only exist as courthouse copies in Watford City. Gather the right documents up front and a buyer can move fast. Skip that step and the whole process stalls waiting on paper that should have taken one phone call to find.</p>"
       },
       {
        "title": "The core ownership documents",
@@ -6169,10 +6173,11 @@
      "imageAlt": "",
      "related": []
     }
-   ]
+   ],
+   "meta": "Deeds, division orders, royalty statements, and appraisal methods all shape what a fair North Dakota mineral offer looks like. These guides walk through the paperwork owners actually deal with."
   },
   "investing": {
-   "title": "Investing",
+   "title": "Investing in North Dakota Minerals",
    "route": "/investing",
    "items": [
     {
@@ -6545,10 +6550,11 @@
      "imageAlt": "",
      "related": []
     }
-   ]
+   ],
+   "meta": "Buying producing or non-producing mineral interests is a different asset than buying royalty funds or working interests. These guides walk through decline curves, diversification, and what actually drives long-term value."
   },
   "exchange-1031": {
-   "title": "Exchange 1031",
+   "title": "1031 Exchange Guides for Mineral Owners",
    "route": "/exchange-1031",
    "items": [
     {
@@ -6921,7 +6927,8 @@
      "imageAlt": "",
      "related": []
     }
-   ]
+   ],
+   "meta": "A 1031 exchange into mineral rights runs on the same 45 and 180 day clock as any other like-kind exchange, with its own identification and closing rules for mineral property."
   }
  },
  "warnings": []

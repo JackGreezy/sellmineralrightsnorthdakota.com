@@ -182,7 +182,7 @@
     "footer_tagline": "County named. Deed traced. Decimal reconciled. Wells read. Terms visible. Family file kept clean.",
     "privacy": "Sell Mineral Rights North Dakota uses submitted contact, ownership, property, production, statement, lease, title, offer, and timing information only to answer an inquiry and evaluate requested next steps. Submitted personal information is not sold. Bank credentials, government identification numbers, and original documents should not be submitted through this website.",
     "terms": "This website provides general educational and transaction-preparation information, not legal, title, tax, accounting, investment, engineering, reserve, appraisal, brokerage, exchange, or fiduciary advice. Ownership, production, commodity prices, assumptions, market evidence, offers, title findings, and closing amounts can change. Qualified professionals should review decisions involving title, estates, taxes, exchanges, investments, appraisals, or transfers.",
-    "nf_title": "That North Dakota Record Is Not on This Page",
+    "nf_title": "That North Dakota Record Doesn't Exist Here",
     "nf_body": "Return to selling situations, interest types, the Bakken guide, North Dakota areas, owner resources, investing, exchange guidance, or the review form.",
     "nf_cta": "Return to the Owner Ledger"
   },
@@ -336,5 +336,23 @@
     "related_intro": "Keep the county, tract, spacing unit, wells, statements, decimal, title, and sale objective from {item} visible in these related guides.",
     "faq_kicker": "Owner questions",
     "faq_intro": "Each answer helps reconcile the ownership and payment record before a North Dakota mineral interest is held, divided, or sold."
+  },
+  "taxonomy_titles": {
+    "basins": "North Dakota Producing Basins",
+    "exchange-1031": "1031 Exchange Guides for Mineral Owners",
+    "interest-types": "Mineral and Royalty Interest Types",
+    "investing": "Investing in North Dakota Minerals",
+    "locations": "North Dakota Counties and Towns",
+    "resources": "Owner Resources",
+    "situations": "Selling Situations"
+  },
+  "taxonomy_intros": {
+    "basins": "Every North Dakota mineral value question eventually comes back to the basin. Start with the Bakken and Three Forks well history tied to your county before comparing any offer.",
+    "exchange-1031": "A 1031 exchange into mineral rights runs on the same 45 and 180 day clock as any other like-kind exchange, with its own identification and closing rules for mineral property.",
+    "interest-types": "Mineral rights, royalty interests, overriding royalties, working interests, and non-participating royalties carry different economics and different burdens. Confirm which one is actually on the table before any number gets discussed.",
+    "investing": "Buying producing or non-producing mineral interests is a different asset than buying royalty funds or working interests. These guides walk through decline curves, diversification, and what actually drives long-term value.",
+    "locations": "County lines, spacing units, and operator activity vary block by block across the Bakken and Three Forks. Find the county or town tied to your family's mineral file.",
+    "resources": "Deeds, division orders, royalty statements, and appraisal methods all shape what a fair North Dakota mineral offer looks like. These guides walk through the paperwork owners actually deal with.",
+    "situations": "Inheritance, divorce, probate, an unsolicited letter, or a quiet nonproducing tract each call for a different starting point. Find the situation closest to what's actually happening with the interest."
   }
 }
