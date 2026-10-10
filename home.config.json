@@ -54,5 +54,443 @@
   "brand_apple_icon": "/brand/apple-touch-icon.png",
   "brand_repair_css_append": "a.rr-approved-logo-link{display:flex!important;align-items:center!important;justify-content:flex-start!important;flex-shrink:0!important;width:min(186px,14vw)!important;max-width:100%!important;height:46px!important;overflow:visible!important;text-decoration:none!important;padding:0!important}\nimg.rr-approved-logo,img.rr-brand-logo{display:block!important;visibility:visible!important;opacity:1!important;width:100%!important;max-width:100%!important;height:100%!important;max-height:46px!important;object-fit:contain!important;object-position:left center!important;filter:none!important}\n@media(max-width:760px){a.rr-approved-logo-link{width:min(168px,46vw)!important;height:40px!important}img.rr-approved-logo{max-height:40px!important}}\n/* rr-logo-call-start */\n.rr-mobile-call{--call-bg:#00645c;--call-fg:#ffffff;--call-radius:6px}\n.rr-mobile-call{display:none!important}\n@media(max-width:760px),(hover:none) and (pointer:coarse){\n body{padding-bottom:calc(84px + env(safe-area-inset-bottom,0px))!important}\n .rr-mobile-call{display:flex!important;position:fixed!important;inset:auto 18px calc(18px + env(safe-area-inset-bottom,0px)) auto!important;width:56px!important;height:56px!important;min-width:56px!important;align-items:center!important;justify-content:center!important;background:var(--call-bg)!important;color:var(--call-fg)!important;border:2px solid var(--call-fg)!important;border-radius:var(--call-radius,6px)!important;box-shadow:0 3px 12px #0004!important;z-index:900!important;text-decoration:none!important;transform:none!important;opacity:1!important;visibility:visible!important}\n .rr-mobile-call:focus-visible{outline:3px solid var(--call-fg)!important;outline-offset:3px!important}\n .rr-mobile-call-icon{display:block!important;width:24px!important;height:24px!important;background:currentColor!important;mask:url('/brand/phone.svg') center/contain no-repeat;-webkit-mask:url('/brand/phone.svg') center/contain no-repeat}\n body:has(input:focus,textarea:focus) .rr-mobile-call{display:none!important}\n}\n/* rr-logo-call-end */\n",
   "brand_runtime_script": "/brand/visibility.js?v=5d6424499781",
-  "brand_logo_variant": ""
+  "brand_logo_variant": "",
+  "location_hero_images": {
+    "/locations/new-town-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/tioga-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/ray-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/mandaree-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/four-bears-village-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/trenton-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/east-fairview-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/halliday-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/epping-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/wildrose-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/springbrook-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/white-earth-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/plaza-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/mcgregor-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/blacktail-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/long-creek-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/fortuna-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/noonan-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/burke-county": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/lignite-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/columbus-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/larson-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/bottineau-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/bottineau-county": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/westhope-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/newburg-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/maxbass-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/souris-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/lansford-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/landa-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/kramer-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/gardena-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/south-heart-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/gladstone-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/sentinel-butte-nd": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/stark-county": {
+      "src": "/ours/locations/regional-alamo-nd.jpg",
+      "alt": "Regional view: Alamo, North Dakota",
+      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "North Dakota",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+    },
+    "/locations/williston-nd": {
+      "src": "/ours/locations/sell-mineral-rights-williston-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Williston, ND"
+    },
+    "/locations/williams-county": {
+      "src": "/ours/locations/sell-mineral-rights-williams-county-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Williams County, ND"
+    },
+    "/locations/watford-city-nd": {
+      "src": "/ours/locations/sell-mineral-rights-watford-city-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Watford City, ND"
+    },
+    "/locations/mckenzie-county": {
+      "src": "/ours/locations/sell-mineral-rights-mckenzie-county-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in McKenzie County, ND"
+    },
+    "/locations/mountrail-county": {
+      "src": "/ours/locations/sell-mineral-rights-mountrail-county-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Mountrail County, ND"
+    },
+    "/locations/stanley-nd": {
+      "src": "/ours/locations/sell-mineral-rights-stanley-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Stanley, ND"
+    },
+    "/locations/killdeer-nd": {
+      "src": "/ours/locations/sell-mineral-rights-killdeer-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Killdeer, ND"
+    },
+    "/locations/dunn-county": {
+      "src": "/ours/locations/sell-mineral-rights-dunn-county-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Dunn County, ND"
+    },
+    "/locations/dickinson-nd": {
+      "src": "/ours/locations/sell-mineral-rights-dickinson-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Dickinson, ND"
+    },
+    "/locations/alexander-nd": {
+      "src": "/ours/locations/sell-mineral-rights-alexander-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Alexander, ND"
+    },
+    "/locations/arnegard-nd": {
+      "src": "/ours/locations/sell-mineral-rights-arnegard-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Arnegard, ND"
+    },
+    "/locations/parshall-nd": {
+      "src": "/ours/locations/sell-mineral-rights-parshall-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Parshall, ND"
+    },
+    "/locations/ross-nd": {
+      "src": "/ours/locations/sell-mineral-rights-ross-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Ross, ND"
+    },
+    "/locations/dunn-center-nd": {
+      "src": "/ours/locations/sell-mineral-rights-dunn-center-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Dunn Center, ND"
+    },
+    "/locations/manning-nd": {
+      "src": "/ours/locations/sell-mineral-rights-manning-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Manning, ND"
+    },
+    "/locations/dodge-nd": {
+      "src": "/ours/locations/sell-mineral-rights-dodge-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Dodge, ND"
+    },
+    "/locations/alamo-nd": {
+      "src": "/ours/locations/sell-mineral-rights-alamo-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Alamo, ND"
+    },
+    "/locations/grenora-nd": {
+      "src": "/ours/locations/sell-mineral-rights-grenora-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Grenora, ND"
+    },
+    "/locations/palermo-nd": {
+      "src": "/ours/locations/sell-mineral-rights-palermo-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Palermo, ND"
+    },
+    "/locations/crosby-nd": {
+      "src": "/ours/locations/sell-mineral-rights-crosby-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Crosby, ND"
+    },
+    "/locations/divide-county": {
+      "src": "/ours/locations/sell-mineral-rights-divide-county-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Divide County, ND"
+    },
+    "/locations/ambrose-nd": {
+      "src": "/ours/locations/sell-mineral-rights-ambrose-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Ambrose, ND"
+    },
+    "/locations/powers-lake-nd": {
+      "src": "/ours/locations/sell-mineral-rights-powers-lake-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Powers Lake, ND"
+    },
+    "/locations/bowbells-nd": {
+      "src": "/ours/locations/sell-mineral-rights-bowbells-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Bowbells, ND"
+    },
+    "/locations/portal-nd": {
+      "src": "/ours/locations/sell-mineral-rights-portal-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Portal, ND"
+    },
+    "/locations/flaxton-nd": {
+      "src": "/ours/locations/sell-mineral-rights-flaxton-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Flaxton, ND"
+    },
+    "/locations/billings-county": {
+      "src": "/ours/locations/sell-mineral-rights-billings-county-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Billings County, ND"
+    },
+    "/locations/antler-nd": {
+      "src": "/ours/locations/sell-mineral-rights-antler-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Antler, ND"
+    },
+    "/locations/willow-city-nd": {
+      "src": "/ours/locations/sell-mineral-rights-willow-city-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Willow City, ND"
+    },
+    "/locations/overly-nd": {
+      "src": "/ours/locations/sell-mineral-rights-overly-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Overly, ND"
+    },
+    "/locations/medora-nd": {
+      "src": "/ours/locations/sell-mineral-rights-medora-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Medora, ND"
+    },
+    "/locations/golden-valley-county": {
+      "src": "/ours/locations/sell-mineral-rights-golden-valley-county-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Golden Valley County, ND"
+    },
+    "/locations/beach-nd": {
+      "src": "/ours/locations/sell-mineral-rights-beach-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Beach, ND"
+    },
+    "/locations/belfield-nd": {
+      "src": "/ours/locations/sell-mineral-rights-belfield-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Belfield, ND"
+    },
+    "/locations/richardton-nd": {
+      "src": "/ours/locations/sell-mineral-rights-richardton-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Richardton, ND"
+    },
+    "/locations/taylor-nd": {
+      "src": "/ours/locations/sell-mineral-rights-taylor-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Taylor, ND"
+    },
+    "/locations/golva-nd": {
+      "src": "/ours/locations/sell-mineral-rights-golva-nd.jpg",
+      "alt": "Local view for Sell Mineral Rights in Golva, ND"
+    }
+  }
 }
