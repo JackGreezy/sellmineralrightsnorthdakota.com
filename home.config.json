@@ -57,292 +57,364 @@
   "brand_logo_variant": "",
   "location_hero_images": {
     "/locations/new-town-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/tioga-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/ray-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/mandaree-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/four-bears-village-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/trenton-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/east-fairview-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/halliday-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/epping-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/wildrose-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/springbrook-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/white-earth-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/plaza-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/mcgregor-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/blacktail-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/long-creek-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/fortuna-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/noonan-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/burke-county": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/lignite-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/columbus-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/larson-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/bottineau-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/bottineau-county": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/westhope-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/newburg-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/maxbass-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/souris-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/lansford-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/landa-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/kramer-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/gardena-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/south-heart-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/gladstone-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/sentinel-butte-nd": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/stark-county": {
-      "src": "/ours/locations/regional-alamo-nd.jpg",
-      "alt": "Regional view: Alamo, North Dakota",
-      "credit": "Alamo, North Dakota. Regional North Dakota photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg\" rel=\"noopener\">In memoriam afiler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-richardton-nd.jpg",
+      "alt": "View of Richardton, North Dakota",
       "regional": true,
       "region": "North Dakota",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAlamo%2C_North_Dakota-13.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Richardton_ND.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional North Dakota view: Richardton, North Dakota."
     },
     "/locations/williston-nd": {
       "src": "/ours/locations/sell-mineral-rights-williston-nd.jpg",
